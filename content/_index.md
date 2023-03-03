@@ -3,9 +3,19 @@ title: 🪴 Simen skriver
 enableToc: false
 ---
 
-Prøver meg på et [[Testnotat]] her for å se hvordan det går.
 
-Host your [[second brain]] and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+
+## Hvor bør du starte?
+### Siste nytt/ferske greier
+
+### Folkets favoritter
+
+### Mine favoritter
+- [[Apper jeg liker]]
+- [[Hurtigtaster jeg bruker hele tida]]
+- [[Hva jeg leser nå for tida]]
+
+Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features:
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
@@ -19,8 +29,6 @@ Check out some of the [amazing gardens that community members](notes/showcase.md
 > 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 
 Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-Her kan jeg skrive om [[figma]]. 
 
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
