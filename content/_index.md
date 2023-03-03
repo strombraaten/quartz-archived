@@ -5,7 +5,7 @@ enableToc: false
 
 Prøver meg på et [[Testnotat]] her for å se hvordan det går.
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Host your [[second brain]] and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
