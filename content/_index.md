@@ -20,6 +20,8 @@ Check out some of the [amazing gardens that community members](notes/showcase.md
 
 Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
 
+Her kan jeg skrive om [[figma]]. 
+
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
 <iframe
