@@ -5,18 +5,6 @@ enableToc: false
 
 Prøver meg på et [[Testnotat]] her for å se hvordan det går.
 
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/simenskriver?as_embed=true"
-></iframe><br /><br />
-
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/simenskriver?as_embed=true"
-></iframe><br /><br />
-
 Host your [[second brain]] and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
@@ -33,6 +21,12 @@ Check out some of the [amazing gardens that community members](notes/showcase.md
 Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
 
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/simenskriver?as_embed=true"
+></iframe><br /><br />
 
 ### Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
