@@ -34,7 +34,7 @@ Med det sagt, hvor starter du egentlig?
 
 <iframe
 scrolling="no"
-style="width:100%!important;height:220px; !important"
+style="width:100%!important;height:220px;border:0px #ccc solid !important"
 src="https://buttondown.email/simenskriver?as_embed=true"
 ></iframe>
 
