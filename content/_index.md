@@ -15,7 +15,9 @@ Denne sida er en måte å dokumentere det jeg lærer på. Samtidig som jeg vil u
 Med det sagt, hvor starter du egentlig?
 
 ## Hvor bør du starte?
+---
 ### Siste nytt/ferske greier
+- 
 ### Folkets favoritter
 - [[den neste nye tingen]]
 - [[hvorfor jeg blir så gira av Obsidian]]
@@ -23,7 +25,7 @@ Med det sagt, hvor starter du egentlig?
 - [[tidligere blogginnlegg/Det er noe feil med blogging som konsept|det er noe feil med blogging som konsept]]
 - [[om å bruke det du lærer]]
 - [[hvor ord egentlig kommer fra]]
-- [[tidligere blogginnlegg/Ditt framtidige, fremmede jeg|ditt framtidige, fremmede "jeg"]]
+- [[tidligere blogginnlegg/Ditt framtidige, fremmede jeg|ditt framtidige, fremmede jeg]]
 
 ### Mine favoritter
 - [[apper jeg liker]]
