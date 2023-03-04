@@ -49,7 +49,7 @@ Med det sagt, hvor starter du egentlig?
 - [[tidligere blogginnlegg/Det er noe feil med blogging som konsept|det er noe feil med blogging som konsept]]
 - [[om å bruke det du lærer]]
 - [[hvor ord egentlig kommer fra]]
-- [[tidligere blogginnlegg/Ditt framtidige, fremmede "jeg"|ditt framtidige, fremmede "jeg"]]
+- [[tidligere blogginnlegg/Ditt framtidige, fremmede jeg|ditt framtidige, fremmede "jeg"]]
 =======
 <iframe
 scrolling="no"
