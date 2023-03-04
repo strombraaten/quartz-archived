@@ -29,10 +29,10 @@ other = "Ingen tilbakekoblinger funnet"
 other = "Hjem"
 
 [light_mode]
-other = "Lys modus"
+other = "Lys Modus"
 
 [dark_mode]
-other = "Mørk modus"
+other = "Mørk Modus"
 
 [edit_source]
 other = "Rediger Kilde"
@@ -62,4 +62,4 @@ other = "Søk og se hva du finner"
 other = "Innholdsfortegnelse"
 
 [copyright]
-other = "🛠️[Laga sjæl](notes/Hvordan jeg har lagd denne sida) av {{ .name }}, på et bunnsolid fundament med <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>."
+other = "🛠️ [Laga sjæl](notes/Hvordan jeg har lagd denne sida.md) av {{ .name }}, på et bunnsolid fundament med <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>."
