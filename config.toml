@@ -1,5 +1,5 @@
 baseURL = "https://strombraaten.github.io/quartz/"
-languageCode = "en-us"
+languageCode = "no"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
