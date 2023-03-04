@@ -1,8 +1,8 @@
 [404_message]
-other = "Hei! Ser ut til at du har gått deg vill. Denne siden finnes ikke (eller den kan være privat)."
+other = "Jøsses! Ser ut som jeg har sendt deg på villspor, for denne sida finnes enten ikke (eller så kan det hende jeg har gjemt den)."
 
 [404_back]
-other = "↳ La oss få deg hjem."
+other = "↳ La vårs få deg hjem."
 
 [all_posts]
 other = "Alle {{.Title}}"
@@ -29,10 +29,10 @@ other = "Ingen tilbakekoblinger funnet"
 other = "Hjem"
 
 [light_mode]
-other = "Lys Modus"
+other = "Lys modus"
 
 [dark_mode]
-other = "Mørk Modus"
+other = "Mørk modus"
 
 [edit_source]
 other = "Rediger Kilde"
@@ -50,16 +50,16 @@ other = "Søkeikon"
 other = "Ikon for å åpne søk"
 
 [recent_notes]
-other = "Nylige notater"
+other = "Rykende ferske notater"
 
 [first_3_notes]
 other = "første 3 {{ .notes }}"
 
 [search_for_something]
-other = "Søk etter noe..."
+other = "Søk og se hva du finner"
 
 [toc]
 other = "Innholdsfortegnelse"
 
 [copyright]
-other = "Opprettet av {{ .name }} ved hjelp av <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
+other = "Lagd av {{ .name }} med veldig god hjelp av <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>."
