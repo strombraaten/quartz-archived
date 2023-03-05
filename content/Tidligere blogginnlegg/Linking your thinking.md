@@ -39,12 +39,3 @@ For det er en Wikipedia som kun er basert på ting du har likt!
 På sitater, ideer, formuleringer, konsepter, og tanker som har resonnert med deg på en eller annen måte. Gitt at du bearbeider tankene videre, og skriver det om til dine egne ord, så kan du også remixe det til nye sammensetninger. Nye artikler (som det her), eller bare nye tanker som har din egen, personlige vinkling på det.
 
 Selv om noe kanskje har blitt sagt før så har det ikke nødvendigvis blitt sagt av deg. Og du skal virkelig ikke undervurdere hvor mye personlig preg har å si for personen i andre enden. Det er jo hele grunnen til at vi har ordet *[influenser](https://snl.no/influenser)*, selv om jeg virkelig ikke liker det.
-
----
-
-### Kladdeboka
-_I dag skreiv jeg videre på disse artikkel-ideene:_
-1. Artikkel - Linking your thinking
-3. Artikkel - Et bibliotek over dine egne tanker, eller andres?
-3. Artikkel - En introduksjon til Zettelkasten
-2. Konsept - Zettelkasten

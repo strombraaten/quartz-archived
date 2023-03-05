@@ -98,13 +98,3 @@ Om du vil lese artiklene jeg har skrivi i jobbsammenheng, for Variant, så finne
 - [Personvern og innsiktsarbeid](https://medium.com/variant-as/personvern-og-innsiktsarbeid-9397dc8fd87)
 
 I tillegg kommer det et *beist* av en artikkelserie innen kort tid, i totalt seks deler, hvor jeg snakker om det å jobbe med innsiktsarbeid. Den oppsummerer noe jeg har tenkt på i nærmere ti måneder nå, så du kan trooo det var godt å få samla tankene!
-
----
-
-## Kladdeboka
-*I dag skreiv jeg videre på disse artikkel-ideene:*
-1. [[tidligere blogginnlegg/Se skriveprosessen min på 6 minutter]]
-- [[Artikkel - En tanke i utvikling]]
-- Versjonslogg
-- [[Hva vil du at jeg skal skrive mer om?]]
-- Den ene funksjonen som gjør alt verdt det

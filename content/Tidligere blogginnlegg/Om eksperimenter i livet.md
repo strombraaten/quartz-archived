@@ -55,7 +55,3 @@ Med trening f. eks, det som har holdt meg gående over lengst tid, er å tenke a
 ## Videre lesing
 
 Om du vil lære mer om hvordan vaner fungerer, og hva du kan gjøre for å  "make habits stick", så har jeg hørt mye bra om boka ["Atomic Habits"](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299), av [James Clear](https://jamesclear.com/), hvor han går langt mer i dybden enn det jeg har gjort her.
-
----
-### Nøkkelord
-#eksperiment #vaner #[[MOC - Læring]] #trening 

@@ -50,15 +50,3 @@ Målet her er ikke bare å lage så mange notater som mulig, men heller å øke 
 ## Avsluttende ord
 
 Det er vanskelig å skrive kortfatta, men dersom du ser de samme notatene i ny og ne, over lengre tid, vil det være enklere å hakke løs på innholdet, litt etter litt for hver gang. Bare fordi du ser det med "ferske øyne", som jeg holdt på å si. Ja. Du skjønner vel hva jeg mener. Og derfor er det så viktig med å knytte tankene sine sammen med hverandre, gjennom [[Linking your thinking|Linking your thinking]].
-
----
-
-### Kladdeboka
-
-__I dag skreiv jeg videre på disse artikkel-ideene:__
-1. [[Artikkel - Skriveprosessens ulike faser]]
-2. [[Å skape løsningen i fellesskap|Å skape løsningen i fellesskap]]
-3. [[tidligere blogginnlegg/Se skriveprosessen min på 6 minutter]]
-5. [[En introduksjon til Zettelkasten]]
-	- Konsept - [[Atomic Notes]]
-6. [[Artikkel - La ideene dine mingle]]
