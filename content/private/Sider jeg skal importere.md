@@ -20,3 +20,13 @@
 ### Helt til slutt
 - 🛠️ [[notes/Hvordan jeg har lagd denne sida]]
 - 🤔 Hva jeg tenker på [[notes/akkurat nå|akkurat nå]]
+
+Hva jeg tenker på [[notes/akkurat nå|akkurat nå]]
+
+
+
+
+Hva jeg tenker på<a href="/quartz/notes/akkurat-nå" rel="noopener" class="internal-link" data-src="/quartz/notes/akkurat-nå">akkurat nå</a>
+
+
+<a href="/quartz/notes/apper-jeg-liker" rel="noopener" class="internal-link" data-src="/quartz/notes/apper-jeg-liker">apper jeg liker</a>
