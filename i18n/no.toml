@@ -1,8 +1,8 @@
 [404_message]
-other = "Jøsses! Ser ut som jeg har sendt deg på villspor, for denne sida finnes enten ikke (eller så kan det hende jeg har gjemt den)."
+other = "Jøsses! Ser ut som jeg har sendt deg på villspor for denne sida finnes ikke, ser det ut som, eller så kan det hende jeg har kødda til noe uten å vite det."
 
 [404_back]
-other = "↳ La vårs få deg hjem."
+other = "↳ Gå tilbake til forsida."
 
 [all_posts]
 other = "Alle {{.Title}}"
@@ -38,7 +38,7 @@ other = "Mørk Modus"
 other = "Rediger Kilde"
 
 [interactive_graph]
-other = "Interaktiv Graf"
+other = "Interaktiv graf"
 
 [search]
 other = "Søk"
@@ -56,7 +56,7 @@ other = "Rykende ferske notater"
 other = "første 3 {{ .notes }}"
 
 [search_for_something]
-other = "Søk og se hva du finner"
+other = "Skriv noe, og se hva du finner"
 
 [toc]
 other = "Innholdsfortegnelse"
