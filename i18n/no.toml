@@ -63,3 +63,4 @@ other = "Innholdsfortegnelse"
 
 [copyright]
 other = "🛠️ <a href=\"https://strombraaten.github.io/quartz/notes/Hvordan-jeg-har-lagd-denne-sida\">Laga sjæl</a> av {{ .name }}, på et bunnsolid fundament med <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>."
+
