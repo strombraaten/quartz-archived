@@ -32,12 +32,6 @@ Med det sagt, hvor starter du egentlig?
 - [[hurtigtaster jeg bruker hele tida]]
 - [[hva jeg leser nå for tida]]
 
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:0px #ccc solid !important"
-src="https://buttondown.email/simenskriver?as_embed=true"
-></iframe>
-
 ### Helt til slutt
 - 🛠️ [[notes/Hvordan jeg har lagd denne sida]]
 - 🤔 [[notes/akkurat nå]]
