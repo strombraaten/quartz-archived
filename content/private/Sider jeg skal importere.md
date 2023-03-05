@@ -1,5 +1,5 @@
 ### Folkets favoritter
-- Linking your thinking
+- [[tidligere blogginnlegg/Linking your thinking]]
 - [[tidligere blogginnlegg/Det er noe feil med blogging som konsept|det er noe feil med blogging som konsept]]
 [[tidligere blogginnlegg/Den neste nye tingen]]
 - [[hvorfor jeg blir så gira av Obsidian]]
@@ -7,8 +7,8 @@
 - [[om å bruke det du lærer]]
 - [[hvor ord egentlig kommer fra]]
 - [[tidligere blogginnlegg/Ditt framtidige, fremmede jeg|ditt framtidige, fremmede jeg]]
-- hvis jeg hadde mer tid skulle jeg ha skrivi en kortere artikkel
-- arbeidet fyller den tida man har
+[[tidligere blogginnlegg/Hadde jeg hatt mer tid skulle jeg skrivi en kortere artikkel]]
+- [[tidligere blogginnlegg/Parkinsons lov]]
 - De ulike stegene i et notat
 
 

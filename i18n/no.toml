@@ -62,5 +62,4 @@ other = "Skriv noe, og se hva du finner"
 other = "Innholdsfortegnelse"
 
 [copyright]
-other = "🛠️ <a href=\"https://github.com/strombraaten/quartz/blob/hugo/content/notes/Hvordan%20jeg%20har%20lagd%20denne%20sida.md\">Laga sjæl</a> av {{ .name }}, på et bunnsolid fundament med <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>."
-
+other = "🛠️ <a href=\"https://strombraaten.github.io/quartz/notes/Hvordan-jeg-har-lagd-denne-sida\">Laga sjæl</a> av {{ .name }}, på et bunnsolid fundament med <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>."
