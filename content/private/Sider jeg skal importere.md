@@ -8,7 +8,7 @@
 - [[notes/Hvor ord egentlig kommer fra]]
 - [[notes/Ditt framtidige, fremmede jeg|ditt framtidige, fremmede jeg]]
 [[notes/Hadde jeg hatt mer tid skulle jeg skrivi en kortere artikkel]]
-- [[notes/Parkinsons lov]]
+- [[notes/Fyller virkelig arbeidet den tida du har tilgjengelig?]]
 - De ulike stegene i et notat
 
 

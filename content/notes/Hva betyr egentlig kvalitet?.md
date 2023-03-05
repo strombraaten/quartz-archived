@@ -5,7 +5,7 @@ aliases:
 ---
 
 > [!NOTE] Kommentar fra framtids-Simen
-> Denne artikkelen burde sees i sammenheng med oppfølgeren, [[notes/Vent nå litt..]], ettersom jeg leste mer om kvalitet i ulike sammenhenger.
+> Denne artikkelen burde sees i sammenheng med oppfølgeren, [[notes/Vent nå litt]], ettersom jeg leste mer om kvalitet i ulike sammenhenger.
 
 Om jeg hadde bedt deg om å beskrive hva kvalitet _er_, hva ville du sagt da? Personlig ville jeg nok tenkt på lang holdbarhet eller varighet, sterke materialer, presisjon i alle ledd, og generelt så lite slurv som mulig. At noe er stødig, eller robust, og at det gjør den jobben det skal gjøre. Men av de "kriteriene" er det egentlig bare den siste som stemmer overens med hvor ordet kommer fra.
 
