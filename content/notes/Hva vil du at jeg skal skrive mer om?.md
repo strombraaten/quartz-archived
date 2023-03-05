@@ -28,9 +28,7 @@ Til min store forbauselse endte jeg opp med hele 60 (!) ideer, og da var det på
 
 Den lista tenkte jeg å dele med deg, og da er spørsmålet:
 
-✍️
-
-Er det noe på den lista du kunne tenke deg å lese mer om?
+> [!question] Er det noe på den lista du kunne tenke deg å lese mer om?
 
 Eller noe som trigger nysgjerrigheten din? Såklart blir det vanskelig å vite hva som ligger bak hver idé, men det er også det som gjør det interessant, sånn jeg ser det.
 
@@ -39,8 +37,6 @@ Noen av ideene er små nisjegreier, hvor noen også overlapper hverandre. Andre 
 Uansett så har jeg bevisst latt være å rydde opp i formuleringene, sånn at du får se den upolerte prosessen, med litt mer kjøtt på beina noen steder.
 
 Om du vil hjelpe meg med å finne ut hva jeg skal skrive om så kan du _skrive ned nummeret_, på de ideene du liker (f. eks B3, E1 osv.), og sende de til [strombraaten@gmail.com](mailto:strombraaten@gmail.com?ref=simen-skriver). Tusen takk for hjelpa 🙌
-
-_**Oppdatering**: Her var det opprinnelig flere tall som blei vist mer enn én gang, derfor måtte jeg endre på nummereringa. Var visst ikke helt greit å beholde en "ulogisk" nummerering på punktene i den rekkefølgen, så da blei det bare surr._
 
 ---
 
