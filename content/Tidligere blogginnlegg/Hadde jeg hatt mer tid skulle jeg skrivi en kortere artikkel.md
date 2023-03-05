@@ -27,7 +27,7 @@ Uansett. Om du vil dykke enda dypere, og lese flere eksempler og hvordan sitatet
 
 ## Hvordan det er relevant for daglig skriving
 
-[[Artikkel - Skriveprosessens ulike faser|skriveprosessen]] har riktignok flere faser, som krever ganske ulike sinnstilstander. I blant må du tenke veldig åpent, og utforske, og andre ganger må du være mer kritisk, og heller komme til poenget. Det oppsummerer også hvordan man i stor grad jobber med design, gjennom det som kalles [[Double Diamond]]-prosessen. 
+[[Artikkel - Skriveprosessens ulike faser|skriveprosessen]] har riktignok flere faser, som krever ganske ulike sinnstilstander. I blant må du tenke veldig åpent, og utforske, og andre ganger må du være mer kritisk, og heller komme til poenget. Det oppsummerer også hvordan man i stor grad jobber med design, gjennom det som kalles Double Diamond-prosessen. 
 
 De ulike fasene i skriveprosessen kan jeg utdype mer om en annen gang, men i dag vil jeg heller fokusere på hvordan det å skrive kortfatta er spesielt relevant for [[Zettelkasten]]-metoden, og å vedlikeholde et notatsystem.
 
