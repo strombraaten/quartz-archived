@@ -2,6 +2,7 @@
 title: 🪴 Simen skriver
 enableToc: false
 ---
+
 ## Heisann! 👋 Simen heter jeg.
 
 På dagtid jobber jeg som designer. Det kan ofte høres litt svevende ut, men kort fortalt prøver jeg å få digitale greier til å føles bra, og ikke minst lett å forstå, samtidig som det også skal se fint ut. En såkalt UX-designer.
