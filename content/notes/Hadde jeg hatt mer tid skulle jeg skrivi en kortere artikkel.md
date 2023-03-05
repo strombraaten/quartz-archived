@@ -33,7 +33,7 @@ De ulike fasene i skriveprosessen kan jeg utdype mer om en annen gang, men i dag
 
 ## Notater som miniatyriske byggeklosser
 
-Da jeg introduserte Zettelkasten-metoden tidligere, i [[En introduksjon til Zettelkasten]], nevnte jeg også konseptet om "[[Atomic Notes]]", som [[Sönke Ahrens]] snakker om i boka [[Boknotat - How to Take Smart Notes|How to Take Smart Notes]].
+Da jeg introduserte Zettelkasten-metoden tidligere, i [[notes/En introduksjon til Zettelkasten]], nevnte jeg også konseptet om "[[Atomic Notes]]", som [[Sönke Ahrens]] snakker om i boka [[Boknotat - How to Take Smart Notes|How to Take Smart Notes]].
 
 I motsetning til de lange artiklene mine så burde nemlig notatene våres være så kortfatta som mulig. Derav *"atomic"*, for å symbolisere at det skal brytes ned til de minste byggeklossene som du kan bryte det ned til. 
 
@@ -49,4 +49,4 @@ Målet her er ikke bare å lage så mange notater som mulig, men heller å øke 
 
 ## Avsluttende ord
 
-Det er vanskelig å skrive kortfatta, men dersom du ser de samme notatene i ny og ne, over lengre tid, vil det være enklere å hakke løs på innholdet, litt etter litt for hver gang. Bare fordi du ser det med "ferske øyne", som jeg holdt på å si. Ja. Du skjønner vel hva jeg mener. Og derfor er det så viktig med å knytte tankene sine sammen med hverandre, gjennom [[Linking your thinking|Linking your thinking]].
+Det er vanskelig å skrive kortfatta, men dersom du ser de samme notatene i ny og ne, over lengre tid, vil det være enklere å hakke løs på innholdet, litt etter litt for hver gang. Bare fordi du ser det med "ferske øyne", som jeg holdt på å si. Ja. Du skjønner vel hva jeg mener. Og derfor er det så viktig med å knytte tankene sine sammen med hverandre, gjennom [[notes/Linking your thinking|Linking your thinking]].

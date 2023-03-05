@@ -4,7 +4,7 @@ title: "Se skriveprosessen min på 6 minutter"
 > [!NOTE] Merknad
 > Ingen vennskap blei skadd under dette eksperimentet
  
-Jeg har tidligere snakka om at [[tidligere blogginnlegg/Parkinsons lov|Parkinsons lov]] handler om hvordan arbeidet fyller den tida som er tilgjengelig. Men hvordan så prosessen egentlig ut da jeg halvverte tida jeg vanligvis bruker på å skrive en artikkel, før jeg trykker på den store, grønne publiseringsknappen? Det skal du få se med dine egne øyne i dag.
+Jeg har tidligere snakka om at [[notes/Parkinsons lov|Parkinsons lov]] handler om hvordan arbeidet fyller den tida som er tilgjengelig. Men hvordan så prosessen egentlig ut da jeg halvverte tida jeg vanligvis bruker på å skrive en artikkel, før jeg trykker på den store, grønne publiseringsknappen? Det skal du få se med dine egne øyne i dag.
 
 ![[notes/images/Pasted image 20230305115553.png]]
 
@@ -26,7 +26,7 @@ I denne filmen får du se:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uiLXSqB-P3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Hva som inngår i skriveprosessen
-I går ramsa jeg opp [[tidligere blogginnlegg/Hva jeg har lært av å skrive 31 artikler på 23 dager]] . Ut fra det kan vi se at det er ulike *sider* ved skriveprosessen. Det er ikke *bare* å sette seg ned å skrive på et tastatur. Som [[Sönke Ahrens]] nevner i boka [[Boknotat - How to Take Smart Notes|How to Take Smart Notes]]:
+I går ramsa jeg opp [[notes/Hva jeg har lært av å skrive 31 artikler på 23 dager]] . Ut fra det kan vi se at det er ulike *sider* ved skriveprosessen. Det er ikke *bare* å sette seg ned å skrive på et tastatur. Som [[Sönke Ahrens]] nevner i boka [[Boknotat - How to Take Smart Notes|How to Take Smart Notes]]:
 
 >  It also means reading, understanding, reflecting, getting ideas, making connections, distinguishing terms, finding the right words, structuring, organizing, editing, correcting and rewriting.
 

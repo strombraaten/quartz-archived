@@ -64,7 +64,7 @@ Men det er mer.. Og her må vi dele det opp i de mer opplagte grunnene, og de me
 
 Men det er mer.. Og her må vi dele det opp i de mer opplagte grunnene, og de mer overraskende grunnene til hvor jeg  virkelig har begynt å like Obsidian.
 ## De mer opplagte grunnene
-Som jeg nevnte i [[Linking your thinking|Linking your thinking]]-artikkelen,
+Som jeg nevnte i [[notes/Linking your thinking|Linking your thinking]]-artikkelen,
 > Ved å linke notatene dine sammen derimot, så *mister* de ikke verdien sin desto eldre de blir. Tvert i mot, de *øker* i verdi ved at du har dannet koblinger videre til andre tanker. Du beriker altså den opprinnelige tanken, og alle de den er kobla til.
 
 Det gjør det ikke bare uendelig mye lettere å skrive nye artikler, men det gjør det morsommere å lese, siden jeg har et system for å kunne anvende det seinere. For selve måten Obsidian er satt sammen på så oppfordrer hele systemet til at du skal tenke tydeligere. Trekke unike koblinger mellom det du har tenkt på tidligere, og skrive egne tanker basert på det.
