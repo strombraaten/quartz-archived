@@ -1,4 +1,6 @@
-
+---
+title: "Hvordan jeg har lagd denne sida"
+---
 ## Fordeler
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features:
 

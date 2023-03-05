@@ -1,3 +1,6 @@
+---
+title: "akkurat nå"
+---
 Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert av folk som [Derek Sivers](https://sive.rs/nowff?ref=simen-skriver), [Maggie Appleton](https://maggieappleton.com/now?ref=simen-skriver), og [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&ref=simen-skriver). Om du vil lese mer om såkalte "Nå"-sider finnes det [en utdypende side for sånt](https://nownownow.com/about?ref=simen-skriver).
 
 ---
@@ -34,7 +37,7 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 
 ## Hva jeg nerder ut på
 
-1. Hvordan jeg kan tilrettelegge min egen [[notes/Digital hage|digitale hage]]
+1. Hvordan jeg kan tilrettelegge min egen [[notes/digital hage|digitale hage]]
 2. Hvordan jeg bruker Eagle-appen til å strukturere bilder, og generell visuell inspirasjon
 
 >[!example]- Hva jeg har nerda ut på tidligere

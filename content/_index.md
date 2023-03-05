@@ -7,7 +7,7 @@ enableToc: false
 
 Simen heter jeg, og jeg jobber som designer. Det kan ofte høres litt svevende ut, men kort fortalt prøver jeg å få digitale greier til å føles bra, og ikke minst lett å forstå, samtidig som det også skal se fint ut. En såkalt UX-designer.
 
-I tillegg har jeg en tendens til å dypdykke i ting som fascinerer meg. Og det koser jeg meg skikkelig med. Bare å nerde fullstendig ut. Enten det er konseptet rundt en [[digital hage]], som det her, ergonomiske tastatur, kanskje noe filosofi-lignende greier, eller noe så enkelt som [[apper jeg liker]].
+I tillegg har jeg en tendens til å dypdykke i ting som fascinerer meg. Og det koser jeg meg skikkelig med. Bare å nerde fullstendig ut. Enten det er konseptet rundt en [[notes/digital hage|digital hage]], som det her, ergonomiske tastatur, kanskje noe filosofi-lignende greier, eller noe så enkelt som [[apper jeg liker]].
 
 Denne sida er en måte å dokumentere det jeg lærer på. Samtidig som jeg vil utfordre meg sjøl til å lære mer åpent. Å tørre og dele mer av prosessen, og ikke bare sluttresultatet.
 
