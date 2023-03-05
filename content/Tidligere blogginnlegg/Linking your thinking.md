@@ -1,7 +1,5 @@
 ---
 title: "Linking your thinking"
-tags:
-- notatsystem
 ---
 Du skulle kanskje tro at det å skrive om å skrive, eller mer presist skrive om notater, hadde en slags begrensning, men tydeligvis ikke! 
 ## Linking your thinking

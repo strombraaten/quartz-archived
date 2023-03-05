@@ -1,11 +1,5 @@
 ---
 title: "Digitalt hagearbeid"
-tags: 
-- teknologi
-- notatsystem
-published: false
-excerpt: 
-link: https://www.simenskriver.no/digitalt-hagearbeid/
 ---
 tNå skal jeg være ærlig. Jeg har ikke lest hele [artikkelen jeg har tenkt til å referere til](https://maggieappleton.com/garden-history) nå. Kanskje bare en fjerdedel. Uansett, jeg er bare så gira at jeg må komme gang. Så la meg forklare hva som er spennendex med [[Notater/digitalt hagearbeid]].
 ![[Notater/digitalt hagearbeid#Hva er det egentlig?]]

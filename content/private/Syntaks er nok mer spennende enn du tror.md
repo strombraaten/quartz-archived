@@ -1,9 +1,5 @@
 ---
 title: "Syntaks er nok mer spennende enn du tror"
-tags:
-- tankemat
-- læring
-- etymologi
 ---
 Syntaks er et ord jeg utelukkende forbinder med programmering, med kode. Med andre ord, ting jeg ikke kan.
 

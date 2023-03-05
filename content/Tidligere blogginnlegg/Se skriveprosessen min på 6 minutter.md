@@ -1,10 +1,5 @@
 ---
 title: "Se skriveprosessen min på 6 minutter"
-tags: 
-- tankemat
-- skriveprosessen
-- læring
-published: false
 ---
 > [!NOTE] Merknad
 > Ingen vennskap blei skadd under dette eksperimentet

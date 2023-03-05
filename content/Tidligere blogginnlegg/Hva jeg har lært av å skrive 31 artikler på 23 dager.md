@@ -1,8 +1,5 @@
 ---
 title: "Hva jeg har lært av å skrive 31 artikler på 23 dager"
-tags: 
-- skriveprosessen
-- læring
 ---
 ## Intro
 
