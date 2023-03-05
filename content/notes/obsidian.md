@@ -1,5 +1,7 @@
 ---
 title: "Obsidian Vault Integration"
+aliases:
+- obsidian
 tags:
 - setup
 weight: -3
