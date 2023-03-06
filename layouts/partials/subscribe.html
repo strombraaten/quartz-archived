@@ -3,3 +3,39 @@ scrolling="no"
 style="width:100%!important;height:220px;border:0px #ccc solid !important"
 src="https://buttondown.email/simenskriver?as_embed=true"
 ></iframe>
+
+<form
+  action="
+    https://buttondown.email/api/emails/embed-subscribe/simenskriver
+  "
+  method="post"
+  target="popupwindow"
+  class="embeddable-buttondown-form"
+>
+  <label for="email">Epost</label>
+  <input
+    type="email"
+    name="email"
+    placeholder="din@epost.no"
+  />
+  <label for="first-name">Simen heter jeg! Hva heter du?</label>
+  <input
+  id="first-name"
+  type="text"
+  name="metadata__first-name"
+  required
+  placeholder="Simen"
+/>
+  <input type="hidden" value="1" name="embed" />
+  <input type="submit" value="Subscribe" />
+</form>
+
+
+
+
+
+
+
+
+
+
