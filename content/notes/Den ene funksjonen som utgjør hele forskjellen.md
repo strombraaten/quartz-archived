@@ -1,4 +1,10 @@
 ---
+date: 05 Mar, 232023
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "Den ene funksjonen som utgjør hele forskjellen"
 ---
 Det å ta skjermbilder er ikke en presis kunst akkurat. Uansett hvor nøye du prøver å være med det "crosshair"-siktet, og prøver å sørge for at det er like mye luft på alle sidene, så ender det opp med å bli feilbalansert, uansett.

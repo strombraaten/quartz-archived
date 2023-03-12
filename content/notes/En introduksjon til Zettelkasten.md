@@ -1,7 +1,11 @@
 ---
+date: 16 Dec, 222022
+lastmod: 12 Mar, 232023
+tags:
+  - 
 title: "En introduksjon til Zettelkasten"
 aliases:
-- "Zettelkasten"
+  - notes/zettelkasten/
 ---
 
 > [!info] Vegg med tekst, incoming!

@@ -1,4 +1,10 @@
 ---
+date: 04 Mar, 232023
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "Det er noe feil med blogging som konsept"
 ---
 Øverst på bloggen min vil du nå finne det innlegget her. Og rett under ligger det jeg skreiv sist. Siden vi da beveger vårs tilbake i tid, med de eldste innleggene sist, blir det altså en _reversert kronologisk_ rekkefølge. Sånn har det vært siden slutten av 1990-tallet og begynnelsen på 2000-tallet.

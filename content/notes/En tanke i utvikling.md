@@ -1,4 +1,10 @@
 ---
+date: 05 Mar, 232023
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "En tanke i utvikling"
 ---
 Da jeg snakka om [[notes/Digitalt hagearbeid|digitalt hagearbeid]] nevnte jeg hvordan [Maggie Appleton](https://maggieappleton.com/?ref=simen-skriver) definerer progresjonen av et notat gjennom kategoriene _budding, seedling_, og _evergreen_.

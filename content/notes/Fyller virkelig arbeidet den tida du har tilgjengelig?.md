@@ -1,7 +1,11 @@
 ---
+date: 11 Dec, 222022
+lastmod: 12 Mar, 232023
+tags:
+  - 
 title: "Fyller virkelig arbeidet den tida du har tilgjengelig?"
 aliases:
-- "Parkinsons lov"
+  - notes/Parkinsons-lov/
 ---
 Du kjenner kanskje til utrykket _"If you wait until the last minute, it only takes a minute to do"_? Eller kanskje du kjenner til originalen, _"Work expands so as to fill the time available for its completion"_. Det siste der var det [Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/C._Northcote_Parkinson?ref=simen-skriver) som formulerte så fint i en [artikkel til den engelske avisa, The Economist](https://www.economist.com/news/1955/11/19/parkinsons-law?ref=simen-skriver), i 1955.
 

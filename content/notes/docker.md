@@ -1,11 +1,17 @@
 ---
+date: 02 Mar, 232023
+lastmod: 12 Mar, 232023
+aliases:
+  - 
 title: "Hosting with Docker"
 tags:
-- setup
+  - setup
 ---
 
 If you want to host Quartz on a machine without using a webpage hosting service, it may be easier to [install Docker Compose](https://docs.docker.com/compose/install/) and follow the instructions below than to [install Quartz's dependencies manually](notes/preview%20changes.md).
+
 ## Hosting Quartz Locally
+
 You can serve Quartz locally at `http://localhost:1313` with the following script, replacing `/path/to/quartz` with the 
 actual path to your Quartz folder.
 

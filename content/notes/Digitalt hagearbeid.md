@@ -1,4 +1,11 @@
 ---
+date: 12 Dec, 222022
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - digital hage
+  - notes/digital-hage
 title: "Digitalt hagearbeid"
 ---
 Nå skal jeg være ærlig. Jeg har ikke lest hele [artikkelen jeg har tenkt til å referere til](https://maggieappleton.com/garden-history?ref=simen-skriver) nå. Kanskje bare en fjerdedel. Uansett, jeg er bare så gira at jeg må komme gang. Så la meg forklare hva som er spennende med digitalt hagearbeid.

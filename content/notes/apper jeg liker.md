@@ -1,7 +1,10 @@
 ---
-date: Friday, 3rd March, 2023
-lastmod: Sunday, 12th March, 2023
-tags: []
+aliases:
+  - 
+date: 03 Mar, 232023
+lastmod: 12 Mar, 232023
+tags:
+  - 
 title: apper jeg liker
 ---
 

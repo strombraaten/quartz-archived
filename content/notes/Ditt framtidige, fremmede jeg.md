@@ -1,4 +1,10 @@
 ---
+date: 04 Mar, 232023
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "Ditt framtidige, fremmede jeg"
 enableToc: true
 openToc: false

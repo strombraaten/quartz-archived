@@ -1,4 +1,8 @@
 ---
+date: 05 Mar, 232023
+lastmod: 12 Mar, 232023
+tags: 
+aliases: 
 title: "alias"
 ---
 For å linke mer effektivt mellom sider kan det være nødvendig å gi en side et slags kallenavn. Også kjent som et alias.

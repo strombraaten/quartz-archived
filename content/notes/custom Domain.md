@@ -1,8 +1,15 @@
 ---
+date: 02 Mar, 232023
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "Custom Domain"
 ---
 
 ### Registrar
+
 This step is only applicable if you are using a **custom domain**! If you are using a `<YOUR-USERNAME>.github.io` domain, you can skip this step.
 
 For this last bit to take effect, you also need to create a CNAME record with the DNS provider you register your domain with (i.e. NameCheap, Google Domains).
