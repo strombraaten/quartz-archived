@@ -6,6 +6,7 @@ tags:
 aliases:
   - 
 title: "Callouts"
+draft: true
 ---
 
 ## Callout support

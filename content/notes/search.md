@@ -4,6 +4,7 @@ lastmod: 12 Mar, 232023
 tags: 
 aliases: 
 title: "Search"
+draft: true
 ---
 
 Quartz supports two modes of searching through content.

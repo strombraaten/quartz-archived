@@ -7,6 +7,7 @@ tags:
 weight: -1
 aliases:
   - hosting
+draft: true
 ---
 
 ## Hosting on GitHub Pages

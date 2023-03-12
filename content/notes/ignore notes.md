@@ -6,6 +6,7 @@ tags:
 aliases:
   - 
 title: "Ignoring Notes"
+draft: true
 ---
 
 ### Quartz Ignore
