@@ -1,7 +1,8 @@
 ---
-date: Saturday, 4th March, 2023
-lastmod: Sunday, 12th March, 2023
-tags: 
+date: 04 Mar, 2023
+lastmod: 12 Mar, 2023
+tags:
+  - 
 title: "akkurat nå"
 aliases:
   - akkurat nå
