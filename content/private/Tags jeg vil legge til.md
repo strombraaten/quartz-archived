@@ -1,3 +1,6 @@
+---
+draft: true
+---
 tags: 
 - skriveprosessen
 - læring

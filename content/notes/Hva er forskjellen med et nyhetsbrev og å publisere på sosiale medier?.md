@@ -3,7 +3,7 @@ title: "Hva er forskjellen med et nyhetsbrev og å publisere på sosiale medier?
 ---
 Spennende spørsmål, ikke sant? Det kom fra min gode venn, Kjartan, som forøvrig har som mål i livet og få en shoutout i nyhetsbrevet. Og jeg er da en mann av folket, så da gir man folket det folket vil ha.
 
-![[notes/images/Kjartan_nyhetsbrev og sosialemedier.png]]
+![[notes/images/Kjartan_nyhetsbrev-og-sosialemedier.png]]
 
 Svaret mitt på det spørsmål derimot overraska egentlig meg sjøl og. For det jeg sa var at jeg syns det er langt mer personlig å både dele, men også å få et nyhetsbrev.
 

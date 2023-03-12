@@ -1,7 +1,6 @@
 ---
 title: "Private Stuff"
+draft: true
 ---
 
 This page doesn't get published!
-
-Link til det [andre hvelvet](obsidian://open-vault?vault=[Hjernen])

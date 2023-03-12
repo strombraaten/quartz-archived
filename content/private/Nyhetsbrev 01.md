@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Heisann verden!
 
 3-2-1-tankegangen er noe James Clear, forfatteren av Atomic Habits, har gjort i mange år. Samtidig var det først da jeg så [nyhetsbrevene til Jacky Zhao](https://github.com/jackyzha0/blog/blob/master/newsletter/4.md) at puslespillbitene falt på plass i hodet mitt.
