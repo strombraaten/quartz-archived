@@ -10,7 +10,7 @@ title: "Se skriveprosessen min på 6 minutter"
  
 Jeg har tidligere snakka om at [[notes/Fyller virkelig arbeidet den tida du har tilgjengelig?|Parkinsons lov]] handler om hvordan arbeidet fyller den tida som er tilgjengelig. Men hvordan så prosessen egentlig ut da jeg halvverte tida jeg vanligvis bruker på å skrive en artikkel, før jeg trykker på den store, grønne publiseringsknappen? Det skal du få se med dine egne øyne i dag.
 
-![[notes/images/Pasted image 20230305115553.png]]
+![[notes/images/Pasted-image-20230305115553.png]]
 
 ## Praktisk eksempel
 
