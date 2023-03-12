@@ -1,8 +1,8 @@
 ---
 aliases:
   - 
-date: 03 Mar, 232023
-lastmod: 12 Mar, 232023
+date: 03 Mar, 2023
+lastmod: 12 Mar, 2023
 tags:
   - 
 title: apper jeg liker

@@ -3,8 +3,8 @@ aliases:
   - 
 tags:
   - 
-date: 06 Dec, 222022
-lastmod: 12 Mar, 232023
+date: 06 Dec, 2022
+lastmod: 12 Mar, 2023
 title: "Eksperimenter i hverdagen"
 ---
 Er det _ett_ poeng jeg vil få fram i dag er det at du trenger ikke gjøre alt _hver_ dag.

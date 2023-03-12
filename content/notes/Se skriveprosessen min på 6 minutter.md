@@ -1,8 +1,10 @@
 ---
-date: 21 Dec, 222022
-lastmod: 12 Mar, 232023
-tags: 
-aliases: 
+date: 21 Dec, 2022
+lastmod: 12 Mar, 2023
+tags:
+  - 
+aliases:
+  - 
 title: "Se skriveprosessen min på 6 minutter"
 ---
 > [!NOTE] Merknad

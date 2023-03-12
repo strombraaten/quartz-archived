@@ -1,6 +1,6 @@
 ---
-date: 11 Dec, 222022
-lastmod: 12 Mar, 232023
+date: 11 Dec, 2022
+lastmod: 12 Mar, 2023
 tags:
   - 
 title: "Fyller virkelig arbeidet den tida du har tilgjengelig?"

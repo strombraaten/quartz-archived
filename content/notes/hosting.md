@@ -1,6 +1,6 @@
 ---
-date: 02 Mar, 232023
-lastmod: 12 Mar, 232023
+date: 02 Mar, 2023
+lastmod: 12 Mar, 2023
 title: "Deploying Quartz to the Web"
 tags:
   - setup
