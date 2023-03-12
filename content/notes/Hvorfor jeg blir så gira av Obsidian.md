@@ -1,6 +1,11 @@
 ---
+date: Wednesday, 14th December, 2022
+lastmod: Sunday, 12th March, 2023
+tags:
+  - 
 title: "Hvorfor jeg blir så gira av Obsidian"
 ---
+
 Hva om du enkelt kunne finne ut av hva som helst? For eksempel navnet på den boka du leste for sju år siden, som handla om lykke eller glede. Eller kanskje det var et sitat fra en eller annen gammel greker?
 
 Det høres ut som en reklame for de tidlige dagene av Google, men det er like relevant for såkalte "_[Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management?ref=simen-skriver)_"-systemer (også kjent som PKMs) den dag i dag.

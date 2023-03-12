@@ -1,6 +1,12 @@
 ---
+date: Friday, 16th December, 2022
+lastmod: Sunday, 12th March, 2023
+tags:
+  - apper
+  - obsidian
 title: "Linking your thinking"
 ---
+
 Du skulle kanskje tro at det å skrive om å skrive, eller mer presist skrive om notater, hadde en slags begrensning, men tydeligvis ikke!
 
 Nick Milo, snakker nemlig mye om ["linking your thinking"](https://youtu.be/QgbLb6QCK88?t=155&ref=simen-skriver), som er selve nøkkelhandlingen i [Zettelkasten](https://www.simenskriver.no/zettelkasten/). Nettopp å knytte koblinger mellom det du tenker over tid, sånn at det dannes grupperinger av det du tenker og skriver om.

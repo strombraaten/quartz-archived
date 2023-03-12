@@ -1,5 +1,8 @@
 ---
-title: "Eksperimenter i hverdagen"
+tags: 
+date: Tuesday, 6th December, 2022
+lastmod: Sunday, 12th March, 2023
+title: Eksperimenter i hverdagen
 ---
 Er det _ett_ poeng jeg vil få fram i dag er det at du trenger ikke gjøre alt _hver_ dag.
 

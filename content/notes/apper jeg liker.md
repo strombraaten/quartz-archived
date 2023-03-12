@@ -1,11 +1,16 @@
 ---
-title: "apper jeg liker"
+date: Friday, 3rd March, 2023
+lastmod: Sunday, 12th March, 2023
+tags: []
+title: apper jeg liker
 ---
 
 Her kommer det en bedre liste etterhvert, men bare for å få ting i gang så vil jeg nok snakke om:
 
 ## Til mac
+
 ### Kremen av kremen
+
 - Raycast
 - Obsidian
 - Arc
@@ -18,6 +23,7 @@ Her kommer det en bedre liste etterhvert, men bare for å få ting i gang så vi
 - Figma / FigJam
 
 ### Verdt å nevne
+
 - Notion
 - DaisyDisk
 - CleanMyMac
@@ -28,4 +34,5 @@ Her kommer det en bedre liste etterhvert, men bare for å få ting i gang så vi
 - Melodics / SimplyPiano
 
 ## Til iPhone
+
 To be continued.
