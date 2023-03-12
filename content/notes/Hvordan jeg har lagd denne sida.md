@@ -1,7 +1,15 @@
 ---
+date: 04 Mar, 232023
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "Hvordan jeg har lagd denne sida"
 ---
+
 ## Hvordan henger det sammen?
+
 Jeg skulle prøve å forklare det her til en utvikler-kompis av meg, som i grunn er litt gøy. For jeg veit jo hva jeg har gjort, men jeg er neimen ikke sikker på hvordan det henger sammen, eller hvorfor jeg har gjort som jeg har gjort. Jeg har jo ærlig talt bare fulgt opp en [oppskrift](notes/setup.md)
 
 - Innholdet hostes gjennom Github
@@ -10,6 +18,7 @@ Jeg skulle prøve å forklare det her til en utvikler-kompis av meg, som i grunn
 - Den store fordelen for meg er at jeg kan forholde meg til den appen jeg skriver i fra før av, nemlig [[notes/obsidian|obsidian]]. 
 
 ## Fordeler
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features:
 
 1. Extremely fast natural-language [[notes/search]]
@@ -19,12 +28,15 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 5. Support for both Markdown Links and Wikilinks
 
 ## Eksempler på hva andre har gjort
+
 Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz. 
 
 ## Filosofien bak det hele 
+
 read about [why I made Quartz](notes/philosophy.md) to begin with.
 
 ## Hvordan du gjør det
+
 > 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 
 Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.

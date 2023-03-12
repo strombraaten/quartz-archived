@@ -1,6 +1,8 @@
 ---
-date: Wednesday, 14th December, 2022
-lastmod: Sunday, 12th March, 2023
+aliases:
+  - 
+date: 14 Dec, 222022
+lastmod: 12 Mar, 232023
 tags:
   - 
 title: "Hvorfor jeg blir så gira av Obsidian"

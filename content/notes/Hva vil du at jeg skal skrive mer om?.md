@@ -1,4 +1,10 @@
 ---
+date: 08 Dec, 222022
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "Hva vil du at jeg skal skrive mer om?"
 ---
 

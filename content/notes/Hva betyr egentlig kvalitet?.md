@@ -1,7 +1,11 @@
 ---
+date: 04 Dec, 222022
+lastmod: 12 Mar, 232023
+tags:
+  - 
 title: "Hva betyr egentlig kvalitet?"
 aliases:
-- kvalitet
+  - notes/kvalitet/
 ---
 
 > [!NOTE] Kommentar fra framtids-Simen

@@ -1,10 +1,15 @@
 ---
+date: 02 Mar, 232023
+lastmod: 12 Mar, 232023
+tags: 
+aliases: 
 title: "Search"
 ---
 
 Quartz supports two modes of searching through content.
 
 ## Full-text
+
 Full-text search is the default in Quartz. It produces results that *exactly* match the search query. This is easier to setup but usually produces lower quality matches.
 
 ```yaml {title="data/config.yaml"}
@@ -13,6 +18,7 @@ enableSemanticSearch: false
 ```
 
 ## Natural Language
+
 Natural language search is powered by [Operand](https://beta.operand.ai/). It understands language like a person does and finds results that best match user intent. In this sense, it is closer to how Google Search works.
 
 Natural language search tends to produce higher quality results than full-text search.

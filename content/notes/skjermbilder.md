@@ -1,4 +1,10 @@
 ---
+date: 05 Mar, 232023
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "skjermbilder"
 ---
 Jeg tror jeg har undervurdert skjermbilder. [Matt Birchler](https://birchtree.me/blog/take-way-more-screenshots/?ref=simen-skriver), som jeg nylig snubla over i den store verden av internett, nevnte det her med at man burde ta mye mer skjermbilder. Nettopp på grunn av den nostalgiske verdien av at ting endrer seg. Hva som er moderne design i dag kommer til å se helt annerledes ut om 3-5, ikke minst 10 år. Bare se på det vi var vant med på internett i 2010. Det er ganske så annerledes enn hva vi anerkjenner som “fint design” i dag.

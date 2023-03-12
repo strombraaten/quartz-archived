@@ -1,6 +1,11 @@
 ---
-tags: 
-title: Om å bruke det du lærer
+date: 09 Dec, 222022
+lastmod: 12 Mar, 232023
+aliases:
+  - 
+tags:
+  - 
+title: "Om å bruke det du lærer"
 ---
 I blant føler jeg meg litt flåsete når jeg siterer folk i øst og vest, og refererer til bøker, artikler og podcaster. Som om jeg prøver å virke mer intellektuell og belest, med nesa til værs, enn det jeg egentlig er.
 

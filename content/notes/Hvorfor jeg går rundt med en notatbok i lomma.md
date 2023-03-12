@@ -1,4 +1,10 @@
 ---
+date: 01 Dec, 222022
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "Hvorfor jeg går rundt med en notatbok i lomma"
 ---
 Grunnen er veldig enkel. En notatbok distraherer deg ikke i å skrive ned en tanke. Det gjør derimot telefonen din.

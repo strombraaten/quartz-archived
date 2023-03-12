@@ -1,4 +1,10 @@
 ---
+date: 20 Dec, 222022
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "Hva jeg har lært av å skrive 31 artikler på 23 dager"
 ---
 

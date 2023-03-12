@@ -1,16 +1,20 @@
 ---
+date: 02 Mar, 232023
+lastmod: 12 Mar, 232023
 title: "Deploying Quartz to the Web"
 tags:
-- setup
+  - setup
 weight: -1
 aliases:
-- hosting
+  - hosting
 ---
 
 ## Hosting on GitHub Pages
+
 Quartz is designed to be effortless to deploy. If you forked and cloned Quartz directly from the repository, everything should already be good to go! Follow the steps below.
 
 ### Enable GitHub Actions Permissions
+
 By default, GitHub disables workflows from modifying your files (for good reason!). However, Quartz needs this to write the actual site files back to GitHub.
 
 Head to `Settings > Action > General > Workflow Permissions` and choose `Read and Write Permissions`
@@ -28,6 +32,7 @@ Head to the 'Settings' tab of your forked repository and go to the 'Pages' tab.
 ![Enable GitHub Pages](/notes/images/github-pages.png)*Enable GitHub Pages*
 
 ### Pushing Changes
+
 To see your changes on the internet, we need to push it them to GitHub. Quartz is a `git` repository so updating it is the same workflow as you would follow as if it were just a regular software project.
 
 ```shell
@@ -45,6 +50,7 @@ git push origin hugo
 Note: we specifically push to the `hugo` branch here. Our GitHub action automatically runs everytime a push to is detected to that branch and then updates the `master` branch for redeployment.
 
 ### Setting up the Site
+
 Now let's get this site up and running. Never hosted a site before? No problem. Have a fancy custom domain you already own or want to subdomain your Quartz? That's easy too.
 
 Here, we take advantage of GitHub's free page hosting to deploy our site. Change `baseURL` in `/config.toml`. 
@@ -82,11 +88,13 @@ Please note that the `cname` field should *not* have any path `e.g. end with /qu
 Have a custom domain? [Learn how to set it up with Quartz ](notes/custom%20Domain.md).
 
 ### Ignoring Files
+
 Only want to publish a subset of all of your notes? Don't worry, Quartz makes this a simple two-step process.
 
 ❌ [Excluding pages from being published](notes/ignore%20notes.md)
 
 ## Docker Support
+
 If you don't want to use a hosting service, you can host using [Docker](notes/docker.md) instead!
 I would *not use this method* unless you know what you are doing.
 

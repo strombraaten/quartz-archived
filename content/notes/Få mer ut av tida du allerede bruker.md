@@ -1,4 +1,10 @@
 ---
+date: 01 Dec, 222022
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "Få mer ut av tida du uansett bruker"
 ---
 Mye av det jeg liker å skrive om ville nok naturlig havna under kategorien Produktivitet. Samtidig så er det ikke nødvendigvis _produktivitet_ jeg bryr meg. I form av å gjøre mer og mer, på mindre og mindre tid. For tilrettelegger du egentlig for kvalitet på den måten? Tilrettelegger du for å løse et problem som både er _riktig_, i tillegg til å være viktig?

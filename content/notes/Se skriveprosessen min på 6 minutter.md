@@ -1,4 +1,8 @@
 ---
+date: 21 Dec, 222022
+lastmod: 12 Mar, 232023
+tags: 
+aliases: 
 title: "Se skriveprosessen min på 6 minutter"
 ---
 > [!NOTE] Merknad
@@ -26,6 +30,7 @@ I denne filmen får du se:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uiLXSqB-P3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Hva som inngår i skriveprosessen
+
 I går ramsa jeg opp [[notes/Hva jeg har lært av å skrive 31 artikler på 23 dager]] . Ut fra det kan vi se at det er ulike *sider* ved skriveprosessen. Det er ikke *bare* å sette seg ned å skrive på et tastatur. Som [[Sönke Ahrens]] nevner i boka [[Boknotat - How to Take Smart Notes|How to Take Smart Notes]]:
 
 >  It also means reading, understanding, reflecting, getting ideas, making connections, distinguishing terms, finding the right words, structuring, organizing, editing, correcting and rewriting.
