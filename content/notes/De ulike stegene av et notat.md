@@ -1,4 +1,10 @@
 ---
+date: 05 Mar, 232023
+lastmod: 12 Mar, 232023
+tags:
+  - 
+aliases:
+  - 
 title: "De ulike stegene av et notat"
 ---
 

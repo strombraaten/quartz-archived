@@ -3,7 +3,6 @@ date: Friday, 16th December, 2022
 lastmod: Sunday, 12th March, 2023
 tags:
   - apper
-  - obsidian
 title: "Linking your thinking"
 ---
 
