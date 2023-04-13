@@ -1,4 +1,4 @@
-baseURL = "https://simenskriver.no/"
+baseURL = "https://www.simenskriver.no/"
 defaultContentLanguage = "no"
 languageCode = "no"
 relativeURLs = false
