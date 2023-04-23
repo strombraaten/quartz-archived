@@ -13,4 +13,4 @@ Denne sida er en måte å dokumentere det jeg lærer på. I tillegg til å utfor
 
 Med det sagt, hvor vil du starte?
 
-## Oversikt over tanker og konsepter
+## Oversikt
