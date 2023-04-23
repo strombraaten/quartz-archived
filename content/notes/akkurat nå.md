@@ -34,8 +34,8 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 
 ## Jobbtanker
 
-1.  8pt designsystem
-2.  Generelle designprinsipper retta mot brukergrensesnitt
+1. [8pt designsystem](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
+2. [Generelle designprinsipper](https://anthonyhobday.com/sideprojects/saferules/) retta mot brukergrensesnitt, fra Anthony Hobday
 
 
 > [!example]- Tidligere jobbtanker
@@ -45,13 +45,12 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 
 ## Hva jeg nerder ut på
 
-1. Hvordan jeg kan tilrettelegge min egen [[notes/digital hage|digitale hage]]
+1. Hvordan jeg kan tilrettelegge min egen [[notes/Digitalt hagearbeid|digital hage]]
 2. Hvordan jeg bruker Eagle-appen til å strukturere bilder, og generell visuell inspirasjon
 
 >[!example]- Hva jeg har nerda ut på tidligere
 >- [CleanshotX-appen](https://www.simenskriver.no/den-ene-funksjonen/)
->- Hvordan kna ut pizzadeig for å få best skorpe
+>- Brødbaking
 >- Hvordan bruke [Obsidian](https://obsidian.md/?ref=simen-skriver). Mer spesifikt:
->	- Tags vs links, hva slags organisering som gir mening for meg
->	- Hvordan jeg kan bruke den nye canvas-funksjonen som kommer snart
+>	- Hvordan ["context" i Make.md-pluginen](https://www.make.md/docs/Contexts) kan brukes for å sortere store mengder med notater
 >	- Virker som at query-funksjonen i Roam kan etterlignes gjennom Dataview-pluginen, men prøver jeg å bite over mer enn jeg kan tygge med det der?
