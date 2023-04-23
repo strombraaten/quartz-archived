@@ -1,24 +1,12 @@
 ---
 date: 26 Mar, 2023
-lastmod: 26 Mar, 2023
-tags: 
-aliases: 
+lastmod: 23 Apr, 2023
+tags:
+  - 
+aliases:
+  - 
 title: "Ting jeg bruker"
 ---
-
-### Apper
-
--   Things
--   Raycast
--   Notion
--   Obsidian
--   Raycast
--   Readwise
--   1password
--   Airr
--   Freeletics
--   Arc
--   Headspace for meditasjon, Calm for sleep stories
 
 ### Hva jeg har på pulten
 
