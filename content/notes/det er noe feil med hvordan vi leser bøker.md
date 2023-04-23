@@ -88,4 +88,6 @@ For om du gjør noe aktivt hver eneste dag har det nesten ikke noe å si *hva* d
 
 Det er selve vanen av å lese, og trene, som betyr noe. 
 
+---
+
 Ps. [Austin Kleon har også noen fine tanker om hvordan lese mer](https://austinkleon.com/2019/03/21/how-to-read-more-3/), hvor han slår et slag for å lese de bøkene du *vil* lese, og si deg ferdig med de bøkene du bare *burde* lese.

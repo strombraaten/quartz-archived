@@ -1,8 +1,10 @@
 ---
 date: 07 Apr, 2023
 lastmod: 23 Apr, 2023
-tags: 
-aliases: 
+tags:
+  - 
+aliases:
+  - 
 title: "snøballeffekten av læring"
 ---
 > [!hint]- Stikling 🌿
