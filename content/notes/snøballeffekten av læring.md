@@ -1,6 +1,6 @@
 ---
 date: 07 Apr, 2023
-lastmod: 07 Apr, 2023
+lastmod: 23 Apr, 2023
 tags: 
 aliases: 
 title: "snøballeffekten av læring"
@@ -12,4 +12,4 @@ Det vil alltid være noe du *burde* lære deg. Samtidig er det sjeldent moro å 
 
 Kanskje det er en arbeidsoppgave du gjør på jobb som du veit at du *kan sikkert* gjøre den fortere, hvis du bare lærte deg en annen tilnærming som går litt fortere. 
 
-Om du derimot følger interessene dine, følger nysgjerrigheten rett og slett, så har jeg en hypotese om at det vil også smitte videre til andre områder. At det er viktigere å bygge opp en slags lyst til å lære. Eller en glede av å lære. Enn det er å alltid lære seg "den rette tingen".
+Om du derimot følger interessene dine, følger nysgjerrigheten rett og slett, så vil det smitte videre til andre områder. Derfor er det viktigere å bygge opp en slags lyst til å lære, eller en glede av å lære, enn det er å lære seg "den rette tingen".
