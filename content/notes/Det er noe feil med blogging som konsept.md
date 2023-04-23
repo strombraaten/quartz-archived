@@ -1,6 +1,6 @@
 ---
 date: 04 Mar, 2023
-lastmod: 12 Mar, 2023
+lastmod: 23 Apr, 2023
 tags:
   - 
 aliases:
@@ -19,7 +19,7 @@ På én måte kan det være fint med rekkefølge, en reversert kronologisk rekke
 
 Amy Hoy sier det i grunn fint, i _["How the blog broke the web"](https://stackingthebricks.com/how-blogs-broke-the-web/)_, hvor hu tar et historisk blikk på hvordan innhold på internett var før:
 
-> [!Quote] Sitat
+> [!Quote] Sitat, Amy Hoy:
 > Dates didn’t matter all that much. **Content lasted longer**; there was less of it. Older content remained in view, too, because the dominant metaphor was _table of contents_ rather than _**diary** entry._
 
 I [desember skreiv jeg sikkert sju artikler](https://www.simenskriver.no/tag/notatsystem/) eller mer som hadde med notatsystemer og skriving å gjøre. Dersom jeg skal behandle hver artikkel som enkeltstående blir jeg da nødt til å gjenta noe jeg har sagt fra før, til en viss grad. Nettopp for at det skal være forståelig for deg som leser.
@@ -32,7 +32,7 @@ Dersom jeg heller bearbeider tekstene over tid, og fletter dem sammen i form av 
 
 Riktignok blir det en opplevelse hvor du selv kan velge hva du vil lese mer om. På samme måte som du er vant med fra wikipedia blant annet, hvor det er helt† linkebonanza, som kan sende deg i mange ulike retninger.
 
-Om du har følgt med på sida her en stund nå begynner det kanskje å ringe en bjelle. Jeg snakker såklart om en _[digital hage](https://www.simenskriver.no/digitalt-hagearbeid/)._ Nøyaktig hva jeg syns om det begrepet der på norsk er jeg ikke sikker på, men det er det jeg har kalt det tidligere så da er det vel fornuftig å fortsette.
+Om du har følgt med på sida her en stund nå begynner det kanskje å ringe en bjelle. Jeg snakker såklart om en [[notes/Digitalt hagearbeid|digital hage]]. Nøyaktig hva jeg syns om det begrepet der på norsk er jeg ikke sikker på, men det er det jeg har kalt det tidligere så da er det vel fornuftig å fortsette.
 
 En digital hage lar meg velge rekkefølgen til en viss grad, og velge hva jeg vil vise fram, men hovedsakelig er det opp til deg, og hva du er nysgjerrig på.
 
