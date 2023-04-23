@@ -68,3 +68,35 @@ See [documentation on supported types and syntax here](https://help.obsidian.md/
 > [!quote] Quote
 >
 > Aliases: quote, cite
+
+---
+### Foldable callouts 
+
+You can make a callout foldable by adding a plus (+) or a minus (-) directly after the type identifier.
+
+A plus sign expands the callout by default, and a minus sign collapses it instead.
+
+```markdown
+> [!faq]- Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+```
+
+Are callouts foldable?
+
+Yes! In a foldable callout, the contents are hidden when collapsed.
+
+### Nested callouts
+
+You can nest callouts in multiple levels.
+
+```markdown
+> [!question] Can callouts be nested?
+> > [!todo] Yes!, they can.
+> > > [!example]  You can even use multiple layers of nesting.
+```
+
+Can callouts be nested?
+
+Yes!, they can.
+
+You can even use multiple layers of nesting.

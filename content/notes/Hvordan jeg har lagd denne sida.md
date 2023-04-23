@@ -1,6 +1,6 @@
 ---
 date: 04 Mar, 2023
-lastmod: 12 Mar, 2023
+lastmod: 15 Apr, 2023
 tags:
   - 
 aliases:
@@ -39,6 +39,6 @@ read about [why I made Quartz](notes/philosophy.md) to begin with.
 
 > 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+## Verdt å vite
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+> *Notes in the private folder are not published to the website but keep in mind that they are still visible in the repository on github*
