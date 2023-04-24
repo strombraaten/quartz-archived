@@ -8,6 +8,9 @@ aliases:
   - syntaks
 title: "Syntaks er nok mer spennende enn du tror"
 ---
+> [!hint]- Blomst 🪴
+> Det betyr at jeg har er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+
 Syntaks er et ord jeg utelukkende forbinder med programmering, med kode. Med andre ord, ting jeg ikke kan.
 
 Som designer derimot er det naturlig at mange av samtalene mine i løpet av en dag, er med de folka som får designet til å funke – nemlig utviklere (som skriver kode). Og de, de forholder seg til syntaks! Jeg derimot, gjør ikke det. Or so I thought.

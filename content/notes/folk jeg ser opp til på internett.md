@@ -1,11 +1,16 @@
 ---
 date: 23 Apr, 2023
-lastmod: 23 Apr, 2023
-tags: 
-aliases: 
+lastmod: 24 Apr, 2023
+tags:
+  - 
+aliases:
+  - 
 title: "folk jeg ser opp til på internett"
 ---
 ---
+> [!hint]- Frø  🌱
+> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
+
 - [Anthony Hobday](https://anthonyhobday.com/)
 	- Liker spesielt godt hvordan han har oppsummert en haug med [prinsipper for å lage brukergrensesnitt](https://anthonyhobday.com/sideprojects/saferules/)
 - [Maggie Appleton](https://maggieappleton.com/)

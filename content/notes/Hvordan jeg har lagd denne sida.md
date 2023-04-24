@@ -8,6 +8,9 @@ aliases:
 title: "Hvordan jeg har lagd denne sida"
 ---
 
+> [!hint]- Frø  🌱
+> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
+
 ## Hvordan henger det sammen?
 
 Jeg skulle prøve å forklare det her til en utvikler-kompis av meg, som i grunn er litt gøy. For jeg veit jo hva jeg har gjort, men jeg er neimen ikke sikker på hvordan det henger sammen, eller hvorfor jeg har gjort som jeg har gjort. Jeg har jo ærlig talt bare fulgt opp en [oppskrift](notes/setup.md)
