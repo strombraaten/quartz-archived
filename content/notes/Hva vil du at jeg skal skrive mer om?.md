@@ -7,6 +7,9 @@ aliases:
   - 
 title: "Hva vil du at jeg skal skrive mer om?"
 ---
+> [!hint]- Stikling 🌿
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 
 _Det her blir nok ganske så meta, for nå skal jeg skrive om en prosess jeg også skal gjennomføre._
 

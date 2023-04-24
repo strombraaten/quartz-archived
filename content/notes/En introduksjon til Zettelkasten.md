@@ -7,6 +7,9 @@ title: "En introduksjon til Zettelkasten"
 aliases:
   - notes/zettelkasten/
 ---
+> [!hint]- Stikling 🌿
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 
 > [!info] Vegg med tekst, incoming!
 Denne artikkelen kommer jeg til å peke tilbake på støtt og stadig, og siden den består av flere deler som kunne vært isolert for seg sjøl, blir den naturligvis lengre enn mye annet.

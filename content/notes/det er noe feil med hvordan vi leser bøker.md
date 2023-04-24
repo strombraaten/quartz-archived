@@ -8,7 +8,8 @@ aliases:
 title: "Det er noe feil med hvordan vi leser bøker"
 ---
 > [!hint]- Blomst 🪴
-> Dette er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 
 Jeg tror det er på tide å revurdere hvordan vi leser bøker. Spesielt de du leser for å la deg inspirere. De bøkene som gir deg nye tanker. Nye perspektiver, nye måter å se verden på. Kanskje også de bøkene hvor du går aktivt inn for å lære deg noe.
 

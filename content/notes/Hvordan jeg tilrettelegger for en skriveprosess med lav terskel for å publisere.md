@@ -8,6 +8,9 @@ aliases:
 draft: true
 title: "Hvordan jeg tilrettelegger for en skriveprosess med lav terskel for å publisere"
 ---
+> [!hint]- Frø  🌱
+>
+> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
 
 Det her henger forsåvidt sammen med det jeg skreiv sist, om [Endringer i horisonten](https://www.simenskriver.no/endringer-i-horisonten/). For da jeg nevnte at det var to spørsmål jeg hadde tenkt mye på i det siste, hvor det ene gikk ut på hva jeg hadde satt overraskende stor pris på, med simenskriver-prosjektet. I tillegg til hvordan jeg tilrettelegger for en skriveprosess med lav terskel for å publisere. Det skal vi se på nå.
 

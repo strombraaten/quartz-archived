@@ -7,6 +7,9 @@ tags:
   - apper
 title: "Linking your thinking"
 ---
+> [!hint]- Stikling 🌿
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 
 Du skulle kanskje tro at det å skrive om å skrive, eller mer presist skrive om notater, hadde en slags begrensning, men tydeligvis ikke!
 

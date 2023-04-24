@@ -7,6 +7,10 @@ aliases:
   - 
 title: "En tanke i utvikling"
 ---
+> [!hint]- Blomst 🪴
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+
 Da jeg snakka om [[notes/Digitalt hagearbeid|digitalt hagearbeid]] nevnte jeg hvordan [Maggie Appleton](https://maggieappleton.com/?ref=simen-skriver) definerer progresjonen av et notat gjennom kategoriene _budding, seedling_, og _evergreen_.
 
 Det er fordi hu deler tankene sine mens de fremdeles er uferdige. Ikke perfekte. Ikke gjennomførte. Og derfor setter hu en merkelapp på hvor langt i prosessen hvert notat har kommet. Spør du meg, så er det noe fundamentalt ubehagelig ved den prosessen. Noe avslørende på en måte? Samtidig syns jeg det er utrolig spennende.

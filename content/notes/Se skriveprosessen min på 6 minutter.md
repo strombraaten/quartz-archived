@@ -7,6 +7,10 @@ aliases:
   - 
 title: "Se skriveprosessen min på 6 minutter"
 ---
+> [!hint]- Blomst 🪴
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+
 > [!NOTE] Merknad
 > Ingen vennskap blei skadd under dette eksperimentet
  

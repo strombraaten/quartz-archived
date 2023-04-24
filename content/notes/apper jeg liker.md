@@ -7,9 +7,9 @@ tags:
   - 
 title: apper jeg liker
 ---
-
 > [!hint]- Stikling 🌿
-> Denne ideen er ikke helt bearbeida, jeg kjenner at den trenger mer kjærlighet og oppmerksomhet, men det er noe bra å hente her.
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 
 ## Mac
 

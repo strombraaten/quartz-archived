@@ -7,6 +7,10 @@ tags:
   - 
 title: "Om å bruke det du lærer"
 ---
+> [!hint]- Blomst 🪴
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+
 I blant føler jeg meg litt flåsete når jeg siterer folk i øst og vest, og refererer til bøker, artikler og podcaster. Som om jeg prøver å virke mer intellektuell og belest, med nesa til værs, enn det jeg egentlig er.
 
 For all del, i løpet av et halvår leser jeg kanskje to-tre bøker, så det er da noe, men det som slo meg er at det her er hvordan jeg faktisk _bruker_ det jeg lærer. Og det kjenner jeg er verdifullt.

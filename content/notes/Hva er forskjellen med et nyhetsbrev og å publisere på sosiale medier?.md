@@ -8,6 +8,10 @@ aliases:
 title: "Hva er forskjellen med et nyhetsbrev og å publisere på sosiale medier?"
 draft: true
 ---
+> [!hint]- Stikling 🌿
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+
 Spennende spørsmål, ikke sant? Det kom fra min gode venn, Kjartan, som forøvrig har som mål i livet og få en shoutout i nyhetsbrevet. Og jeg er da en mann av folket, så da gir man folket det folket vil ha.
 
 ![[notes/images/Kjartan_nyhetsbrev-og-sosialemedier.png]]

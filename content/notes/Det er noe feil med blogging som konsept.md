@@ -7,6 +7,10 @@ aliases:
   - 
 title: "Det er noe feil med blogging som konsept"
 ---
+> [!hint]- Stikling 🌿
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+
 Øverst på bloggen min vil du nå finne det innlegget her. Og rett under ligger det jeg skreiv sist. Siden vi da beveger vårs tilbake i tid, med de eldste innleggene sist, blir det altså en _reversert kronologisk_ rekkefølge. Sånn har det vært siden slutten av 1990-tallet og begynnelsen på 2000-tallet.
 
 Det du publiserte sist ligger øverst, og får da mest oppmerksomhet. Betyr det at det innlegget er.. det viktigste? Det beste av det beste? Det som er mest relevant  for deg akkurat her og nå? Overhodet ikke.

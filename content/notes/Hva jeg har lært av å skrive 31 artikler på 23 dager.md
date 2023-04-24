@@ -2,11 +2,14 @@
 date: 20 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - skriving
 aliases:
   - 
 title: "Hva jeg har lært av å skrive 31 artikler på 23 dager"
 ---
+> [!hint]- Blomst 🪴
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 
 Nå skal ikke jeg ta seieren på forskudd her, men dette er den nest siste dagen av skrivekalenderen min – dag 23 av 24 – og jeg føler meg rimelig trygg på at jeg skal ro det her i land.
 

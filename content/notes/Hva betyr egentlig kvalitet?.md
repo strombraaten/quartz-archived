@@ -7,6 +7,9 @@ title: "Hva betyr egentlig kvalitet?"
 aliases:
   - notes/kvalitet/
 ---
+> [!hint]- Blomst 🪴
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 
 > [!NOTE] Kommentar fra framtids-Simen
 > Denne artikkelen burde sees i sammenheng med oppfølgeren, [[notes/Vent nå litt]], ettersom jeg leste mer om kvalitet i ulike sammenhenger.

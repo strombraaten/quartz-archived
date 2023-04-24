@@ -7,6 +7,10 @@ aliases:
   - 
 title: "Hvor ord egentlig kommer fra"
 ---
+> [!hint]- Blomst 🪴
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+
 Jeg pleier å se på _etymologi_ som ords opprinnelse. At det er samlebegrepet for å se på et ord eller utrykk, og tenke _"Hvor kommer egentlig det fra?"_, og komme til bunns i det spørsmålet. Å forstå seg på historien til ett enkelt ord.
 
 Jeg husker ikke hvordan jeg snubla over det fremmedordet til å starte med, men jeg har fått mye glede av det siden. Det er jo spennende å lære noe nytt, og med etymologi virker det som det er en slags løk av kunnskap, hvor du skreller tilbake lag for lag, ettersom du forstår historien bedre og bedre.

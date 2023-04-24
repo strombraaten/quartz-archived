@@ -7,10 +7,9 @@ aliases:
   - 
 title: "De ulike stegene av et notat"
 ---
-
-> [!Info]- Verdt å vite før du leser:
-Dette er første eksempel på å dele noe som ikke er ferdig. Så ubehagelig som det høres ut. 
-Noen dager vil det nok virke forholdsvis sammenhengende. Andre dager vil det sannsynligvis være vanskelig å skjønne tanken bak det jeg deler. Samtidig vil det gi deg en mulighet til å se hvordan artiklene utvikler seg over tid. Les mer om bakgrunnen bak det i [[notes/En tanke i utvikling]]
+> [!hint]- Stikling 🌿
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 
 I designverden er det noe som kalles [Double Diamond](https://www.designcouncil.org.uk/our-work/news-opinion/double-diamond-15-years/?ref=simen-skriver). Det er en prosess som beskriver hvordan man går bredt ut for å _utforske_ utfordringer og løsninger (divergerer), for så å _snevre inn_ og fokusere arbeidet, og prioritere, og definere konkrete elementer (konvergere).
 

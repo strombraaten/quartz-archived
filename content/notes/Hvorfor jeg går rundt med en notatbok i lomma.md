@@ -7,6 +7,10 @@ aliases:
   - 
 title: "Hvorfor jeg går rundt med en notatbok i lomma"
 ---
+> [!hint]- Blomst 🪴
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+
 Grunnen er veldig enkel. En notatbok distraherer deg ikke i å skrive ned en tanke. Det gjør derimot telefonen din.
 
 En notatbok derimot føles som om den oppfordrer deg til uavbrutt tankegang. Det er overraskende likt som en venn som er veldig god til å lytte. Du veit, den personen som bare følger konsentrert med på hva du sier, og gir deg en anerkjennende lyd underveis, bare for å si _"Å ja, jeg skjønner akkurat hva du mener"_. Å skrive i en notatbok er akkurat som den følelsen der.

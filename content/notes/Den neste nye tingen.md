@@ -7,6 +7,10 @@ aliases:
   - 
 title: "Den neste nye tingen"
 ---
+> [!hint]- Stikling 🌿
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+
 I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, Obsidian, og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.
 
 ## Hva som er så moro

@@ -9,6 +9,10 @@ title: "Ditt framtidige, fremmede jeg"
 enableToc: true
 openToc: false
 ---
+> [!hint]- Blomst 🪴
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+
 Einstein sa en gang noe om at det er først når du kan lære bort noe til andre at du virkelig har forstått det du prøver å lære selv. Føles litt flåsete å sitere Einstein i første setning riktignok, men gi meg en sjanse nå.
 
 Den intensjonen er nemlig veldig relevant når du skal lære deg noe nytt. Når jeg skriver notater om noe jeg vil huske til seinere, så prøver jeg personlig å skrive som om jeg skulle forklart det til en person jeg ikke kjenner.
