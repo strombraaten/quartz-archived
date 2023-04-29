@@ -5,6 +5,7 @@ tags:
   - oversikt
 aliases:
   - 
+title: "skriv for deg selv, ikke for andre"
 ---
 > [!hint]- Frø  🌱
 >

@@ -5,6 +5,7 @@ tags:
   - oversikt
 aliases:
   - 
+title: "hva i huleste er CODE og PARA?"
 ---
 > [!hint]- Stikling 🌿
 >
