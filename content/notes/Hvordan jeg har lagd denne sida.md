@@ -20,7 +20,7 @@ Det som er litt gøy er at jeg skulle prøve å forklare hva jeg hadde gjort til
 
 Det vi fant ut av sammen riktignok er at:
 - Innholdet hostes gjennom Github
-- Obsidian fungerer som et CMS (content management system)
+- [[notes/obsidian|Obsidian]] fungerer som et CMS (content management system)
 	- Når jeg skriver et nytt notat, eller endrer noe må jeg deretter "pushe" det med git, ved å bruke noen git-kommandoer som jeg har blitt veldig godt kjent med i terminalen nå
 - Den store fordelen for meg er at jeg kan forholde meg til den appen jeg skriver i fra før av, nemlig [[notes/obsidian|obsidian]].
 

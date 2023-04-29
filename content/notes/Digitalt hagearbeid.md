@@ -2,7 +2,7 @@
 date: 12 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - digital hage
   - notes/digital-hage
@@ -25,7 +25,7 @@ I stedet for å publisere artikkel nummer to i det tilfellet kunne jeg bare redi
 
 ## Bruksområde
 
-Det her må jo ikke være offentlig så alle kan se. Det trenger ikke å være slottsparken foråsirresånn. Metaforisk sett er det ingen som stopper deg fra å ha en pallekasse for deg sjøl, hvor du pitler på. Med andre ord, du kan lage ditt eget digitale system, kun for deg, og ingen andre. Enten gjennom apper som Obsidian og Notion, hvor du enkelt kan linke mellom notatene, eller i mer almennelige apper som Apple sin egen notat-app, og bare vedlikeholde notatene du har der.
+Det her må jo ikke være offentlig så alle kan se. Det trenger ikke å være slottsparken foråsirresånn. Metaforisk sett er det ingen som stopper deg fra å ha en pallekasse for deg sjøl, hvor du pitler på. Med andre ord, du kan lage ditt eget digitale system, kun for deg, og ingen andre. Enten gjennom apper som [[notes/obsidian|Obsidian]] og Notion, hvor du enkelt kan linke mellom notatene, eller i mer almennelige apper som Apple sin egen notat-app, og bare vedlikeholde notatene du har der.
 
 ## Tankefrø
 

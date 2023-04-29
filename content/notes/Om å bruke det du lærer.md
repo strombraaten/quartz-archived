@@ -2,7 +2,7 @@
 date: 09 Dec, 2022
 lastmod: 12 Mar, 2023
 aliases:
-  - 
+  - oversikt
 tags:
   - 
 title: "Om å bruke det du lærer"

@@ -2,7 +2,7 @@
 date: 23 Apr, 2023
 lastmod: 24 Apr, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "folk jeg ser opp til på internett"

@@ -2,7 +2,7 @@
 date: 08 Mar, 2023
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "Hva er forskjellen med et nyhetsbrev og å publisere på sosiale medier?"

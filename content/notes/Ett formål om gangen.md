@@ -2,7 +2,7 @@
 date: 29 Nov, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "Ett formål om gangen"
@@ -17,12 +17,12 @@ I det siste har jeg lent meg mer og mer mot å bruke "single purpose apps". Alts
 
 ## Et selvskapt problem?
 
-Personlig syns jeg også det er veldig gøy å teste ulike apper til å starte med, så det "problemet" her intensifiseres nok av det. For dersom jeg skal kjapt skrive ned en tanke som dukka opp så vurderer jeg alltid om den hører hjemme i Notion, Obsidian, eller Bear.
+Personlig syns jeg også det er veldig gøy å teste ulike apper til å starte med, så det "problemet" her intensifiseres nok av det. For dersom jeg skal kjapt skrive ned en tanke som dukka opp så vurderer jeg alltid om den hører hjemme i Notion, [[notes/obsidian|Obsidian]], eller Bear.
 
 Tre ulike apper som overraskende nok har tjent tre ulike formål, selv om alle er notatbaserte.
 
 1. [Notion](https://www.notion.so/?ref=simen-skriver) er stedet hvor jeg har lagra, og bearbeida, alt av tekst, oppgaver, planlegging og tanker i løpet av de siste 5-6 årene.
-2. [Obsidian](https://obsidian.md/?ref=simen-skriver) begynte jeg å bruke i fjor, men utelukkende som en måte å få mer ut av det jeg leser og lærer.
+2. [[[notes/obsidian|Obsidian]]](https://[[notes/obsidian|obsidian]].md/?ref=simen-skriver) begynte jeg å bruke i fjor, men utelukkende som en måte å få mer ut av det jeg leser og lærer.
 3. [Bear](https://bear.app/?ref=simen-skriver) har jeg brukt i kanskje 3 år, hovedsakelig fordi det går så mye fortere å skrive ned en tanke der enn det ville vært i Notion. Fra jeg trykker på app-ikonet, får opp et nytt notat, skriver det ned, og lukker appen igjen.
 
 Selv om jeg har lagd en dedikert "Hurtignotat"-funksjon i Notion med snarvei fra hjemskjermen på telefonen, som da samler alle notatene i en slags innboks, men da må jeg fremdeles vurdere om det er jobbrelatert eller personlig. For det er to separate områder. I tillegg så blir systemet bare mer komplekst, når du plutselig må legge opp til større gjennomganger for å sørge for at ting havner på riktig plass.
@@ -33,11 +33,11 @@ Ja, du skjønner greia. Noen vil kanskje påpeke at jeg har skapt den kompleksit
 
 Det å da heller fokusere på apper som har én funksjon åpner da opp for litt mental klarhet, foråsirresånn. Det er ikke like mye å ta stilling til, og det går da mye fortere å komme seg videre med hverdagen.
 
-Og det er her [Obsidian](https://obsidian.md/?ref=simen-skriver) og [Things](https://culturedcode.com/things/?ref=simen-skriver) kommer inn.
+Og det er her [[[notes/obsidian|Obsidian]]](https://[[notes/obsidian|obsidian]].md/?ref=simen-skriver) og [Things](https://culturedcode.com/things/?ref=simen-skriver) kommer inn.
 
 ### Obsidian
 
-Obsidian kan nok også brukes til så mangt, om du vil gå den veien. For min del derimot elsker jeg at den appen tydeliggjør koblinger mellom det jeg leser, og det jeg vil skrive mer om.
+[[notes/obsidian|Obsidian]] kan nok også brukes til så mangt, om du vil gå den veien. For min del derimot elsker jeg at den appen tydeliggjør koblinger mellom det jeg leser, og det jeg vil skrive mer om.
 
 Hvordan da, lurer du? Jo, for det første så har du tags, eller nøkkelord, som vil koble dem sammen, men det som er spennende er linkinga mellom ulike notater. Det blir "d_in egen, personlige Wikipedia på en måte_", som en venn av meg oppsummerte det med, da jeg snakka entusiastisk om det tidligere.
 
@@ -47,7 +47,7 @@ Nick Milo illustrerer linkinga mellom notater på en veldig god måte i denne vi
 
 ### Når det begynner å bli magisk
 
-Når jeg har lagt meg så pleier jeg å lese en bok på senga, i vente på å bli så trøtt at jeg ikke klarer å holde øya åpne lenger. Underveis markerer jeg noen setninger som jeg liker spesielt godt, eller kanskje det var noe jeg var interessert i å lese mer om. På magisk vis fraktes da de markerte setningene da _inn_ i Obsidian, så det ligger klart når jeg vil bearbeide det seinere. Og det er takket være et slags "bindeledd", som heter [Readwise](https://readwise.io/?ref=simen-skriver) (enda en app).
+Når jeg har lagt meg så pleier jeg å lese en bok på senga, i vente på å bli så trøtt at jeg ikke klarer å holde øya åpne lenger. Underveis markerer jeg noen setninger som jeg liker spesielt godt, eller kanskje det var noe jeg var interessert i å lese mer om. På magisk vis fraktes da de markerte setningene da _inn_ i [[notes/obsidian|Obsidian]], så det ligger klart når jeg vil bearbeide det seinere. Og det er takket være et slags "bindeledd", som heter [Readwise](https://readwise.io/?ref=simen-skriver) (enda en app).
 
 Når jeg da setter meg ned for å skrive på morgen, dagen etter, kan jeg hente ut de setningene jeg markerte kvelden før, og bruke det som grunnlag for det jeg vil skrive om.
 
@@ -77,5 +77,5 @@ Ja, det er kanskje orden på loftet, men du kunne sannsynligvis kasta 60-70% av 
 
 ## Forutsigbarhet er viktig for et godt system
 
-For å oppsummere: det er mange grunner her som gjør meg gira, men én eller to av dem er enkelheten, og forutsigbarheten i at kunnskap hører hjemme i Obsidian, og oppgaver hører hjemme i Things. Enn så lenge fortsetter jeg å gjøre mye av "tankearbeidet" mitt, i mangel på bedre ord, i Notion. For det er det faktisk utrolig godt egna for. Men det er utrolig befriende å ikke løse alle problemer med ett program, men heller fordele eggene mine utover noen flere kurver.
+For å oppsummere: det er mange grunner her som gjør meg gira, men én eller to av dem er enkelheten, og forutsigbarheten i at kunnskap hører hjemme i [[notes/obsidian|Obsidian]], og oppgaver hører hjemme i Things. Enn så lenge fortsetter jeg å gjøre mye av "tankearbeidet" mitt, i mangel på bedre ord, i Notion. For det er det faktisk utrolig godt egna for. Men det er utrolig befriende å ikke løse alle problemer med ett program, men heller fordele eggene mine utover noen flere kurver.
 

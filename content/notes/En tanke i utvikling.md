@@ -2,7 +2,7 @@
 date: 05 Mar, 2023
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "En tanke i utvikling"
@@ -40,4 +40,4 @@ _I dag skreiv jeg videre på disse artikkel-ideene:_
 1.  De ulike stegene av et notat
 2.  Nevroplastisitet, og hvordan øvelse gjør mester
 3.  Hvordan former verktøyet tankene?
-4.  Hvorfor jeg blir så gira av Obsidian
+4.  Hvorfor jeg blir så gira av [[notes/obsidian|Obsidian]]

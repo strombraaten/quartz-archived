@@ -5,6 +5,7 @@ date: 16 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
   - apper
+  - oversikt
 title: "Linking your thinking"
 ---
 > [!hint]- Stikling 🌿
@@ -30,11 +31,11 @@ Det er akkurat det jeg gjør med skrivinga mi nå. Jeg fordeler min totale skriv
 > [!quote] Som jeg har nevnt tidligere i [[notes/En tanke i utvikling|En tanke i utvikling]]:
 *Samtidig er det ikke alle dager jeg har en fullkommen tanke å dele. Og det er lettere for meg å skrive __litt__ på __flere__ notater, enn det er å fullføre ett enkelt. Så da gir vi det et forsøk.*
 
-Om jeg hadde brukt ordet _investering_, i den artikkelen, mens jeg skreiv det i Obsidian, så ville jeg sett at det dukka opp som en link.
+Om jeg hadde brukt ordet _investering_, i den artikkelen, mens jeg skreiv det i [[notes/obsidian|Obsidian]], så ville jeg sett at det dukka opp som en link.
 
 ![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-16-at-07.39.15@2x.png)
 
-*Bildet viser to av linkene som er tilknyttet dette notatet mens jeg skriver i Obsidian.*
+*Bildet viser to av linkene som er tilknyttet dette notatet mens jeg skriver i [[notes/obsidian|obsidian]].*
 
 ## Hvordan dette er stikk motsatt fra de fleste notat-apper
 
@@ -44,7 +45,7 @@ Da jeg tok dypdykket mitt i privatøkonomi, om jeg hadde jeg linka tankene mine 
 
 I mange notat-apper, som Notion, Evernote, og Notat-appen til Apple, så vil de eldste notatene dyttes lenger ned, siden det kommer nye notater inn på toppen. På den måten blir de eldste notatene gradvis vanskeligere og vanskeligere å finne. Eller iallefall "snuble over" tilfeldigvis, for du kan alltids søke dem opp, dersom du husker hva de handla om og hvor du eventuelt finner dem.
 
-Ved å linke notatene dine sammen derimot, i apper som Obsidian, LogSeq, eller RoamResearch, så _mister_ de ikke verdien sin desto eldre de blir. Tvert i mot, de _øker_ i verdi ved at du har dannet koblinger videre til andre tanker. Du beriker altså den opprinnelige tanken, og alle de den er kobla til.
+Ved å linke notatene dine sammen derimot, i apper som [[notes/obsidian|Obsidian]], LogSeq, eller RoamResearch, så _mister_ de ikke verdien sin desto eldre de blir. Tvert i mot, de _øker_ i verdi ved at du har dannet koblinger videre til andre tanker. Du beriker altså den opprinnelige tanken, og alle de den er kobla til.
 
 ## Din egen wikipedia
 

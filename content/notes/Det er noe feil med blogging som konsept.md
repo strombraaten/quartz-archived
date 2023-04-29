@@ -2,7 +2,7 @@
 date: 04 Mar, 2023
 lastmod: 23 Apr, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "Det er noe feil med blogging som konsept"

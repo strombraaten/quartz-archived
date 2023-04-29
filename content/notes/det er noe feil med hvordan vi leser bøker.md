@@ -2,7 +2,7 @@
 date: 07 Apr, 2023
 lastmod: 23 Apr, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "Det er noe feil med hvordan vi leser bøker"

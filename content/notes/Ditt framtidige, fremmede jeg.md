@@ -2,7 +2,7 @@
 date: 04 Mar, 2023
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "Ditt framtidige, fremmede jeg"

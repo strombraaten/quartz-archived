@@ -3,6 +3,7 @@ date: 20 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
   - skriving
+  - oversikt
 aliases:
   - 
 title: "Hva jeg har lært av å skrive 31 artikler på 23 dager"

@@ -2,7 +2,7 @@
 date: 19 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "Den neste nye tingen"
@@ -11,7 +11,7 @@ title: "Den neste nye tingen"
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 
-I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, Obsidian, og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.
+I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, [[notes/obsidian|Obsidian]], og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.
 
 ## Hva som er så moro
 
@@ -55,7 +55,7 @@ En query-funksjon betyr at du kan på sett og vis "spørre" systemet ditt om å 
 
 ![](https://www.simenskriver.no/content/images/2022/12/Simens-skjermbilder-19-12-2022--kl-22.56.47@2x.png)
 
-I tillegg er jeg fascinert av tilnærminga til et daglig notat som utgangspunktet for alt av organisering. Det er forsåvidt noe jeg fint kan gjøre i Obsidian og, men som jeg bare ikke har gjort i like stor grad.
+I tillegg er jeg fascinert av tilnærminga til et daglig notat som utgangspunktet for alt av organisering. Det er forsåvidt noe jeg fint kan gjøre i [[notes/obsidian|Obsidian]] og, men som jeg bare ikke har gjort i like stor grad.
 
 ## Det blir aldri godt nok
 

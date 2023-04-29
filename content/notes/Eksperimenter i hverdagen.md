@@ -2,7 +2,7 @@
 aliases:
   - 
 tags:
-  - 
+  - oversikt
 date: 06 Dec, 2022
 lastmod: 12 Mar, 2023
 title: "Eksperimenter i hverdagen"

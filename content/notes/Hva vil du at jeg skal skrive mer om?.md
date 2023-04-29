@@ -2,7 +2,7 @@
 date: 08 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "Hva vil du at jeg skal skrive mer om?"
@@ -70,8 +70,8 @@ Okei. Da kjører vi i gang, i alfabetisk rekkefølge:
 
 1.  5-10 apper som øker livskvaliteten
     -   Eventuelt spesifikke features i de appene
-2.  Notion, Obsidian, Pika, CleanshotX, Miro, Figma (spesielt relevant å lære bort Figma)
-3.  Hvordan jeg setter opp systemet mitt i Obsidian for å optimere mot å skrive mer
+2.  Notion, [[notes/obsidian|Obsidian]], Pika, CleanshotX, Miro, Figma (spesielt relevant å lære bort Figma)
+3.  Hvordan jeg setter opp systemet mitt i [[notes/obsidian|Obsidian]] for å optimere mot å skrive mer
 4.  Hva jeg tenker på når jeg skriver notater jeg vil spare til seinere
 5.  Hvilke apper jeg ville installert på macen om jeg "starta på nytt"
     -   Hvilke apper som virkelig er verdt å betale for
@@ -79,7 +79,7 @@ Okei. Da kjører vi i gang, i alfabetisk rekkefølge:
     -   Som å kunne ha to Notion-vinduer åpne ved siden av hverandre
 7.  Hurtigtaster for å redigere tekst fortere
 8.  Hvorfor Markdown er overraskende kjekt å lære seg
-    -   Helst i Notion eller Obsidian
+    -   Helst i Notion eller [[notes/obsidian|Obsidian]]
 9.  Hvilke Notion-templates jeg er mest stolt av
 
 ### D) Design
@@ -97,7 +97,7 @@ Okei. Da kjører vi i gang, i alfabetisk rekkefølge:
 
 1.  Kortfatta oppskrift av hvordan du lagrer "bokmerker" i podcaster
     -   Readwise Pro + pris
-    -   Obsidian Sync + Pris
+    -   [[notes/obsidian|Obsidian]] Sync + Pris
     -   Airpods triple-tap
     -   Om jeg hadde filma da, klarer jeg å klippe det ned til 60 sekunder?
 2.  Triks for å være mindre groggy om morgen hvis du ikke kan sove så lenge du vil (REM-sykluser)

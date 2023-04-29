@@ -2,7 +2,7 @@
 date: 15 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "Å skape løsningen i fellesskap"

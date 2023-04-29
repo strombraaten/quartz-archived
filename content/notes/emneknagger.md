@@ -1,8 +1,10 @@
 ---
 date: 07 Apr, 2023
-lastmod: 07 Apr, 2023
-tags: 
-aliases: 
+lastmod: 29 Apr, 2023
+tags:
+  - oversikt
+aliases:
+  - 
 title: "emneknagger"
 ---
 > [!hint]- Stikling 🌿

@@ -4,7 +4,7 @@ aliases:
 date: 14 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 title: "Hvorfor jeg blir så gira av Obsidian"
 ---
 > [!hint]- Stikling 🌿
@@ -27,13 +27,13 @@ Og det er der [[Obsidian]] kommer inn i bildet, for min del.
 
 ## Nytt og spennende, eller kjent og kjært?
 
-Om 7 dager er det nøyaktig ett år siden jeg betalte for mitt første år med Obsidian. Eller. Appen er [utrolig nok gratis](https://obsidian.md/pricing), og du kan klare deg helt fint med det, men du må betale for tilleggstjenesten av å synkronisere notatene dine gjennom deres servere. Som er forståelig nok. Om du har dropbox eller icloud-lagring fra før av riktignok så kan du bruke Obsidian helt gratis, uten å måtte betale ei krone.
+Om 7 dager er det nøyaktig ett år siden jeg betalte for mitt første år med [[notes/obsidian|Obsidian]]. Eller. Appen er [utrolig nok gratis](https://obsidian.md/pricing), og du kan klare deg helt fint med det, men du må betale for tilleggstjenesten av å synkronisere notatene dine gjennom deres servere. Som er forståelig nok. Om du har dropbox eller icloud-lagring fra før av riktignok så kan du bruke [[notes/obsidian|Obsidian]] helt gratis, uten å måtte betale ei krone.
 
 Da jeg snubla over en ny og fristende app, som heter [Tana](https://tana.inc/?ref=simen-skriver), begynte jeg å tenke over spørsmålet:
 
 > Når er det du _ikke_ burde kaste deg ut i den neste nye tingen?
 
-For det er i grunn først nå nylig at jeg har blitt mer og mer _flytende_ i Obsidian. At det ligger mer i fingra enn det har gjort tidligere.
+For det er i grunn først nå nylig at jeg har blitt mer og mer _flytende_ i [[notes/obsidian|Obsidian]]. At det ligger mer i fingra enn det har gjort tidligere.
 
 Og svaret på mitt på det spørsmålet endte opp med at jeg donerte 250 kr ekstra for å få tidlig tilgang til nye funksjoner (som _[canvas](https://youtu.be/rPescoJzcFA?t=358&ref=simen-skriver))_, i tillegg til å bare støtte utviklinga. For de er tross alt bare [6 personer](https://obsidian.md/about?ref=simen-skriver), og 2 katter. Og jeg er neimen ikke sikker på hvor mange av dem som er ansatt på fulltid engang.
 
@@ -47,7 +47,7 @@ Tidligere [har jeg nevnt](notes/Den%20neste%20nye%20tingen.md) at:
 
 Og det var ganske så fint sagt det der, om jeg skal si det sjøl.
 
-Det som imponerer meg er at når jeg vurderer Obsidian ut fra de kriteriene jeg nevnte, som er viktig for meg så huker den av absolutt alle boksene, og vel så det!
+Det som imponerer meg er at når jeg vurderer [[notes/obsidian|Obsidian]] ut fra de kriteriene jeg nevnte, som er viktig for meg så huker den av absolutt alle boksene, og vel så det!
 
 ### Hurtighet = ✅
 
@@ -59,7 +59,7 @@ Hurtigtaster så langt øye kan se! Og alt kan tilpasses etter dine egne, sære 
 
 ![](https://www.simenskriver.no/content/images/2022/12/Simens-skjermbilder-19-12-2022--kl-23.36.15@2x.png)
 
-Hurtigtaster i Obsidian
+Hurtigtaster i [[notes/obsidian|Obsidian]]
 
 ### Åpenhet rundt hva som videreutvikles = ✅
 
@@ -67,7 +67,7 @@ Yes, sir!
 
 ![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-19-at-21.38.17@2x.png)
 
-"Release notes" i Obsidian
+"Release notes" i [[notes/obsidian|Obsidian]]
 
 ### Light/dark mode = ✅
 
@@ -75,13 +75,13 @@ Yes, sir!
 
 ![](https://www.simenskriver.no/content/images/2022/12/Simens-skjermbilder-20-12-2022--kl-07.19.29.gif)
 
-Light/dark mode i Obsidian
+Light/dark mode i [[notes/obsidian|Obsidian]]
 
 ### Tilgjengelig på tvers av enheter = ✅
 
 Jepp! På iPaden er det overraskende smud for fokusert skriving, og på telefonen fungerer det utmerket for å "fange en flyktig tanke", [som jeg har snakka om tidligere](notes/Hvorfor%20jeg%20går%20rundt%20med%20en%20notatbok%20i%20lomma.md). Personlig bruker jeg hovedsakelig den lille notatboka mi til det, men det er godt å ha muligheten.
 
-Men det er mer.. Og her må vi dele det opp i de mer opplagte grunnene, og de mer overraskende grunnene til hvorfor jeg virkelig har begynt å like Obsidian.
+Men det er mer.. Og her må vi dele det opp i de mer opplagte grunnene, og de mer overraskende grunnene til hvorfor jeg virkelig har begynt å like [[notes/obsidian|Obsidian]].
 
 ## De mer opplagte grunnene
 
@@ -89,7 +89,7 @@ Som jeg har nevnt tidligere i [[notes/Linking your thinking]],
 
 > Ved å linke notatene dine sammen derimot, så _mister_ de ikke verdien sin desto eldre de blir. Tvert i mot, de _øker_ i verdi ved at du har dannet koblinger videre til andre tanker. Du beriker altså den opprinnelige tanken, og alle de den er kobla til.
 
-Det gjør det ikke bare uendelig mye lettere å skrive nye artikler, men det gjør det morsommere å lese, siden jeg har et system for å kunne anvende det seinere. For selve måten Obsidian er satt sammen på så oppfordrer hele systemet til at du skal tenke tydeligere. Trekke unike koblinger mellom det du har tenkt på tidligere, og skrive egne tanker basert på det.
+Det gjør det ikke bare uendelig mye lettere å skrive nye artikler, men det gjør det morsommere å lese, siden jeg har et system for å kunne anvende det seinere. For selve måten [[notes/obsidian|Obsidian]] er satt sammen på så oppfordrer hele systemet til at du skal tenke tydeligere. Trekke unike koblinger mellom det du har tenkt på tidligere, og skrive egne tanker basert på det.
 
 Og _det_! Det gjør meg skikkelig gira.
 
@@ -101,15 +101,15 @@ Det er så utrolig mange folk nå som lærer bort tips og triks, tilnærminger, 
 
 Både gjennom youtube-kanaler, som [FromSergio](https://www.youtube.com/watch?v=ctetnQfSdfM&list=PL7oLu8NfQd84_gsyqBVSVgUmCCgcvSZMx&ref=simen-skriver), [Nicole van der Hoeven](https://www.youtube.com/watch?v=OUrOfIqvGS4&list=PL-1Nqb2waX4Vba6QDVS5rhnSb9pZGTO4b&ref=simen-skriver), [Linking your thinking](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd&ref=simen-skriver), [Aidan Helfant](https://www.youtube.com/watch?v=wvAZ9-hmWQU&t=1s&ref=simen-skriver), [Bryan Jenks](https://www.youtube.com/watch?v=5vSH2n-PnMQ&ref=simen-skriver), for å nevne noen.
 
-I tillegg til [Discorden](https://obsidian.md/community?ref=simen-skriver) til Obsidian, som er _vanvittig aktiv_, med hele 81 000 medlemmer! I tillegg til at du har egne "sub-communities" som f. eks en pluging som heter [Make.md](https://www.make.md/?ref=simen-skriver), som igjen har nærmere 1000 folk på Discorden sin.
+I tillegg til [Discorden](https://obsidian.md/community?ref=simen-skriver) til [[notes/obsidian|Obsidian]], som er _vanvittig aktiv_, med hele 81 000 medlemmer! I tillegg til at du har egne "sub-communities" som f. eks en pluging som heter [Make.md](https://www.make.md/?ref=simen-skriver), som igjen har nærmere 1000 folk på Discorden sin.
 
 ![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-19-at-21.15.16@2x.png)
 
 ### Plugins
 
-Ikke bare kommer det jevnlige oppdateringer fra Obsidian jevnt og trutt, men det er også [haugevis av plugins](https://obsidian.md/plugins?ref=simen-skriver) som andre folk har lagd. Faktisk så er det 753 av dem for øyeblikket, og det blir flere for hver dag. 754 faktisk, for det dukka opp enda en i løpet av tida jeg brukte på å skrive det her.
+Ikke bare kommer det jevnlige oppdateringer fra [[notes/obsidian|Obsidian]] jevnt og trutt, men det er også [haugevis av plugins](https://obsidian.md/plugins?ref=simen-skriver) som andre folk har lagd. Faktisk så er det 753 av dem for øyeblikket, og det blir flere for hver dag. 754 faktisk, for det dukka opp enda en i løpet av tida jeg brukte på å skrive det her.
 
-Grunnen til at det er så bra er at det lar deg tilpasse programmet akkurat sånn du vil. For det er alltid noen som har hatt ønske om å gjøre det samme som deg. Eller så finnes det en måte å jobbe seg rundt det på. Så det vil si at enhver liten "shortcoming" fra Obsidian sin side, vil som regel kunne løses av det som lages av folka som bruker det 🤯
+Grunnen til at det er så bra er at det lar deg tilpasse programmet akkurat sånn du vil. For det er alltid noen som har hatt ønske om å gjøre det samme som deg. Eller så finnes det en måte å jobbe seg rundt det på. Så det vil si at enhver liten "shortcoming" fra [[notes/obsidian|Obsidian]] sin side, vil som regel kunne løses av det som lages av folka som bruker det 🤯
 
 Om du er nysgjerrig på det anbefaler jeg å se denne videoen fra [FromSergio](https://www.youtube.com/@FromSergio?ref=simen-skriver):
 
@@ -121,18 +121,18 @@ Sist, men ikke minst, om jeg plutselig bestemmer meg for at dette ikke er for me
 
 Siden alt er basert på tekstfiler som ligger lokalt på dataen min. Og siden det er basert på [Markdown](https://en.wikipedia.org/wiki/Markdown?ref=simen-skriver) så vil alt av overskrifter, kursiv tekst, og den type formatering, kunne åpnes i alle slags skriveprogrammer.
 
-Så hvis jeg ville bytta til [Craft](https://www.craft.do/?ref=simen-skriver) f. eks kunne jeg importert den samma mappa med tekstfiler, som jeg bruker til Obsidian uten noe mer trøbbel enn som så. Nå tenker du kanskje "Men Simen, hvorfor velger du å bruke en app som du allerede planlegger å droppe?" Jo, det er ganske så enkelt. For en eller annen dag så kommer jeg til å gjøre det. Og da vil jeg helst ikke at filene mine, altså tankearbeidet jeg har gjort over mange år, skal låses inn i et eller annet system som jeg ikke lenger vil benytte meg av.
+Så hvis jeg ville bytta til [Craft](https://www.craft.do/?ref=simen-skriver) f. eks kunne jeg importert den samma mappa med tekstfiler, som jeg bruker til [[notes/obsidian|Obsidian]] uten noe mer trøbbel enn som så. Nå tenker du kanskje "Men Simen, hvorfor velger du å bruke en app som du allerede planlegger å droppe?" Jo, det er ganske så enkelt. For en eller annen dag så kommer jeg til å gjøre det. Og da vil jeg helst ikke at filene mine, altså tankearbeidet jeg har gjort over mange år, skal låses inn i et eller annet system som jeg ikke lenger vil benytte meg av.
 
 ---
 
 ## Definisjonen på kvalitet
 
-Obsidian er nok ikke for alle. Det skal jeg være ærlig om.
+[[notes/obsidian|Obsidian]] er nok ikke for alle. Det skal jeg være ærlig om.
 
-Men om vi går tilbake til det jeg starta med – om å enkelt finne den boka jeg leste for sju år siden, eller det sitatet jeg hørte i forbifarten en eller annen gang. Obsidian lar meg gjøre alt det.
+Men om vi går tilbake til det jeg starta med – om å enkelt finne den boka jeg leste for sju år siden, eller det sitatet jeg hørte i forbifarten en eller annen gang. [[notes/obsidian|Obsidian]] lar meg gjøre alt det.
 
 Og dessuten. Det er noe utrolig fint med apper eller produkter som treffer innertier på alle nøkkelkriteriene vi setter pris på i hverdagen.
 
 Om vi tenker på måten notes/Hva%20betyr%20egentlig%20kvalitet?.md, i sammenheng med masseproduksjon på 40- og 50-tallet, hvor det handla om å _"imøtekomme spesifikasjoner"_, så er det akkurat det det er snakk om.
 
-Obsidian treffer nøyaktig på hva det _skal_ være. Det imøtekommer spesifikasjonene, og overgår forventningene, og vel så det.
+[[notes/obsidian|Obsidian]] treffer nøyaktig på hva det _skal_ være. Det imøtekommer spesifikasjonene, og overgår forventningene, og vel så det.

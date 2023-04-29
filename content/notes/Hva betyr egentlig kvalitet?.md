@@ -2,7 +2,7 @@
 date: 04 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 title: "Hva betyr egentlig kvalitet?"
 aliases:
   - notes/kvalitet/

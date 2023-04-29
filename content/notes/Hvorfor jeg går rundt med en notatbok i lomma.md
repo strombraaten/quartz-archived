@@ -2,7 +2,7 @@
 date: 01 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "Hvorfor jeg går rundt med en notatbok i lomma"

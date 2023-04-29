@@ -2,7 +2,7 @@
 date: 16 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
-  - 
+  - oversikt
 title: "En introduksjon til Zettelkasten"
 aliases:
   - notes/zettelkasten/

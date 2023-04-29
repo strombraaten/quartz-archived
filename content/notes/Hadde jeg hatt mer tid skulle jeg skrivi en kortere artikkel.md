@@ -3,6 +3,7 @@ date: 21 Dec, 2022
 lastmod: 12 Mar, 2023
 tags:
   - skriving
+  - oversikt
 aliases:
   - 
 title: "Om jeg hadde hatt mer tid skulle jeg skrivi en kortere artikkel"
