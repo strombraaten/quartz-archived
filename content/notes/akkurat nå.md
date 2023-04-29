@@ -17,8 +17,9 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 
 ## Hva jeg holder på å lese
 
-1. [Wait but why, year one](https://www.amazon.com/Wait-But-Why-Year-reader-ebook/dp/B00TXYJOZG?qid=1682319399&s=digital-text&sr=1-2): We finally figured out how to put a blog onto an e-reader, av [Tim Urban](https://waitbutwhy.com/homepage)
-2. [The Shallows](https://www.nicholascarr.com/?page_id=16&ref=simen-skriver), av Nicholas Carr
+1. [[Maskiner som tenker]]: algoritmenes hemmeligheter og veien til kunstig intelligens, av Inga Strümke
+2. [Wait but why, year one](https://www.amazon.com/Wait-But-Why-Year-reader-ebook/dp/B00TXYJOZG?qid=1682319399&s=digital-text&sr=1-2): We finally figured out how to put a blog onto an e-reader, av [Tim Urban](https://waitbutwhy.com/homepage)
+3. [The Shallows](https://www.nicholascarr.com/?page_id=16&ref=simen-skriver), av Nicholas Carr
 
 > [!example]- Ting jeg har lest tidligere
 > - [A brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history?ref=simen-skriver), av Maggie Appleton
