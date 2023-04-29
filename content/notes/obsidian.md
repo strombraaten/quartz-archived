@@ -6,7 +6,6 @@ aliases:
   - notes/obsidian/
   - obsidian
 tags:
-  - skriveprosessen
   - oversikt
   - apper
 weight: -3
