@@ -1,6 +1,6 @@
 ---
 date: 05 Mar, 2023
-lastmod: 02 Mai, 2023
+lastmod: 02 May, 2023
 tags:
   - linker
 aliases:
