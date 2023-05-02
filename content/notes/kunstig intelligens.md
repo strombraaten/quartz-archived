@@ -1,9 +1,9 @@
 ---
 date: 30 Apr, 2023
-lastmod: 30 Apr, 2023
+lastmod: 02 May, 2023
 tags:
   - oversikt
- - teknologi
+  - teknologi
 aliases:
   - AI
 title: "kunstig intelligens"
