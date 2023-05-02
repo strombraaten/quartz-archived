@@ -1,11 +1,11 @@
 ---
 date: 04 Mar, 2023
-lastmod: 12 Mar, 2023
+lastmod: 29 Apr, 2023
 tags:
   - oversikt
 title: "akkurat nå"
 aliases:
-  - akkurat nå
+  - 
 ---
 > [!hint]- Stikling 🌿
 >
