@@ -1,6 +1,6 @@
 ---
 date: 02 Mar, 2023
-lastmod: 02 Mai, 2023
+lastmod: 02 May, 2023
 title: "Obsidian"
 aliases:
   - notes/obsidian/
