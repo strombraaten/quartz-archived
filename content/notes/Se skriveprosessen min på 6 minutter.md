@@ -50,10 +50,3 @@ Ved å halvere tida jeg vanligvis bruker blei det virkelig satt på spissen for 
 ## Konklusjon
 
 Personlig er jeg kjempestolt av å ha gjennomført det her – 24 artikler på 24 dager er neimen ikke bare-bare. Og nå som vi er ved veis ende på denne skrivekalenderen er det iallefall én ting som er sikkert – Ikke bare har jeg lært om hva jeg sjøl liker å skrive om, men jeg har også blitt mye bedre kjent med hva som må til for å utdype en tanke, og konkretisere den til noe mer fordøyelig. Til og med på halvparten av tida av det jeg pleier å gjøre.
-
----
-*Gående framover kommer jeg ikke til å publisere en ny artikkel hver eneste dag, men det er bare vel og bra. For som jeg har snakka om tidligere så er ikke det heller [bærekraftig i det lange løp](https://www.simenskriver.no/eksperimenter-i-livet/).* 
-
-*Å skrive på en daglig basis de siste ukene er noe jeg har virkelig har kost meg med. Mer enn jeg hadde forventa. Skrivinga stopper altså ikke her, men det blir godt å ha et mer avslappa forhold til det. Jeg veit ikke når den neste artikkelen dukker opp, men det jeg veit er at jeg gleder meg skikkelig til veien videre.*
-
-Takk til dere som har fulgt med på prosessen. Og god jul til alle sammen!
