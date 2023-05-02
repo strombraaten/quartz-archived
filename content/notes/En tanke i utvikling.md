@@ -21,7 +21,7 @@ Derfor tenkte jeg å prøve noe alternativt her nå. Og jeg er ærlig talt usikk
 
 For hele tanken ved å utfordre meg sjøl til en slags skrivekalender var nettopp å komme inn i skriveflyten. Å kjenne hvordan det er å skrive jevnlig. Samtidig som jeg fyller bloggen med noe innhold, så jeg lærer mer om hva jeg vil skrive om, og hvordan jeg liker å gjøre det.
 
-Å dele noe offentlig holder meg også beregnelig i form av at det er noen som "venter" i andre enden. Eller så kunne jeg nok fint skrivi alt lokalt, og ikke delt det videre. For det er plenty med notater (i [[Obsidian]]) som burde reinskrives, og bearbeides på et eller annet vis.
+Å dele noe offentlig holder meg også beregnelig i form av at det er noen som "venter" i andre enden. Eller så kunne jeg nok fint skrivi alt lokalt, og ikke delt det videre. For det er plenty med notater (i [[notes/obsidian|obsidian]]) som burde reinskrives, og bearbeides på et eller annet vis.
 
 Samtidig er det ikke alle dager jeg har en fullkommen tanke å dele. Og det er lettere for meg å skrive _litt_ på _flere_ notater, enn det er å fullføre ett enkelt. Så da gir vi det et forsøk.
 
