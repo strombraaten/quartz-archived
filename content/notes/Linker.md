@@ -20,7 +20,7 @@ Det som gjør det ekstra spennende er når vi ser på såkalte "*backlinks*", el
 
 ## Hvordan bruker du det?
 
-Du linker ut til et annet notat ved å bruke såkalte hakeparenteser som den her 👉 `[` . To stykker på hver side av et ord, for å være nøyaktig.
+Du linker ut til et annet notat ved å bruke såkalte [hakeparenteser](https://snl.no/parentes) som den her 👉 `[` . To stykker på hver side av et ord, for å være nøyaktig.
 
 I praksis trykker du bare to ganger på `alt+8` for å lage to hakeparenteser, deretter fullfører Obsidian automatisk med to stykker i andre enden, så du kan skrive den siden du vil linke til. om du har noen notater fra før av så vil de dukke opp som alternativer, som du ser på bildet under her. 
 
