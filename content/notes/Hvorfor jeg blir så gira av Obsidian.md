@@ -56,26 +56,17 @@ Det som imponerer meg er at når jeg vurderer [[notes/obsidian|Obsidian]] ut fra
 ### Plenty med hurtigtaster = ✅
 
 Hurtigtaster så langt øye kan se! Og alt kan tilpasses etter dine egne, sære behov.
-
-![](https://www.simenskriver.no/content/images/2022/12/Simens-skjermbilder-19-12-2022--kl-23.36.15@2x.png)
-
-Hurtigtaster i [[notes/obsidian|Obsidian]]
-
+![[notes/images/Simens skjermbilder 19-12-2022- kl 23.36.15@2x.png]]
 ### Åpenhet rundt hva som videreutvikles = ✅
 
 Yes, sir!
 
-![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-19-at-21.38.17@2x.png)
-
-"Release notes" i [[notes/obsidian|Obsidian]]
-
+![[notes/images/CleanShot 2022-12-19 at 21.38.17@2x.png]]
 ### Light/dark mode = ✅
 
 Å jada! Riktignok litt avhengig av hvilket "theme" du velger, men om jeg tolker det riktig, så er det ca 115 stykker som tilbyr på lys og mørk modus. Om du syns det blei for mye å velge mellom så er jeg veldig enig i denne [oversikten over 5 minimale themes](https://elizabethbutlermd.com/5-of-the-best-custom-minimalist-digital-note-taking-themes-for-obsidian-in-2022/?ref=simen-skriver). Personlig bruker jeg [Minimal](https://minimal.guide/Home?ref=simen-skriver), som er laget av [Stephan Ango](https://stephanango.com/?ref=simen-skriver), som forøvrig eksemplifiserer akkurat det som er så gøy med linkbasert tankegang på nettsida si.
 
-![](https://www.simenskriver.no/content/images/2022/12/Simens-skjermbilder-20-12-2022--kl-07.19.29.gif)
-
-Light/dark mode i [[notes/obsidian|Obsidian]]
+![[notes/images/Simens skjermbilder 20-12-2022- kl 07.19.29.gif]]
 
 ### Tilgjengelig på tvers av enheter = ✅
 
@@ -103,7 +94,7 @@ Både gjennom youtube-kanaler, som [FromSergio](https://www.youtube.com/watch?v
 
 I tillegg til [Discorden](https://obsidian.md/community?ref=simen-skriver) til [[notes/obsidian|Obsidian]], som er _vanvittig aktiv_, med hele 81 000 medlemmer! I tillegg til at du har egne "sub-communities" som f. eks en pluging som heter [Make.md](https://www.make.md/?ref=simen-skriver), som igjen har nærmere 1000 folk på Discorden sin.
 
-![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-19-at-21.15.16@2x.png)
+![[notes/images/CleanShot 2022-12-19 at 21.15.16@2x.png]]
 
 ### Plugins
 
