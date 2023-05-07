@@ -7,9 +7,11 @@ tags:
   - oversikt
 title: "Hvorfor jeg blir så gira av Obsidian"
 ---
-> [!hint]- Stikling 🌿
+> [!hint]- Blomst 🪴
 >
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Hva om du enkelt kunne finne ut av hva som helst? For eksempel navnet på den boka du leste for sju år siden, som handla om lykke eller glede. Eller kanskje det var et sitat fra en eller annen gammel greker?
 

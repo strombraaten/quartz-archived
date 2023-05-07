@@ -10,6 +10,8 @@ title: "Hvorfor jeg går rundt med en notatbok i lomma"
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Grunnen er veldig enkel. En notatbok distraherer deg ikke i å skrive ned en tanke. Det gjør derimot telefonen din.
 
