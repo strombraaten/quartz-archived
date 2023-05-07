@@ -10,6 +10,8 @@ title: "Se skriveprosessen min på 6 minutter"
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 > [!NOTE] Merknad
 > Ingen vennskap blei skadd under dette eksperimentet
@@ -37,7 +39,7 @@ I denne filmen får du se:
 
 ## Hva som inngår i skriveprosessen
 
-I går ramsa jeg opp [[notes/Hva jeg har lært av å skrive 31 artikler på 23 dager]] . Ut fra det kan vi se at det er ulike *sider* ved skriveprosessen. Det er ikke *bare* å sette seg ned å skrive på et tastatur. Som [[Sönke Ahrens]] nevner i boka [[Boknotat - How to Take Smart Notes|How to Take Smart Notes]]:
+I går ramsa jeg opp [[notes/Hva jeg har lært av å skrive 25 artikler på 23 dager]] . Ut fra det kan vi se at det er ulike *sider* ved skriveprosessen. Det er ikke *bare* å sette seg ned å skrive på et tastatur. Som [[Sönke Ahrens]] nevner i boka [[Boknotat - How to Take Smart Notes|How to Take Smart Notes]]:
 
 >  It also means reading, understanding, reflecting, getting ideas, making connections, distinguishing terms, finding the right words, structuring, organizing, editing, correcting and rewriting.
 

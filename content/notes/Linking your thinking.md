@@ -11,6 +11,8 @@ title: "Linking your thinking"
 > [!hint]- Stikling 🌿
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Du skulle kanskje tro at det å skrive om å skrive, eller mer presist skrive om notater, hadde en slags begrensning, men tydeligvis ikke!
 
@@ -20,7 +22,7 @@ Nick Milo, snakker nemlig mye om ["linking your thinking"](https://youtu.be/Qgb
 
 Men hva betyr det egentlig? Jo, for eksempel da jeg slukte til meg alt av kunnskap jeg kunne finne rundt privat økonomi.
 
-Jeg satte meg inn i alle slags temaer – fra indeksfond, pengeprofiler, bruk av kredittkort framfor "vanlig bankkort" (debet), til pensjon, og esg-rating. Alt det handler jo om privat økonomi, det veit jeg jo. Men ved å behandle hvert område som sitt eget notat, og bryte det ned på den måten, så åpner jeg også opp for at det kan knyttes til andre, mindre åpenbare koblinger – **helt automagisk**. Her kan du se det illustrert gjennom [[notes/obsidian]] sin "graph view":
+Jeg satte meg inn i alle slags temaer – fra indeksfond, pengeprofiler, bruk av kredittkort framfor "vanlig bankkort" (debet), til pensjon, og esg-rating. Alt det handler jo om privat økonomi, det veit jeg jo. Men ved å behandle hvert område som sitt eget notat, og bryte det ned på den måten, så åpner jeg også opp for at det kan knyttes til andre, mindre åpenbare koblinger – **helt automagisk**. Her kan du se det illustrert gjennom [[notes/obsidian|obsidian]] sin [[notes/den interaktive grafen|interaktive graf]]:
 
 ![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-16-at-08.38.25@2x.png)
 
@@ -41,7 +43,7 @@ Om jeg hadde brukt ordet _investering_, i den artikkelen, mens jeg skreiv det i
 
 Fordelene med å linke tankene sammen altså er at over tid vil det dannes grupperinger, eller områder, som viser hva du tenker eller skriver mye om.
 
-Da jeg tok dypdykket mitt i privatøkonomi, om jeg hadde jeg linka tankene mine sammen da ville jeg også hatt en måte å komme tilbake til de samme tankene på. De samme lærdommene, og bearbeida forståelsen min gjentatte ganger, ettersom jeg forstod konseptene bedre og bedre. Det er sånn du bearbeider et notat til å bli såkalt "evergreen", eller "permanent", som er ordet som brukes i [Zettelkasten-metoden](https://www.simenskriver.no/zettelkasten/).
+Da jeg tok dypdykket mitt i privatøkonomi, om jeg hadde jeg linka tankene mine sammen da ville jeg også hatt en måte å komme tilbake til de samme tankene på. De samme lærdommene, og bearbeida forståelsen min gjentatte ganger, ettersom jeg forstod konseptene bedre og bedre. Det er sånn du bearbeider et notat til å bli såkalt "evergreen", eller "permanent", som er ordet som brukes i [Zettelkasten-metoden](notes/En%20introduksjon%20til%20Zettelkasten.md).
 
 I mange notat-apper, som Notion, Evernote, og Notat-appen til Apple, så vil de eldste notatene dyttes lenger ned, siden det kommer nye notater inn på toppen. På den måten blir de eldste notatene gradvis vanskeligere og vanskeligere å finne. Eller iallefall "snuble over" tilfeldigvis, for du kan alltids søke dem opp, dersom du husker hva de handla om og hvor du eventuelt finner dem.
 

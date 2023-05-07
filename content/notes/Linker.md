@@ -12,9 +12,11 @@ Linker er en av de fundamentale greiene med [[Obsidian]].
 
 For du ser at ordet "Obsidian" der er en link? For å være presis er det en såkalt "*utgående link*" som sender deg ut av notatet du er i nå, men som peker deg i en retning hvor du kan lære mer om det temaet. Du veit. Sånn som linker funker ellers.
 
-> [!hint]- Stikling 🌿
+> [!hint]- Blomst 🪴
 >
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Det som gjør det ekstra spennende er når vi ser på såkalte "*backlinks*", eller [[tilbakekoblinger]] som jeg har valgt å kalle det her.
 

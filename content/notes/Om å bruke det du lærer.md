@@ -10,6 +10,8 @@ title: "Om å bruke det du lærer"
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 I blant føler jeg meg litt flåsete når jeg siterer folk i øst og vest, og refererer til bøker, artikler og podcaster. Som om jeg prøver å virke mer intellektuell og belest, med nesa til værs, enn det jeg egentlig er.
 

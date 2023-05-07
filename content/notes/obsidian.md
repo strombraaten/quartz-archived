@@ -13,9 +13,11 @@ weight: -3
 
 Obsidian er i sin enkleste form en app for å skrive notater. Om vi skal ta det ett steg videre så handler det også om hvordan notater henger sammen. Hvordan de er tilknytta til hverandre.
 
-> [!hint]- Frø  🌱
+> [!hint]- Stikling 🌿
 >
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Hovedsakelig er det gjennom [[notes/Linker|Linker]], men det kan også være [[notes/emneknagger|emneknagger]], eller [[den interaktive grafen]] som du ser i bunnen her.
 
