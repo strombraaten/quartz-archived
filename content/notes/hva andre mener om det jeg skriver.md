@@ -5,7 +5,7 @@ tags:
   - 
 aliases:
   - 
-title: "tilbakemeldinger på Simenskriver"
+title: "hva andre mener om det jeg skriver"
 ---
 I ny og ne får jeg tilbakemeldinger på det jeg skriver. I blant er det en feil som pekes ut (som jeg setter utrolig pris på, for det vil jeg såklart fikse opp i), og andre ganger er det noe man har satt pris. I blant får jeg også noen personlige historier om leserens erfaringer rundt hva enn slags tema jeg skreiv om der og da.
 
