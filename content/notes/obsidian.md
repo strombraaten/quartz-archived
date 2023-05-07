@@ -21,4 +21,4 @@ Obsidian er i sin enkleste form en app for å skrive notater. Om vi skal ta det 
 
 Hovedsakelig er det gjennom [[notes/Linker|Linker]], men det kan også være [[notes/emneknagger|emneknagger]], eller [[den interaktive grafen]] som du ser i bunnen her.
 
-Om du vil lære mer så kan du lese [[notes/Hvorfor jeg blir så gira av Obsidian|Hvorfor jeg blir så gira av Obsidian]].
+Om du vil gi det et forsøk kan du [laste det ned helt gratis på hjemmesida til Obsidian](https://obsidian.md/). Dersom du heller vil lære litt mer før du kaster deg ut i det så kan du lese [[notes/Hvorfor jeg blir så gira av Obsidian|Hvorfor jeg blir så gira av Obsidian]].
