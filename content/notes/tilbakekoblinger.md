@@ -7,7 +7,7 @@ aliases:
   - 
 title: "tilbakekoblinger"
 ---
-Tilbakekoblinger er [[notes/Linker|Linker]] som viser hvilke notater som omtaler det notatet du er i. Det viser altså tilknytninger, eller relevante notater.
+Tilbakekoblinger er [[notes/Linker|linker]] som viser hvilke notater som omtaler det notatet du er i. Det viser altså tilknytninger, eller relevante notater.
 
 > [!hint]- Blomst 🪴
 >

@@ -7,19 +7,15 @@ title: "En introduksjon til Zettelkasten"
 aliases:
   - notes/zettelkasten/
 ---
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-
-> [!info] Vegg med tekst, incoming!
-Denne artikkelen kommer jeg til å peke tilbake på støtt og stadig, og siden den består av flere deler som kunne vært isolert for seg sjøl, blir den naturligvis lengre enn mye annet.
-
----
 Det jeg skal fortelle deg om nå, hvis du har lest noen av de tidligere artiklene her, kommer ikke til å være noe nytt for deg. Og det er kjempebra!
 
 For da jeg leste meg opp på [Zettelkasten-metoden](notes/En%20introduksjon%20til%20Zettelkasten.md) til å starte med syns jeg det var vanskelig å "wrappe" hodet mitt rundt det. Og forstå meg på de ulike stegene, og tilnærmingen til det.
 
 Men. Som med mye annet så blir det tydeligere, og enklere å forstå når tanken har fått modne over tid. Og det håper jeg den har fått gjort hos deg nå, gjennom andre lignende skriverier.
+
+> [!hint]- Stikling 🌿
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 
 ## Bakgrunn
 

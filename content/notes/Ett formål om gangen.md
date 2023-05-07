@@ -7,11 +7,13 @@ aliases:
   - 
 title: "Ett formål om gangen"
 ---
+I det siste har jeg lent meg mer og mer mot å bruke "single purpose apps". Altså apper som fokuserer på å gjøre én ting skikkelig bra, i stedet for å kunne brukes til alt. For når du _kan_ gjøre alt blir det også vanskeligere å gjøre noe i det hele tatt.
+
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-
-I det siste har jeg lent meg mer og mer mot å bruke "single purpose apps". Altså apper som fokuserer på å gjøre én ting skikkelig bra, i stedet for å kunne brukes til alt. For når du _kan_ gjøre alt blir det også vanskeligere å gjøre noe i det hele tatt.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 [Notion](https://www.notion.so/?ref=simen-skriver) er et godt eksempel på det siste, hvor du kan bygge hva enn du trenger, så lenge du gidder å vri hodet ditt som en svamp for å finne ut hvordan det kan gjøres.
 

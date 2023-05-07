@@ -8,9 +8,6 @@ aliases:
   - 
 title: "Hva jeg har lært av å skrive 31 artikler på 23 dager"
 ---
-> [!hint]- Blomst 🪴
->
-> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 
 Nå skal ikke jeg ta seieren på forskudd her, men dette er den nest siste dagen av skrivekalenderen min – dag 23 av 24 – og jeg føler meg rimelig trygg på at jeg skal ro det her i land.
 
@@ -19,6 +16,14 @@ Morgendagens artikkel er allerede underveis, hvor formatet også blir litt anner
 Men du lurer kanskje på hva jeg mener med 31 artikler på 23 dager, for jeg har jo bare publisert 23 av dem her. Vel, i tillegg til skrivekalenderen har jeg delt en del tanker i jobbsammenheng. Desember er tydeligvis måneden for å samle tankene rundt året som har vært, arbeid som er gjort, og metoder som er lært.
 
 Om du er interessert i å ta en kikk på det så linker jeg til alt nederst i artikkelen her.
+
+I desember 2022 skreiv jeg 31 artikler på 23 dager som en del av en skrivekalender, fram mot julaften. Det starta som et eksperiment for å gi meg sjøl mer mestringfølelse på, i en periode hvor jeg kjente mindre av det på jobb. 
+
+> [!hint]- Blomst 🪴
+>
+> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 ---
 

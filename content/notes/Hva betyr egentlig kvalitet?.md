@@ -7,16 +7,18 @@ title: "Hva betyr egentlig kvalitet?"
 aliases:
   - notes/kvalitet/
 ---
+Om jeg hadde bedt deg om å beskrive hva kvalitet _er_, hva ville du sagt da? Personlig ville jeg nok tenkt på lang holdbarhet eller varighet, sterke materialer, presisjon i alle ledd, og generelt så lite slurv som mulig. At noe er stødig, eller robust, og at det gjør den jobben det skal gjøre. Men av de "kriteriene" er det egentlig bare den siste som stemmer overens med hvor ordet kommer fra.
+
+> [!NOTE] Kommentar fra framtids-Simen
+> Denne artikkelen burde sees i sammenheng med oppfølgeren, [[notes/Vent nå litt|Vent nå litt]], ettersom jeg leste mer om kvalitet i ulike sammenhenger.
+
+Kvalitet, sånn vi kjenner det i sammenheng med produkter, betyr tilsynelatende "å imøtekomme spesifikasjonene". At det treffer på hva det _skal_ være. At det oppfyller de behovene, eller forventningene som er angitt.
+
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-
-> [!NOTE] Kommentar fra framtids-Simen
-> Denne artikkelen burde sees i sammenheng med oppfølgeren, [[notes/Vent nå litt]], ettersom jeg leste mer om kvalitet i ulike sammenhenger.
-
-Om jeg hadde bedt deg om å beskrive hva kvalitet _er_, hva ville du sagt da? Personlig ville jeg nok tenkt på lang holdbarhet eller varighet, sterke materialer, presisjon i alle ledd, og generelt så lite slurv som mulig. At noe er stødig, eller robust, og at det gjør den jobben det skal gjøre. Men av de "kriteriene" er det egentlig bare den siste som stemmer overens med hvor ordet kommer fra.
-
-Kvalitet, sånn vi kjenner det i sammenheng med produkter, betyr tilsynelatende "å imøtekomme spesifikasjonene". At det treffer på hva det _skal_ være. At det oppfyller de behovene, eller forventningene som er angitt.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 ## Toyota vs. Rolls Royce
 
