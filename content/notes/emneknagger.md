@@ -4,12 +4,15 @@ lastmod: 29 Apr, 2023
 tags:
   - oversikt
 aliases:
-  - 
+  - hashtags
+  - tags
 title: "emneknagger"
 ---
-> [!hint]- Stikling 🌿
+> [!hint]- Frø  🌱
 >
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 NRK var det vel som introduserte ordet *emneknagg* i stedet for det engelske ord "tag". Og jeg har i grunn sansen for det. En *tag* er jo bare en knagg for emner, så den oversettelsen der støtter jeg.
 
