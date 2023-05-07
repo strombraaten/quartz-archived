@@ -1,8 +1,10 @@
 ---
 date: 07 May, 2023
 lastmod: 07 May, 2023
-tags: 
-aliases: 
+tags:
+  - oversikt
+aliases:
+  - 
 title: "tilbakekoblinger"
 ---
 Tilbakekoblinger er [[notes/Linker|Linker]] som viser hvilke notater som omtaler det notatet du er i. Det viser altså tilknytninger, eller relevante notater.

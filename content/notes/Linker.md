@@ -1,10 +1,10 @@
 ---
 date: 05 Mar, 2023
-lastmod: 02 May, 2023
+lastmod: 07 May, 2023
 tags:
-  - linker
-aliases:
   - oversikt
+aliases:
+  - linker
 title: "Linker"
 ---
 
