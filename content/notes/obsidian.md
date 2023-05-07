@@ -1,6 +1,6 @@
 ---
 date: 02 Mar, 2023
-lastmod: 02 May, 2023
+lastmod: 07 May, 2023
 title: "Obsidian"
 aliases:
   - notes/obsidian/
@@ -18,3 +18,5 @@ Obsidian er i sin enkleste form en app for å skrive notater. Om vi skal ta det 
 > Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
 
 Hovedsakelig er det gjennom [[notes/Linker|Linker]], men det kan også være [[notes/emneknagger|emneknagger]], eller [[den interaktive grafen]] som du ser i bunnen her.
+
+Om du vil lære mer så kan du lese [[notes/Hvorfor jeg blir så gira av Obsidian|Hvorfor jeg blir så gira av Obsidian]].
