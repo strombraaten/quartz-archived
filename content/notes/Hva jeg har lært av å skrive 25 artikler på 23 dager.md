@@ -6,18 +6,9 @@ tags:
   - oversikt
 aliases:
   - 
-title: "Hva jeg har lært av å skrive 31 artikler på 23 dager"
+title: "Hva jeg har lært av å skrive 25 artikler på 23 dager"
 ---
-
-Nå skal ikke jeg ta seieren på forskudd her, men dette er den nest siste dagen av skrivekalenderen min – dag 23 av 24 – og jeg føler meg rimelig trygg på at jeg skal ro det her i land.
-
-Morgendagens artikkel er allerede underveis, hvor formatet også blir litt annerledes enn det jeg har delt tidligere.
-
-Men du lurer kanskje på hva jeg mener med 31 artikler på 23 dager, for jeg har jo bare publisert 23 av dem her. Vel, i tillegg til skrivekalenderen har jeg delt en del tanker i jobbsammenheng. Desember er tydeligvis måneden for å samle tankene rundt året som har vært, arbeid som er gjort, og metoder som er lært.
-
-Om du er interessert i å ta en kikk på det så linker jeg til alt nederst i artikkelen her.
-
-I desember 2022 skreiv jeg 31 artikler på 23 dager som en del av en skrivekalender, fram mot julaften. Det starta som et eksperiment for å gi meg sjøl mer mestringfølelse på, i en periode hvor jeg kjente mindre av det på jobb. 
+I desember 2022 skreiv jeg 26 artikler på 24 dager som en del av en skrivekalender, fram mot julaften. Det starta som et eksperiment for å gi meg sjøl mer mestringfølelse, i en periode hvor jeg kjente mindre av det på jobb. Det var forresten starten på Simen skriver-prosjektet. Dagen før jeg var ferdig – altså lille julaften – reflekterte jeg over hva jeg hadde lært av en såpass intens periode med skriverier, og det her er det jeg kom fram til.
 
 > [!hint]- Blomst 🪴
 >
@@ -26,10 +17,17 @@ I desember 2022 skreiv jeg 31 artikler på 23 dager som en del av en skrivekalen
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 ---
+Nå skal ikke jeg ta seieren på forskudd her, men dette er den nest siste dagen av skrivekalenderen min – dag 23 av 24 – og jeg føler meg rimelig trygg på at jeg skal ro det her i land.
+
+Morgendagens artikkel er allerede underveis, hvor formatet også blir litt annerledes enn det jeg har delt tidligere.
+
+Men du lurer kanskje på hva jeg mener med 25 artikler på 23 dager, for jeg har jo bare publisert 23 av dem her. Vel, i tillegg til skrivekalenderen har jeg delt en del tanker i jobbsammenheng. Desember er tydeligvis måneden for å samle tankene rundt året som har vært, arbeid som er gjort, og metoder som er lært.
+
+Om du er interessert i å ta en kikk på det så linker jeg til alt nederst i artikkelen her.
 
 # Refleksjoner
 
-Så hva har jeg egentlig lært av å skrive 31 av artikler på 24 dager. Jo, det er flere ting, men for enkelhets skyld deler jeg det opp i det som er relatert til _skriving_, og det som relateres til _vaner_.
+Så hva har jeg egentlig lært av å skrive 25 av artikler på 23 dager. Jo, det er flere ting, men for enkelhets skyld deler jeg det opp i det som er relatert til _skriving_, og det som relateres til _vaner_.
 
 ## Hva jeg har lært om skriving
 
@@ -37,7 +35,7 @@ Så hva har jeg egentlig lært av å skrive 31 av artikler på 24 dager. Jo, det
 
 I [[notes/Linking your thinking|Linking your thinking]] snakka jeg om hvordan jeg ikke legger alle "skrive-eggene" mine i én kurv. At ved å fordele min totale skrivekapasitet en gitt dag utover flere artikkel-ideer, flere notater, så setter jeg meg sjeldnere fast.
 
-For om jeg setter meg fast på en idé så hopper jeg bare videre til den neste. For å sitere meg sjøl fra [[notes/En tanke i utvikling]]:
+For om jeg setter meg fast på en idé så hopper jeg bare videre til den neste. For å sitere meg sjøl fra [[notes/En tanke i utvikling|En tanke i utvikling]]:
 
 > Samtidig er det ikke alle dager jeg har en fullkommen tanke å dele. Og det er lettere for meg å skrive *litt* på *flere* notater, enn det er å fullføre ett enkelt.
 
@@ -79,11 +77,11 @@ Lærdommen er altså å fokusere på skriving først, og ikke hvor de ulike avsn
 
 I løpet av de siste 23 dagene har jeg prøvd meg på nye tilnærminger til skriving som jeg aldri hadde tenkt på før.
 
-Jeg delte [tanker som ikke jeg anså som "ferdig"](https://www.simenskriver.no/en-tanke-i-utvikling/), som heller var under utvikling. For å oppdatere om hvilke endringer som var gjort begynte jeg å lage en [versjonslogg](https://www.simenskriver.no/versjonslogg01/), inspirert av hvordan endringer i apper kommuniseres i app store.
+Jeg delte [tanker som ikke jeg anså som "ferdig"](notes/En%20tanke%20i%20utvikling.md), som heller var under utvikling. For å oppdatere om hvilke endringer som var gjort begynte jeg å lage en versjonslogg, inspirert av hvordan endringer i apper kommuniseres i app store.
 
-For å motivere meg til å finne flere ideer jeg kunne skrive så [delte jeg lista jeg kom opp med](https://www.simenskriver.no/hva-vil-du-at-jeg-skal-skrive-mer-om/). Og for å lære meg "the ins and outs" av en ny app jeg blei tipsa om så lagde jeg en [steg-for-steg-forklaring om hvordan den fungerte](https://www.simenskriver.no/den-ene-funksjonen/).
+For å motivere meg til å finne flere ideer jeg kunne skrive så [delte jeg lista jeg kom opp med](notes/Hva%20vil%20du%20at%20jeg%20skal%20skrive%20mer%20om.md). Og for å lære meg "the ins and outs" av en ny app jeg blei tipsa om så lagde jeg en [steg-for-steg-forklaring om hvordan den fungerte](notes/Den%20ene%20funksjonen%20som%20utgjør%20hele%20forskjellen.md).
 
-Og ikke minst, så lagde jeg en introduksjon til [en måte å jobbe med tankearbeid på](https://www.simenskriver.no/zettelkasten/), for å forstå det bedre sjøl.
+Og ikke minst, så lagde jeg en introduksjon til [en måte å jobbe med tankearbeid på](notes/En%20introduksjon%20til%20Zettelkasten.md), for å forstå det bedre sjøl.
 
 ### Godt nok
 
@@ -103,7 +101,7 @@ Lærdommen her er altså at det lønner seg å knytte en vane opp mot noe annet,
 
 ### Forpliktelsen av å gjøre noe _hver_ dag
 
-Jeg har tidligere snakka om det her med å gjøre noe *hver* dag, da jeg snakka om [[notes/Eksperimenter i hverdagen]]. Hvordan du gjør det vanskeligere for deg sjøl å lykkes når du lager et sånt ultimatum. For hva skjer om du bare ikke klarer det, og du må hoppe over en dag? Gir du deg da? Eller fortsetter du dagen etter? Hvor lenge skal du holde det gående _hver_ eneste dag?
+Jeg har tidligere snakka om det her med å gjøre noe *hver* dag, da jeg snakka om [[notes/Eksperimenter i hverdagen|Eksperimenter i hverdagen]]. Hvordan du gjør det vanskeligere for deg sjøl å lykkes når du lager et sånt ultimatum. For hva skjer om du bare ikke klarer det, og du må hoppe over en dag? Gir du deg da? Eller fortsetter du dagen etter? Hvor lenge skal du holde det gående _hver_ eneste dag?
 
 Det var nettopp derfor jeg avgrensa tida ved å si meg ferdig på julaften. For da har jeg noe konkret å jobbe meg mot, og selv om det definitivt føltes som et hårete mål da jeg starta, så visste jeg at det også hadde en slutt.
 
@@ -144,4 +142,4 @@ Om du vil lese artiklene jeg har skrivi i jobbsammenheng, for [Variant](https:/
 -   [Nådde vi målet om karbonnøytralitet](https://medium.com/variant-as/n%C3%A5dde-vi-m%C3%A5let-om-karbonn%C3%B8ytralitet-5f95c4114285?ref=simen-skriver)
 -   [Personvern og innsiktsarbeid](https://medium.com/variant-as/personvern-og-innsiktsarbeid-9397dc8fd87?ref=simen-skriver)
 
-I tillegg kommer det et _beist_ av en artikkelserie innen kort tid, i totalt seks deler, hvor jeg snakker om det å jobbe med innsiktsarbeid. Den oppsummerer noe jeg har tenkt på i nærmere ti måneder nå, så du kan trooo det var godt å få samla tankene.
+I tillegg holder jeg på med et _beist_ av en artikkelserie, i totalt fem-seks deler, hvor jeg snakker om det å jobbe med innsiktsarbeid. Den oppsummerer noe jeg har tenkt på i nærmere ti måneder nå, så du kan trooo det var godt å få samla tankene.
