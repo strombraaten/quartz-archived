@@ -1,15 +1,17 @@
 ---
 date: 04 Mar, 2023
-lastmod: 29 Apr, 2023
+lastmod: 07 May, 2023
 tags:
   - oversikt
 title: "akkurat nå"
 aliases:
-  - 
+  - nå-sida
 ---
 > [!hint]- Stikling 🌿
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert av folk som [Derek Sivers](https://sive.rs/nowff?ref=simen-skriver), [Maggie Appleton](https://maggieappleton.com/now?ref=simen-skriver), og [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&ref=simen-skriver). Om du vil lese mer om såkalte "Nå"-sider finnes det [en utdypende side for sånt](https://nownownow.com/about?ref=simen-skriver).
 

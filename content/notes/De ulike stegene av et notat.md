@@ -10,6 +10,8 @@ title: "De ulike stegene av et notat"
 > [!hint]- Stikling 🌿
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 I designverden er det noe som kalles [Double Diamond](https://www.designcouncil.org.uk/our-work/news-opinion/double-diamond-15-years/?ref=simen-skriver). Det er en prosess som beskriver hvordan man går bredt ut for å _utforske_ utfordringer og løsninger (divergerer), for så å _snevre inn_ og fokusere arbeidet, og prioritere, og definere konkrete elementer (konvergere).
 
