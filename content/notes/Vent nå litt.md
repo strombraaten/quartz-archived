@@ -10,6 +10,8 @@ title: "Vent nå litt"
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Sjeldent har det gått såpass kort tid fra jeg har sagt en ting til jeg har blitt uenig med meg sjøl, og tenkt noe annet, som da jeg skreiv om [[notes/Hva betyr egentlig kvalitet?|kvalitet]]. For i det innlegget skreiv jeg at _kvalitet_ handler om et produkt eller en tjeneste leverer på det den skal gjøre.
 
