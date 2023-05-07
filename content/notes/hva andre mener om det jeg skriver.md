@@ -2,7 +2,7 @@
 date: 07 May, 2023
 lastmod: 07 May, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "hva andre mener om det jeg skriver"
@@ -36,4 +36,3 @@ Det er virkelig en av de beste grunnene til å starte et nyhetsbrev, vil jeg si.
 >[quote!] Person 3, etter å ha lest "[[notes/det er noe feil med hvordan vi leser bøker|det er noe feil med hvordan vi leser bøker]]"
 >
 >Denne var knallbra, Simen!
-
