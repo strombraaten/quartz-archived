@@ -3,6 +3,7 @@ date: 10 May, 2023
 lastmod: 10 May, 2023
 tags:
   - apper
+  - oversikt
 aliases:
   - 
 title: "Raycast"

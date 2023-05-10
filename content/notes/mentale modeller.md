@@ -2,7 +2,7 @@
 date: 08 May, 2023
 lastmod: 10 May, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "mentale modeller"

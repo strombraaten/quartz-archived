@@ -3,6 +3,7 @@ date: 10 May, 2023
 lastmod: 10 May, 2023
 tags:
   - folk
+  - oversikt
 aliases:
   - Maggie
 title: "Maggie Appleton"
