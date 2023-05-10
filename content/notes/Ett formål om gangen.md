@@ -13,7 +13,7 @@ I det siste har jeg lent meg mer og mer mot å bruke "single purpose apps". Alts
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 [Notion](https://www.notion.so/?ref=simen-skriver) er et godt eksempel på det siste, hvor du kan bygge hva enn du trenger, så lenge du gidder å vri hodet ditt som en svamp for å finne ut hvordan det kan gjøres.
 

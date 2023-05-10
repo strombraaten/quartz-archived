@@ -17,7 +17,7 @@ Obsidian er i sin enkleste form en app for å skrive notater. Om vi skal ta det 
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Hovedsakelig er det gjennom [[notes/Linker|Linker]], men det kan også være [[notes/emneknagger|emneknagger]], eller [[den interaktive grafen]] som du ser i bunnen her.
 

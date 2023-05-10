@@ -13,7 +13,7 @@ Det å ta skjermbilder er ikke en presis kunst akkurat. Uansett hvor nøye du pr
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Det blir bare ikke så fint, og du gidder ikke gjøre det manuelle arbeidet med å pynte opp et skjermbilde, for.. altså, det er _bare_ et skjermbilde. Det føles litt bortkasta å bruke 15-20 minutter i Figma på å sminke en bæsj foråsirresånn. Og da ender du opp med åå ikke nødvendigvis ville _bruke_ det til noe.
 

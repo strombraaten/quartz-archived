@@ -11,7 +11,7 @@ title: "Det er noe feil med hvordan vi leser bøker"
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Jeg tror det er på tide å revurdere hvordan vi leser bøker. Spesielt de du leser for å la deg inspirere. De bøkene som gir deg nye tanker. Nye perspektiver, nye måter å se verden på. Kanskje også de bøkene hvor du går aktivt inn for å lære deg noe.
 

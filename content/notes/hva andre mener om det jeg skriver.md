@@ -13,7 +13,7 @@ I ny og ne får jeg tilbakemeldinger på det jeg skriver. I blant er det en feil
 >
 > Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Det er virkelig en av de beste grunnene til å starte et nyhetsbrev, vil jeg si. Å få den én-til-én-kontakten der. For da veit du helt konkret hvem som leser det du skriver. Det er også en kjempegod måte for deg å finne ut om det er verdt å melde deg på nyhetsbrevet mitt. For det er fullt mulig at det blir langt mer nerdete enn det du hadde sett for deg. Og spesielt hvis du kjenner meg personlig, da kan det jo være kleint å faktisk melde seg *av* nyhetsbrevet. Så da sitter du der da, på en slags uendelig motorvei, hvor det aldri kommer noen avkjørsel, og jeg er den eneste som veit hvor veien ender opp hen. Det er en skeiv maktbalanse, vil jeg si, så her kan du heller lese hva andre mener om det jeg skriver:
 

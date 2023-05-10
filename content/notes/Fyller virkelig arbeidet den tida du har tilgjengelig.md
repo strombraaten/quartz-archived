@@ -11,7 +11,7 @@ aliases:
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Du kjenner kanskje til utrykket _"If you wait until the last minute, it only takes a minute to do"_? Eller kanskje du kjenner til originalen, _"Work expands so as to fill the time available for its completion"_. Det siste der var det [Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/C._Northcote_Parkinson?ref=simen-skriver) som formulerte så fint i en [artikkel til den engelske avisa, The Economist](https://www.economist.com/news/1955/11/19/parkinsons-law?ref=simen-skriver), i 1955.
 

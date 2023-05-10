@@ -11,7 +11,7 @@ title: "Det er noe feil med blogging som konsept"
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Øverst på bloggen min vil du nå finne det innlegget her. Og rett under ligger det jeg skreiv sist. Siden vi da beveger vårs tilbake i tid, med de eldste innleggene sist, blir det altså en _reversert kronologisk_ rekkefølge. Sånn har det vært siden slutten av 1990-tallet og begynnelsen på 2000-tallet.
 
@@ -38,7 +38,7 @@ Dersom jeg heller bearbeider tekstene over tid, og fletter dem sammen i form av 
 
 Riktignok blir det en opplevelse hvor du selv kan velge hva du vil lese mer om. På samme måte som du er vant med fra wikipedia blant annet, hvor det er helt† linkebonanza, som kan sende deg i mange ulike retninger.
 
-Om du har følgt med på sida her en stund nå begynner det kanskje å ringe en bjelle. Jeg snakker såklart om en [[notes/Digitalt hagearbeid|digital hage]]. Nøyaktig hva jeg syns om det begrepet der på norsk er jeg ikke sikker på, men det er det jeg har kalt det tidligere så da er det vel fornuftig å fortsette.
+Om du har følgt med på sida her en stund nå begynner det kanskje å ringe en bjelle. Jeg snakker såklart om en [[notes/digitalt hagearbeid|digital hage]]. Nøyaktig hva jeg syns om det begrepet der på norsk er jeg ikke sikker på, men det er det jeg har kalt det tidligere så da er det vel fornuftig å fortsette.
 
 En digital hage lar meg velge rekkefølgen til en viss grad, og velge hva jeg vil vise fram, men hovedsakelig er det opp til deg, og hva du er nysgjerrig på.
 

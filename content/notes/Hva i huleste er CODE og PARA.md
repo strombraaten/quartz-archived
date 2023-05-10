@@ -11,7 +11,7 @@ title: "hva i huleste er CODE og PARA?"
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 [Tiago Forte](https://fortelabs.com/?ref=simen-skriver) er for mange kjent som mannen bak Second Brain-konseptet. Han har forøvrig en bok om nettopp det konseptet hvis du vil dykke dypere i det, hvor han snakker om hvordan du kan [bygge din egen Second Brain](https://www.buildingasecondbrain.com/?ref=simen-skriver).
 

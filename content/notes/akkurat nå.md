@@ -11,7 +11,7 @@ aliases:
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert av folk som [Derek Sivers](https://sive.rs/nowff?ref=simen-skriver), [Maggie Appleton](https://maggieappleton.com/now?ref=simen-skriver), og [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&ref=simen-skriver). Om du vil lese mer om såkalte "Nå"-sider finnes det [en utdypende side for sånt](https://nownownow.com/about?ref=simen-skriver).
 
@@ -53,7 +53,7 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 
 ## Hva jeg nerder ut på
 
-1. Hvordan jeg kan tilrettelegge min egen [[notes/Digitalt hagearbeid|digital hage]]
+1. Hvordan jeg kan tilrettelegge min egen [[notes/digitalt hagearbeid|digital hage]]
 2. Hvordan jeg bruker Eagle-appen til å strukturere bilder, og generell visuell inspirasjon
 
 >[!example]- Hva jeg har nerda ut på tidligere
