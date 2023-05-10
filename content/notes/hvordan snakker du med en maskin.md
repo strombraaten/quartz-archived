@@ -20,7 +20,7 @@ title: "hvordan snakker du med en maskin"
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
-Når vi snakker om [[notes/kunstig intelligens|AI]] så er det bare et system som har fått en rekke med instrukser – `Hvis dette skjer så skal du gjør det her`. Og de instruksene kommer fra folk som deg og meg, bare at de kan sannsynligvis veldig mye mer om programmering og maskinlæring enn det jeg kan iallefall. 
+Når vi snakker om [[notes/kunstig intelligens|AI]] så er det bare et system som har fått en rekke med instrukser – `Hvis dette skjer så skal du gjør det her`. Og de instruksene kommer fra folk som deg og meg, bare at de folka sannsynligvis kan mye mer om programmering og maskinlæring enn det jeg kan iallefall. 
 
 De instruksene riktignok blir veldig tydelig når vi dykker inn i verden av ChatGPT, og såkalte *store språkmodeller* (Large Language Models = LLM). For da er det ikke lenger bare utviklere som formulerer de instruksene, men det er også deg og meg. Og da er det ikke lenger et krav at du må kunne masse om kodegreier du ikke forstår deg på. Da handler det bare om å stille gode spørsmål.
 
@@ -30,3 +30,16 @@ På samme måte som når du snakker med vanlige folk lønner det seg å være ty
 For å forklare det bedre kan jeg gi deg en kort digresjon. For hvis småprater med folk prøver jeg å ligge unna spørsmål som "Hva jobber du med?", eller "Hvordan går det?", nettopp fordi svarene er delvis forhåndsdefinert. Om du spør noen "Hvordan går det?" så er det forventa at man sier noe sånt som "Jo takk, bare bra!"
 
 Om jeg derimot spør "Du, si meg, hva er det du blir gira av nå om dagen? Er det noe du engasjerer deg i, eller koser deg med? Er det for eksempel en serie du ser på, en hobby du har plukka opp, eller et tema du har researcha og dykka dypt i?"
+
+## Troverdighet og det å spille maskinen god
+
+For å begrense sjansen for at AI'en bare dikter opp ting så kan du be den om å ikke lyve. På en måte. 
+
+## Kontekst
+
+For å få mer presise svar basert på det du vil vite mer om så kan du gi AI'en mer kontekst. Du kan legge føringer på hva svaret skal inneholde, eller innebære.
+
+### Eksempler
+- Hvis svaret ikke befinner seg i teksten nedenfor så skal du si "Jeg veit ikke"
+- Svar utelukkende basert på konteksten du har fått, og svar så troverdig som mulig.
+	- Må ærlig innrømme at jeg er usikker på om den siste halvdelen av setningen der utgjør noen forskjell.
