@@ -7,13 +7,13 @@ tags:
   - oversikt
 title: "Hvorfor jeg blir så gira av Obsidian"
 ---
+Hva om du enkelt kunne finne ut av hva som helst? For eksempel navnet på den boka du leste for sju år siden, som handla om lykke eller glede. Eller kanskje det var et sitat fra en eller annen gammel greker?
+
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
-
-Hva om du enkelt kunne finne ut av hva som helst? For eksempel navnet på den boka du leste for sju år siden, som handla om lykke eller glede. Eller kanskje det var et sitat fra en eller annen gammel greker?
 
 Det høres ut som en reklame for de tidlige dagene av Google, men det er like relevant for såkalte "_[Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management?ref=simen-skriver)_"-systemer (også kjent som PKMs) den dag i dag.
 

@@ -4,18 +4,18 @@ aliases:
 tags:
   - oversikt
 date: 06 Dec, 2022
-lastmod: 12 Mar, 2023
+lastmod: 10 May, 2023
 title: "Eksperimenter i hverdagen"
 ---
+Er det _ett_ poeng jeg vil få fram i dag er det at du trenger ikke gjøre alt _hver_ dag.
+
+Med et sånt "ultimatum" gir du deg sjøl et veldig dårlig utgangspunkt for å klare det du vil. For da er du i grunn dømt til å feile. Er det hver dag.. i all evighet? Eller er det hver dag denne uka? Om du bare sier at du skal gjøre noe _hver dag_ så skaper du ikke rammene for å bli fornøyd med innsatsen din.
+
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
-
-Er det _ett_ poeng jeg vil få fram i dag er det at du trenger ikke gjøre alt _hver_ dag.
-
-Med et sånt "ultimatum" gir du deg sjøl et veldig dårlig utgangspunkt for å klare det du vil. For da er du i grunn dømt til å feile. Er det hver dag.. i all evighet? Eller er det hver dag denne uka? Om du bare sier at du skal gjøre noe _hver dag_ så skaper du ikke rammene for å bli fornøyd med innsatsen din.
 
 ## Bakgrunn
 

@@ -1,22 +1,22 @@
 ---
 date: 21 Dec, 2022
-lastmod: 12 Mar, 2023
+lastmod: 10 May, 2023
 tags:
   - oversikt
 aliases:
   - 
 title: "Se skriveprosessen min på 6 minutter"
 ---
+Jeg har tidligere snakka om at [[notes/Fyller virkelig arbeidet den tida du har tilgjengelig?|Parkinsons lov]] handler om hvordan arbeidet fyller den tida som er tilgjengelig. Men hvordan så prosessen egentlig ut da jeg halvverte tida jeg vanligvis bruker på å skrive en artikkel, før jeg trykker på den store, grønne publiseringsknappen? Det skal du få se med dine egne øyne i dag.
+
+> [!NOTE] Merknad
+> Ingen vennskap blei skadd under dette eksperimentet
+
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
-
-> [!NOTE] Merknad
-> Ingen vennskap blei skadd under dette eksperimentet
- 
-Jeg har tidligere snakka om at [[notes/Fyller virkelig arbeidet den tida du har tilgjengelig?|Parkinsons lov]] handler om hvordan arbeidet fyller den tida som er tilgjengelig. Men hvordan så prosessen egentlig ut da jeg halvverte tida jeg vanligvis bruker på å skrive en artikkel, før jeg trykker på den store, grønne publiseringsknappen? Det skal du få se med dine egne øyne i dag.
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]]. 
 
 ![[notes/images/Pasted-image-20230305115553.png]]
 

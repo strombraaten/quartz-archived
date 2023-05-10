@@ -1,6 +1,6 @@
 ---
 date: 21 Dec, 2022
-lastmod: 12 Mar, 2023
+lastmod: 10 May, 2023
 tags:
   - skriving
   - oversikt
@@ -8,15 +8,15 @@ aliases:
   - 
 title: "Om jeg hadde hatt mer tid skulle jeg skrivi en kortere artikkel"
 ---
+Det å skrive kortfatta er noe jeg virkelig beundrer. Som du kanskje har lagt merke til har jeg lettere for å skrive langt enn kort. Så det er et sitat jeg trekker fram jevnt og trutt for å beskrive den følelsen:
+
+> If I had more time, I would have written a shorter letter
+
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
-
-Det å skrive kortfatta er noe jeg virkelig beundrer. Som du kanskje har lagt merke til har jeg lettere for å skrive langt enn kort. Så det er et sitat jeg trekker fram jevnt og trutt for å beskrive den følelsen:
-
-> If I had more time, I would have written a shorter letter
 
 ## Opprinnelsen
 

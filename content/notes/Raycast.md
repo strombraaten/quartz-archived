@@ -10,6 +10,12 @@ title: "Raycast"
 ---
 I sin enkleste form bruker du bare Raycast for å åpne apper på dataen din. Det høres forferdelig enkelt ut, men gud bedre (!) så deilig det er når du først har prøvd det!
 
+> [!hint]- Stikling 🌿
+>
+> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
+> 
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+
 Om du kun bruker de innebygde funksjonene som er der fra før av så er det mer enn nok. Du trenger ikke mer enn det. Men. Jeg har såklart dykka dypere enn som så. Raycast er nemlig basert på at alle kan lage egne "utvidelser" som de kalles. Det er faktisk en slags [app store for alle de utvidelsene](https://www.raycast.com/store), hvor du kan bla gjennom og se om det er noe du liker.
 
 Om du heller vil ha en kuratert liste så har du noen ulike fokusområder under her. Alle punktene som *ikke* har linker er inkludert som standard i Raycast, for alle.

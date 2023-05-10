@@ -7,13 +7,13 @@ aliases:
   - 
 title: "snøballeffekten av læring"
 ---
+Det vil alltid være noe du *burde* lære deg. Samtidig er det sjeldent moro å lære seg noe nytt når du får det "prakka på deg". Om du er "nødt" til å lære deg noe du ikke kan. Eksempler på det kan være å sette seg inn i fondsparing, pensjon, eller boliglån, bare fordi du veit at det er noe man "*burde* kunne mer om". 
+
 > [!hint]- Stikling 🌿
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
-
-Det vil alltid være noe du *burde* lære deg. Samtidig er det sjeldent moro å lære seg noe nytt når du får det "prakka på deg". Om du er "nødt" til å lære deg noe du ikke kan. Eksempler på det kan være å sette seg inn i fondsparing, pensjon, eller boliglån, bare fordi du veit at det er noe man "*burde* kunne mer om". 
 
 Kanskje det er en arbeidsoppgave du gjør på jobb som du veit at du *kan sikkert* gjøre den fortere, hvis du bare lærte deg en annen tilnærming som går litt fortere. 
 

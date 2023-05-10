@@ -1,21 +1,21 @@
 ---
 date: 04 Mar, 2023
-lastmod: 23 Apr, 2023
+lastmod: 10 May, 2023
 tags:
   - oversikt
 aliases:
   - 
 title: "Det er noe feil med blogging som konsept"
 ---
+Øverst på bloggen min vil du nå finne det innlegget her. Og rett under ligger det jeg skreiv sist. Siden vi da beveger vårs tilbake i tid, med de eldste innleggene sist, blir det altså en _reversert kronologisk_ rekkefølge. Sånn har det vært siden slutten av 1990-tallet og begynnelsen på 2000-tallet.
+
+Det du publiserte sist ligger øverst, og får da mest oppmerksomhet. Betyr det at det innlegget er.. det viktigste? Det beste av det beste? Det som er mest relevant  for deg akkurat her og nå? Overhodet ikke.
+
 > [!hint]- Stikling 🌿
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
-
-Øverst på bloggen min vil du nå finne det innlegget her. Og rett under ligger det jeg skreiv sist. Siden vi da beveger vårs tilbake i tid, med de eldste innleggene sist, blir det altså en _reversert kronologisk_ rekkefølge. Sånn har det vært siden slutten av 1990-tallet og begynnelsen på 2000-tallet.
-
-Det du publiserte sist ligger øverst, og får da mest oppmerksomhet. Betyr det at det innlegget er.. det viktigste? Det beste av det beste? Det som er mest relevant  for deg akkurat her og nå? Overhodet ikke.
 
 ## Eldre tanker er ikke nødvendigvis dårlige tanker
 
