@@ -6,7 +6,6 @@ tags:
 aliases:
   - 
 title: "stadier av gjennomtenkthet"
-noToc: true
 ---
 
 For å gjøre det tydeligere hva som er mer og mindre gjennomtenkt har jeg prøvd å innføre et nytt konsept. Det her spiller videre på [[notes/digitalt hagearbeid|digitalt hagearbeid]] hvor du har [[notes/En tanke i utvikling|En tanke i utvikling]].
