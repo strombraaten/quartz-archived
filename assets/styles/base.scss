@@ -20,6 +20,21 @@ html {
   }
 }
 
+/* Prøver å definere en ny stilklasse
+#info-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+}
+
+.item {
+  flex: 1;
+  margin: 1rem;
+  text-align: justify;
+}
+*/
+
 .singlePage {
   padding: 4em 30vw;
   margin: 0 auto;
