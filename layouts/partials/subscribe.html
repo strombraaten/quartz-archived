@@ -1,5 +1,24 @@
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:0px #ccc solid !important"
-src="https://buttondown.email/simenskriver?as_embed=true"
-></iframe>
+<form action="https://buttondown.email/api/emails/embed-subscribe/simenskriver"
+method="post"
+target="popupwindow"
+class="embeddable-buttondown-form">
+  <ul>
+    <p>
+    <label for="name">Navn</label>
+    </p>
+    <input
+    type="text"
+    name="name"
+    placeholder="Simen heter jeg, hva heter du?"
+    />
+    <p>
+    <label for="email">Epost</label>
+    </p>
+    <input type="email" name="email" placeholder="din@epost.com"/>
+    <input type="hidden" value="1" name="embed" />
+    <input type="submit" value="Subscribe" />
+    <p>Posten leveres av 
+    <a href="https://buttondown.email" target="_blank">Buttondown.</a>
+    </p>
+  </ul>
+</form>
