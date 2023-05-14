@@ -248,6 +248,6 @@
   </script>
   {{end}}
   {{ $trimmedURL := trim (index (split .Site.BaseURL "://") 1) "/" }}
-  <script defer data-domain="{{$trimmedURL}}" src="https://plausible.io/js/script.js"></script>
+  <script defer data-domain="{{$trimmedURL}}" src="https://plausible.io/js/script.manual.js"></script>
   <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 </head>
