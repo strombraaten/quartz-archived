@@ -6,7 +6,7 @@ tags:
   - oversikt
 aliases:
   - 
-title: "UX metrics"
+title: "prisen av en dårlig brukeropplevelse"
 ---
 Okei, nå skal jeg prøve å kjempe for noe jeg egentlig ikke har noe erfaring med, nemlig å sette en pris på dårlige brukeropplevelser, i form av kroner og øre.
 
@@ -14,13 +14,13 @@ Hvorfor? Fordi det kan gi meg som designer bedre argumenter for å kjempe for en
 
 ## UX metrics
 
-`UX Metrics` er et begrep jeg blei introdusert til i workshoppen til Jared Spool, på en konferanse som heter [From Business to Buttons](https://frombusinesstobuttons.com/). For å gi deg et eksempel så har han skrivi om [hvordan UX metrics kan forsterke historiene vi lager](https://articles.uie.com/combining-our-ux-metrics-with-compelling-emotional-stories/) rundt innsiktsarbeid. I artikkelen forklarer han et konkret eksempel som konkluderes med:
+`UX Metrics` er et begrep jeg blei introdusert til i workshopen til Jared Spool, på en konferanse som heter [From Business to Buttons](https://frombusinesstobuttons.com/). For å gi deg et eksempel så har han skrevet om [hvordan UX metrics kan forsterke historiene vi lager](https://articles.uie.com/combining-our-ux-metrics-with-compelling-emotional-stories/) rundt innsiktsarbeid. I artikkelen forklarer han et konkret eksempel som konkluderes med:
 
 > *If our service’s average customer lifetime value is $1200, those annual 949,000 failed sign ups would be an opportunity loss of $1.1 billion.*
 
 Det som er spennende her er at han har sett på en spesifikk handling, nettopp kunder som ikke klarte å registrere seg hos en eller annen digital tjeneste. For å vise at det ikke er et enkeltstående tilfelle har han sett på hvor ofte feilen oppstår på en daglig basis, og gjort litt kjapp matte.
 
-I workshoppen jeg nevnte sa han også at folk som jobber med statistikk burde være en designers beste venn, nettopp på grunn av tilfeller som dette. For å gi vårs et grunnlag som vi kan bygge videre på, nettopp for å lage overbevisende argumenter.
+I workshopen jeg nevnte sa han også at folk som jobber med statistikk burde være en designers beste venn, nettopp på grunn av tilfeller som dette. For å gi vårs et grunnlag som vi kan bygge videre på, nettopp for å lage overbevisende argumenter.
 
 Basert på den kjappe utregninga har han ganga det opp med antall dager i et år for å se det i en større kontekst. Da blir det også mer relaterbart for ledere siden de ofte forholder seg til planer og prosjekter som går over lengre tid. Argumentet får altså mer tyngde av å se det i et større perspektiv.
 
