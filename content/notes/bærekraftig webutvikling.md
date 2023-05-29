@@ -49,7 +49,8 @@ Men hva er det som påvirker "tyngden" av nettsida di? Hva som kan gjøre den "t
 Du kan fint komprimere et bilde ned til noen få hundre kilobyte, og f. eks 1000 pixler i makslengde/bredde uten at det påvirker kvaliteten i for stor grad.
 
 > [!NOTE]- Forbedringspotensiale
-*Her kunne jeg nok vist et eksempel på for å gjøre det enda tydeligere, men det kan jeg komme tilbake til hvis du vil det.*
+>
+>*Her kunne jeg nok vist et eksempel på for å gjøre det enda tydeligere, men det kan jeg komme tilbake til hvis du vil det.*
 
 ### Effektiviteten av ulike kodespråk
 
