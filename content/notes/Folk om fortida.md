@@ -1,3 +1,12 @@
+---
+date: 29 May, 2023
+lastmod: 29 May, 2023
+tags:
+  - oversikt
+aliases:
+  - 
+title: "Folk om fortida"
+---
 Sideprosjekt som varte fra 2018 til ca 2020ish. 
 
 ## Hva er det, kort fortalt?

@@ -1,8 +1,10 @@
 ---
 date: 28 May, 2023
-lastmod: 28 May, 2023
-tags: 
-aliases: 
+lastmod: 29 May, 2023
+tags:
+  - oversikt
+aliases:
+  - 
 title: "Whatever floats your quote"
 ---
 Sideprosjekt som varte fra 2013 til ca 2015ish. I stedet for å bare samle på sitater i en eller annen notat-app ville jeg ha en enkel måte å dele gode sitater på — derav Whatever Floats Your Quote.

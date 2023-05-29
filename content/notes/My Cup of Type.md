@@ -2,7 +2,7 @@
 date: 29 May, 2023
 lastmod: 29 May, 2023
 tags:
-  - 
+  - oversikt
 aliases:
   - 
 title: "My Cup of Type"
