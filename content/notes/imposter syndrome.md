@@ -38,6 +38,8 @@ Til tross for navnet så tviler jeg på at en lege eller psykolog ville gitt deg
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
+---
+
 ## Anbefalt lesing
 
-- Kollegaen min Hilde skreiv en nydelig artikkel om [hva hu har lært om bedragersyndrom](https://medium.com/variant-as/hva-jeg-l%C3%A6rte-av-bedragersyndrom-85ed920ce864)
+- Kollegaen min Hilde har skrevet en nydelig artikkel om [hva hu har lært om bedragersyndrom](https://medium.com/variant-as/hva-jeg-l%C3%A6rte-av-bedragersyndrom-85ed920ce864)
