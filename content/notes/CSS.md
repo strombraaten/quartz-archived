@@ -1,6 +1,6 @@
 ---
 date: 21 May, 2023
-lastmod: 21 May, 2023
+lastmod: 04 Jun, 2023
 tags:
   - læring
   - oversikt
@@ -8,6 +8,7 @@ aliases:
   - 
 title: "CSS"
 ---
+
 ## Egenskaper
 
 Når du legger til en egenskap, som f. Eks `color`, med en verdi, som i `color: green;` så lager du en såkalt `declaration`, og det er altså [[notes/CSS|CSS]], og ikke [[notes/HTML|HTML]]. Et eksempel på det kan være f. eks:
@@ -50,7 +51,6 @@ Om du både vil at teksten skal være grønn, men at den også skal stå i kursi
 ```
 <p style=«color: green; font-style: italics;»>Denne teksten er både grønn og kursiv</p>
 ```
-
 
 ## Hvordan du slipper å gjøre samme endring mange ganger
 
@@ -97,7 +97,7 @@ Du kan altså bake inn all stilendringene dine i en [[HTML]]-fil, men da blir de
 
 ## Grunnleggende
 
-Først må vi tenke på plasseringa. [[CSS]] hører hjemme mellom <head>-tags i en [[HTML]]-fil. 
+Først må vi tenke på plasseringa. [[CSS]] hører hjemme mellom `<head>`-tags i en [[HTML]]-fil. 
 
 ```
 <html>
@@ -120,6 +120,7 @@ Der kan du fint plassere alt av bakgrunnsfarger, størrelser, og valg av skriftt
 Det du gjør da er at du lager en spesifikk fil kun for stylinga av sida, som kalles et `style sheet`. CSS er nemlig forkorta fra «Cascading Style Sheet». Hvor «Cascading»-biten av begrepet handler om at alle stilvalgene dine, (eller «deklarasjonene», som de så fint kalles) kommer én etter én.
 
 I praksis vil [[HTML]]-fila di da se sånn ut:
+
 ```
 <html>
 <head>
@@ -131,13 +132,15 @@ I praksis vil [[HTML]]-fila di da se sånn ut:
 </body>
 </html>
 ```
-Det du gjør da er å si til koden din «Hei du! Husk at du skal ha med deg et stylesheet, du finner det her borte». Da bruker vi <link>-tagen for å peke i riktig retning, samtidig som vi definerer relasjon den fila har, nemlig at den er en stylesheet – `…rel=«stylesheet»..
+
+Det du gjør da er å si til koden din «Hei du! Husk at du skal ha med deg et stylesheet, du finner det her borte». Da bruker vi `<link>`-tagen for å peke i riktig retning, samtidig som vi definerer relasjon den fila har, nemlig at den er en stylesheet – `…rel=«stylesheet»..`
 
 ## Klasser
 
 Det her er tett knytta til det jeg nevnte tidligere om hvordan du slipper å gjøre samme endring mange ganger. Den eneste forskjellen er at du kan være mer selektiv.
 
-Hvis du lager en punktliste f. Eks (en «ordered list» altså, som forkortes til  <ol>`) så kunne du sagt at hvert punkt som defineres med `<li>` skal ha gul bakgrunn. Da kunne du definert det på denne måten:
+Hvis du lager en punktliste f. Eks (en «ordered list» altså, som forkortes til  `<ol>`) så kunne du sagt at hvert punkt som defineres med `<li>` skal ha gul bakgrunn. Da kunne du definert det på denne måten:
+
 ```
 <head>
 <style>
@@ -156,7 +159,9 @@ background-color: yellow;
 </ol>
 </body>
 ```
+
 Hvis du ville hatt mer kontroll over den, og heller fargelagt annenhvert punkt, så kunne du skrivd det sånn her:
+
 ```
 <head>
 <style>
@@ -175,19 +180,50 @@ background-color: yellow;
 </ol>
 </body>
 ```
+
 Ikke det mest sexy eksempelet akkurat, men poenget er bare at du har mer kontroll, og kan style spesifikke elementer, i stedet for å dra alle over en kam. Feilmeldinger kunne nok vært et bedre eksempel. Da kunne jeg formidla på en eller annen kodemåte at «Hvis man trykker på en ikke-eksisterende link skal du få en rød feilmelding som sier at det har skjedd noe feil. Om du derimot har meldt deg på nyhetsbrevet f. Eks så skal jeg bekrefte at alt er i sin skjønneste orden, og informere om at det gikk bra.»
 
 Måten du lager en klasse på er at du starter med et punktum og følger opp med hva den «klassen» skal hete – `.yellow-element`, etterfulgt av en egenskap og en verdi:
+
 ```
 .yellow-element {
 color: yellow;
 }
 ```
+
 En klasse kalles også en «selector», siden vi aktivt peker ut hvilke elementer som skal påvirkes av et stilvalg.
 
 > [!warning] Spørsmål
 > Hva er forskjellen mellom en tag selector, ID selector, og en class selector? For jeg har sett at det er noen som defineres ved å skrive 
-> `<body>{}` og andre som `.yellow-element` og andre igjen som `#capital-letter`
+> `body {}` og andre som `.yellow-element` og andre igjen som `#capital-letter`
+
+### ID selector
+
+For å gjøre endringer på veldige spesifikke ting så kan du bruke en ID selector. I CSS-fila di da definerer du hva slags stilendring det skal være, og hva den regelen skal hete. I dette tilfellet kunne jeg tenke meg å gjøre tekstfargen blå der hvor bandet "Eiffel 65" står nevnt (i HTML-fila). Da skriver jeg det her:
+
+```
+.text {
+color: blue;
+}
+```
+
+I HTML-fila mi må jeg da spesifisere at den setningen skal hente stilendringene fra regelen som heter `.text`:
+
+```
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<p class="text">Eiffel 65</p>
+</body>
+</html>
+```
+
+Og voilá! Så har du blå tekst.
+
+---
 
 ![[notes/images/IMG_6302.png]]
 ![[notes/images/IMG_6301.png]]
@@ -203,5 +239,31 @@ En klasse kalles også en «selector», siden vi aktivt peker ut hvilke elemente
 > 
 > Når du vil velge alle `h1`-elementene på en side bruker du en tag selector. En «class selector» brukes heller for å definere en spesifikk type stilendring du skal bruke i ny og ne.
 
+## Border
 
+I designverden snakker vi ofte om «stroke» eller «outline». I kodeverden derimot så kalles det «border». Måten du gjør en ramme synlig på er å skrive `solid`, gjerne etterfulgt av antall pixler for å definere hvor tjukk den skal være.
 
+Du kan også gjøre flere stilendringer på en ramme i samma slengen, uten å ha behovet for å separere dem på noen måte, som i dette eksempelet:
+
+`border: solid 3px aquamarine;`
+
+## Forskjellen mellom margin og padding
+
+- Marginer er the space outside an elements border which defines how far it is from another element
+- Padding derimot er «the space between the content and the border of an element»
+- Padding kan defineres på en forkorta måte hvor du ramser opp ønsket padding på alle fire sidene (topp, høyre, bunn, venstre), i den spesifikke retningen, siden det går med klokka og starter på toppen rundt en firkant. 
+	- Når du skriver det forkorta på den måten trenger du ikke definere pixler som måleenhet, men kan heller skrive:
+
+```
+h3 {
+padding: 12 24 12 24;
+}
+```
+
+Samme tilnærminga fungerer også med margins:
+
+```
+button {
+margin: 4 16 4 2;
+}
+```
