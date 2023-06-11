@@ -2,7 +2,8 @@
 date: 11 Jun, 2023
 lastmod: 11 Jun, 2023
 tags:
-  - 
+  - tankemat
+  - oversikt
 aliases:
   - 
 title: "menneskelig vedlikehold"

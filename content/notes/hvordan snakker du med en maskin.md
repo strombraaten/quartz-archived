@@ -2,7 +2,9 @@
 date: 30 Apr, 2023
 lastmod: 30 Apr, 2023
 tags:
-  - 
+  - AI
+  - oversikt
+  - teknologi
 aliases:
   - 
 title: "hvordan snakker du med en maskin"
