@@ -24,14 +24,14 @@ Første gangen det sitatet blir nevnt er i 1657, fra den franske filosofen og ma
 
 > "I have made this longer than usual because I have not had time to make it shorter."
 
-Nå er jog ikke jeg fremmed fra å ta et dypdykk i [hvor ord og i sitater kommer fra](https://www.simenskriver.no/hvor-ord-egentlig-kommer-fra/), så du kan tro jeg storkoste meg da jeg researcha opprinnelsen til det sitatet! For det viser seg at det er mange som krediteres til å ha sagt nettopp de ordene. Ingen ringere enn [[Mark Twain]] i 1871, [[Henry David Thoreau]] (som skreiv [Walden](https://en.wikipedia.org/wiki/Walden)), [[Benjamin Franklin]], og [[John Locke]], for å nevne noen.
+Nå er jog ikke jeg fremmed fra å ta et dypdykk i [hvor ord og i sitater kommer fra](https://www.simenskriver.no/hvor-ord-egentlig-kommer-fra/), så du kan tro jeg storkoste meg da jeg researcha opprinnelsen til det sitatet! For det viser seg at det er mange som krediteres til å ha sagt nettopp de ordene. Ingen ringere enn Mark Twain i 1871, Henry David Thoreau (som skreiv [Walden](https://en.wikipedia.org/wiki/Walden)), Benjamin Franklin, og John Locke, for å nevne noen.
 
 ### Eksempler på tidligere bruk
 
 Personlig likte jeg veldig godt det Thoreau sa, da han skreiv et brev til en venn:
 > Not that the story need be long, but it will take a long while to make it short.
 
-[[Mark Twain]] derimot krydra det med mer formell swag, i enda et brev til en venn, som virker som det mest vanlige formatet på den tida:
+Mark Twain derimot krydra det med mer formell swag, i enda et brev til en venn, som virker som det mest vanlige formatet på den tida:
 > You’ll have to excuse my lengthiness--the reason I dread writing letters is because I am so apt to get to slinging wisdom & forget to let up. Thus much precious time is lost.
 
 "Slinging wisdom" du liksom! Hå! Det er en karslig ting å si.
@@ -40,17 +40,17 @@ Uansett. Om du vil dykke enda dypere, og lese flere eksempler og hvordan sitatet
 
 ## Hvordan det er relevant for daglig skriving
 
-[[Artikkel - Skriveprosessens ulike faser|skriveprosessen]] har riktignok flere faser, som krever ganske ulike sinnstilstander. I blant må du tenke veldig åpent, og utforske, og andre ganger må du være mer kritisk, og heller komme til poenget. Det oppsummerer også hvordan man i stor grad jobber med design, gjennom det som kalles Double Diamond-prosessen. 
+Skriveprosessen har riktignok flere faser, som krever ganske ulike sinnstilstander. I blant må du tenke veldig åpent, og utforske, og andre ganger må du være mer kritisk, og heller komme til poenget. Det oppsummerer også hvordan man i stor grad jobber med design, gjennom det som kalles Double Diamond-prosessen. 
 
 De ulike fasene i skriveprosessen kan jeg utdype mer om en annen gang, men i dag vil jeg heller fokusere på hvordan det å skrive kortfatta er spesielt relevant for [[Zettelkasten]]-metoden, og å vedlikeholde et notatsystem.
 
 ## Notater som miniatyriske byggeklosser
 
-Da jeg introduserte Zettelkasten-metoden tidligere, i [[notes/En introduksjon til Zettelkasten]], nevnte jeg også konseptet om "[[Atomic Notes]]", som [[Sönke Ahrens]] snakker om i boka [[Boknotat - How to Take Smart Notes|How to Take Smart Notes]].
+Da jeg introduserte Zettelkasten-metoden tidligere, i [[notes/En introduksjon til Zettelkasten|En introduksjon til Zettelkasten]], nevnte jeg også konseptet om "[[Atomic Notes]]", som [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes) snakker om i boka [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes?from_search=true&from_srp=true&qid=iMYFDAYQ99&rank=1).
 
 I motsetning til de lange artiklene mine så burde nemlig notatene våres være så kortfatta som mulig. Derav *"atomic"*, for å symbolisere at det skal brytes ned til de minste byggeklossene som du kan bryte det ned til. 
 
-[[Niklas Luhmann]] begrensa lengden gjennom størrelsen på papiret han brukte. Som forøvrig var A6, eller 10.5 x 14.8 cm, for de av dere som lurte. Og nå er jo ikke det en begrensing du nødvendigvis har på dataen. Men!
+[Niklas Luhmann](https://no.wikipedia.org/wiki/Niklas_Luhmann) begrensa lengden gjennom størrelsen på papiret han brukte. Som forøvrig var A6, eller 10.5 x 14.8 cm, for de av dere som lurte. Og nå er jo ikke det en begrensing du nødvendigvis har på dataen. Men!
 
 Dersom du ser at et notat begynner å bli for langt, eller du beveger deg ut i et nytt tema, så vil det være en indikator på at det burde deles opp i flere notater. Og flere notater betyr flere linker, som igjen leder til flere muligheter for at de kan linkes sammen med andre notater.
 
