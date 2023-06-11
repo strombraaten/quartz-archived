@@ -18,13 +18,13 @@ La vårs ta en kikk på hvordan det overføres til livet sjæl, og ikke bare pro
 
 Vi kan nok oversette den første delen av sitatet til:
 
-> Færre (eller mindre), men bedre, fordi man snevrer inn fokuset på de essensielle delene.
+> *Færre (eller mindre), men bedre, fordi man snevrer inn fokuset på de essensielle delene.*
 
 Ved å heller prioritere de aktivitetene, de folka, de øyeblikkene i livet ditt som er viktigst for deg vil også hver enkelt dag føles bedre. For du prioriterer det som virkelig betyr noe.
 
 Det er veldig lett å si ja når noen spør deg om noe. Om du vil bli med på noe sosialt selv om du egentlig kunne trengt egentid, om du kan gjøre noen en tjeneste selv om du egentlig har mange ærend du skulle gjort sjøl. Det er derimot vanskeligere å si nei. For da føles det ut som du tar et mer aktivt ståsted. Du prioriterer noe du allerede har på gang foran den nye muligheten som nå dukka opp. Her har forøvrig [Derek Sivers noen fine tanker](https://sive.rs/hellyeah), hvor han forklarer hvordan det å si nei også kan skape plass for de øyeblikka som virkelig engasjerer deg:
 
-> When you say no to most things, you leave room in your life to really throw yourself completely into that rare thing that makes you say “HELL YEAH!”
+> *When you say no to most things, you leave room in your life to really throw yourself completely into that rare thing that makes you say “HELL YEAH!”*
 
 Det kan også relateres til tinga vi har – klærne vi eier, de månedlige abonnementene vi betaler for.
 
@@ -54,7 +54,7 @@ Sånn jeg ser det kan det være:
 
 ## Hva som er essensielt
 
-Hvordan fokuserer vi da på "*the essential aspects*", som Dieter Rams kaller det? Neimen veit jeg, men jeg har lyst til å illustrere det med en barnebok, skrevet av Antoine de Saint-Exupéry, som seinere har blitt til en film som er helt fantastisk, spør du meg.
+Hvordan fokuserer vi da på "*the essential aspects*", som Dieter Rams kaller det? Neimen veit jeg, men jeg har lyst til å illustrere det med en barnebok som heter "[Den lille prinsen](https://no.wikipedia.org/wiki/Den_lille_prinsen)", skrevet av Antoine de Saint-Exupéry, som seinere har blitt til [en film som er helt fantastisk](<https://en.wikipedia.org/wiki/The_Little_Prince_(2015_film)>), spør du meg.
 
 Et av de underliggende temaene i filmen handler om hva som er essensielt i livet, og hva som ikke er det. Der legges det vekt på at det som fyller livet med mening og glede er det som ikke nødvendigvis kan måles, som ikke synes, og som er vanskelig å beskrive. Som øyeblikkene du har delt med folk du er glad i. Som den nostalgiske følelsen når du ser på f. eks en sekk du har hatt lenge, og tenker "Ah, den sekken brukte jeg på den turen i 2017, da jeg og to venner gikk opp et fjell, og så det og det på veien dit".
 
@@ -68,7 +68,7 @@ Når vi bruker det – hva enn *det* er – som et filter for å vurdere hva som
 
 ## Takknemlighet
 
-Marie Kondo, som er kjent for å være en slags rydde-og-organiserings-ekspert, snakker om å takke de tinga du kvitter deg med, at du takker dem for "deres tjeneste og betydning" i livet ditt. Selv om det høres litt tullete ut så er det en veldig fin tanke bak det. For på den måten blir du mer takknemlig over de tinga du eier. Du anerkjenner rollen de har spilt i livet ditt, også lar du dem gå. Kanskje fordi livssituasjonen din har endra seg, behovene har endra seg, eller hva du prioriterer har endra seg. Uansett hva som er grunnen så lukker du ett kapittel for så å kunne bla videre til et annet. Du kvitter deg med byrden av en unødvendig ting i livet ditt, for å skape rom for noe annet.
+[Marie Kondo](https://konmari.com/konmari-is-not-minimalism/), som er kjent for å være en slags rydde-og-organiserings-ekspert, snakker om å takke de tinga du kvitter deg med, at du takker dem for "deres tjeneste og betydning" i livet ditt. Selv om det høres litt tullete ut så er det en veldig fin tanke bak det. For på den måten blir du mer takknemlig over de tinga du eier. Du anerkjenner rollen de har spilt i livet ditt, også lar du dem gå. Kanskje fordi livssituasjonen din har endra seg, behovene har endra seg, eller hva du prioriterer har endra seg. Uansett hva som er grunnen så lukker du ett kapittel for så å kunne bla videre til et annet. Du kvitter deg med byrden av en unødvendig ting i livet ditt, for å skape rom for noe annet.
 
 ## Avsluttende ord
 
