@@ -256,7 +256,7 @@ Du kan også gjøre flere stilendringer på en ramme i samma slengen, uten å ha
 
 ```
 h3 {
-padding: 12 24 12 24;
+padding: 4 16 4 16;
 }
 ```
 
