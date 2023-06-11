@@ -1,6 +1,6 @@
 ---
 date: 21 Dec, 2022
-lastmod: 10 May, 2023
+lastmod: 11 Jun, 2023
 tags:
   - skriving
   - oversikt

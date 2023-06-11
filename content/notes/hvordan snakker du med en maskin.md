@@ -27,15 +27,17 @@ De instruksene riktignok blir veldig tydelig når vi dykker inn i verden av Chat
 ## Hvordan stille gode spørsmål
 På samme måte som når du snakker med vanlige folk lønner det seg å være tydelig. Både i hvordan du formulerer spørsmålet ditt, men også hva du ønsker å få ut av det. Hva er et eksempel på et svar du er ute etter?
 
-For å forklare det bedre kan jeg gi deg en kort digresjon. For hvis småprater med folk prøver jeg å ligge unna spørsmål som "Hva jobber du med?", eller "Hvordan går det?", nettopp fordi svarene er delvis forhåndsdefinert. Om du spør noen "Hvordan går det?" så er det forventa at man sier noe sånt som "Jo takk, bare bra!"
+Jeg kan forklare det bedre med en kort digresjon. Hvis jeg småprater med folk prøver jeg å ligge unna spørsmål som "Hva jobber du med?", eller "Hvordan går det?", nettopp fordi svarene er forhåndsdefinert. Fra et sosialt ståsted så veit vi hva som er vanlig å svare på de spørsmålene, så det går mer eller mindre på automatikk. Om du spør noen "Hvordan går det?" så er det forventa at man sier noe sånt som "Jo takk, bare bra!"
 
-Om jeg derimot spør "Du, si meg, hva er det du blir gira av nå om dagen? Er det noe du engasjerer deg i, eller koser deg med? Er det for eksempel en serie du ser på, en hobby du har plukka opp, eller et tema du har researcha og dykka dypt i?"
+Om jeg derimot spør "Du, si meg, hvilke små gleder er det du koser deg med nå om dagen? Er det for eksempel en serie du ser på, en hobby du har plukka opp, eller et tema du har researcha og dykka dypt i?"
+
+På den måten gir du eksempler på hva slags svar du er ute etter, og du øker sjansen for å få de svarene du selv vil ha.
 
 ## Troverdighet og det å spille maskinen god
 
 For å begrense sjansen for at AI'en bare dikter opp ting så kan du be den om å ikke lyve. På en måte. 
 
-## Kontekst
+### Kontekst
 
 For å få mer presise svar basert på det du vil vite mer om så kan du gi AI'en mer kontekst. Du kan legge føringer på hva svaret skal inneholde, eller innebære.
 
