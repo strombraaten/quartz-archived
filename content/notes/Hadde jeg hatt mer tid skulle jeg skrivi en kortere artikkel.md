@@ -24,7 +24,7 @@ Første gangen det sitatet blir nevnt er i 1657, fra den franske filosofen og ma
 
 > "I have made this longer than usual because I have not had time to make it shorter."
 
-Nå er jog ikke jeg fremmed fra å ta et dypdykk i [hvor ord og i sitater kommer fra](https://www.simenskriver.no/hvor-ord-egentlig-kommer-fra/), så du kan tro jeg storkoste meg da jeg researcha opprinnelsen til det sitatet! For det viser seg at det er mange som krediteres til å ha sagt nettopp de ordene. Ingen ringere enn Mark Twain i 1871, Henry David Thoreau (som skreiv [Walden](https://en.wikipedia.org/wiki/Walden)), Benjamin Franklin, og John Locke, for å nevne noen.
+Nå er jo ikke jeg fremmed fra å ta et dypdykk i [hvor ord og i sitater kommer fra](https://www.simenskriver.no/hvor-ord-egentlig-kommer-fra/), så du kan tro jeg storkoste meg da jeg researcha opprinnelsen til det sitatet! For det viser seg at det er mange som krediteres til å ha sagt nettopp de ordene. Ingen ringere enn Mark Twain i 1871, Henry David Thoreau (som skreiv [Walden](https://en.wikipedia.org/wiki/Walden)), Benjamin Franklin, og John Locke, for å nevne noen.
 
 ### Eksempler på tidligere bruk
 
