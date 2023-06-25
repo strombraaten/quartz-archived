@@ -10,7 +10,7 @@ aliases:
 Du kjenner kanskje til utrykket _"If you wait until the last minute, it only takes a minute to do"_? Eller kanskje du kjenner til originalen, _"Work expands so as to fill the time available for its completion"_. Det siste der var det [Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/C._Northcote_Parkinson?ref=simen-skriver) som formulerte så fint i en [artikkel til den engelske avisa, The Economist](https://www.economist.com/news/1955/11/19/parkinsons-law?ref=simen-skriver), i 1955.
 
 Den påstanden fikk jeg testa i et eksperiment som du kan se her:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uiLXSqB-P3s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uiLXSqB-P3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > [!hint]- Blomst 🪴
 >
