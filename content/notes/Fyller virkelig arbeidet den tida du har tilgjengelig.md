@@ -1,6 +1,6 @@
 ---
 date: 11 Dec, 2022
-lastmod: 12 Mar, 2023
+lastmod: 25 Jun, 2023
 tags:
   - oversikt
 title: "Fyller virkelig arbeidet den tida du har tilgjengelig?"
