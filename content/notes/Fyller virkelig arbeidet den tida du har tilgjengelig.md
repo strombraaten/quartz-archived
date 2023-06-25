@@ -9,6 +9,9 @@ aliases:
 ---
 Du kjenner kanskje til utrykket _"If you wait until the last minute, it only takes a minute to do"_? Eller kanskje du kjenner til originalen, _"Work expands so as to fill the time available for its completion"_. Det siste der var det [Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/C._Northcote_Parkinson?ref=simen-skriver) som formulerte så fint i en [artikkel til den engelske avisa, The Economist](https://www.economist.com/news/1955/11/19/parkinsons-law?ref=simen-skriver), i 1955.
 
+Den påstanden fikk jeg testa i et eksperiment som du kan se her:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uiLXSqB-P3s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 > [!hint]- Blomst 🪴
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
@@ -17,7 +20,7 @@ Du kjenner kanskje til utrykket _"If you wait until the last minute, it only ta
 
 ## Et nært eksempel
 
-For å ta et praktisk eksempel kan vi se prosessen av å skrive denne artikkelen. På en daglig basis bruker jeg omtrent halvannen, til to timer, og nå skal jeg prøve å gjøre det på 45 minutter.
+Eksperimentet i filmen over viser deg prosessen av å skrive denne artikkelen. Det tar meg omtrent halvannen, til to timer å skrive noe sånt, og nå skal jeg prøve å gjøre det på 45 minutter.
 
 I dag har jeg nemlig en avtale jeg må rekke, og den er om én time. Og jeg har ikke skrivi dagens artikkel ennå, så det her er et ypperlig eksempel for å se om Parkinsons lov faktisk har noe for seg.
 
@@ -26,9 +29,9 @@ I dag har jeg nemlig en avtale jeg må rekke, og den er om én time. Og jeg har 
 Selve prosessen for min del innebærer å:
 
 1.  Finne ut hva jeg vil skrive om
-    -   Akkurat der har jeg tjuvstarta i dag, siden jeg allerede hadde noe jeg ville skrive om
+    - Akkurat der har jeg tjuvstarta i dag, siden jeg allerede hadde noe jeg ville skrive om
 2.  Samle sammen et slags grunnlag basert på sitater og kilder  
-    3.Skrive rundt de tankene jeg har samla sammen
+    - Skrive rundt de tankene jeg har samla sammen
 3.  Pynte på formateringa, gjøre det mer leselig, og publisere det på nettsida
 
 Det er iallefall sånn jeg pleier å jobbe, men jeg kunne sikkert skalert det ned, om jeg ville.
@@ -53,7 +56,7 @@ Forøvrig syns jeg det var artig å lese hvordan han hauser opp denne banebryten
 
 Jeg skal ærlig innrømme at jeg ikke rakk å bli ferdig på 45 minutter, og måtte sende avgårde en melding i all hui og hast (beklager, Arnt!).
 
-![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-11-at-13.55.44@2x.png)
+![[notes/images/image/Fyller virkelig arbeidet den tida du har tilgjengelig-1687676993925.jpeg]]
 
 Men! Gode, gamle Cyril var nok inne på noe altså. Jeg blei ferdig på 55 minutter, og det er ganske mye mindre enn jeg pleier å bruke. Selv om jeg blei litt seint ute, og føler meg nå som en dårlig venn.
 
