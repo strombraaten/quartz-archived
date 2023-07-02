@@ -22,10 +22,12 @@ Dette er en liste jeg kommer til å oppdatere i ny og ne, men hvor du gjerne må
 
 - Hva er det som er utfordrende med den personligheten du har? Hvis du tenker på de karaktertrekkene du har, og sånn du funker på en måte
 - Er det noe bra du kan trekke ut fra tider hvor du har vært nedfor?
+- Hvilke av dine egne egenskaper tror du at du tar for gitt, men som er vanskeligere for andre?
+	- Sagt på en annen måte, hva tror du er lett for din egen del, men som kanskje er vanskeligere for andre?
 
 ### Innspill fra lesere (som deg)
 
-- Hva er det du liker best med det stedet du bor?
+- Hva er det du liker godt med det stedet du bor?
 - Er det noe du har lyst til at jeg skal spørre deg om?   
 - Hva er din favoritt smågodt-bit og hvorfor?
 - Hvilke egenskaper setter du pris på med … {fyll inn navn på person}?
