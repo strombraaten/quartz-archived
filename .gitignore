@@ -8,3 +8,4 @@ assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
 .nova/Configuration.json
+.zed/settings.json
