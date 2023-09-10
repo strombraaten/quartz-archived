@@ -7,7 +7,11 @@ aliases:
   - 
 title: "Det er noe feil med blogging som konsept"
 ---
-Øverst på bloggen min vil du nå finne det innlegget her. Og rett under ligger det jeg skreiv sist. Siden vi da beveger vårs tilbake i tid, med de eldste innleggene sist, blir det altså en _reversert kronologisk_ rekkefølge. Sånn har det vært siden slutten av 1990-tallet og begynnelsen på 2000-tallet.
+På den forrige versjonen av hjemmesida mi så ville den artikkelen her vært øverst, bare fordi det var det siste jeg skreiv i det øyeblikket. Og rett under kunne du finne den artikkelen jeg skreiv før det igjen (illustrert av skjermbildet under, selv om det er feil titler og artikler).
+
+![[notes/images/image/Det er noe feil med blogging som konsept-1687680804650.jpeg]]
+
+Blogger er tradisjonelt bygd for å bevege vårs tilbake i tid, med de nyeste innleggene først og de eldste sist. Det er det som kalles en _reversert kronologisk_ rekkefølge. Sånn har det vært siden slutten av 1990-tallet og begynnelsen på 2000-tallet.
 
 Det du publiserte sist ligger øverst, og får da mest oppmerksomhet. Betyr det at det innlegget er.. det viktigste? Det beste av det beste? Det som er mest relevant  for deg akkurat her og nå? Overhodet ikke.
 
@@ -19,7 +23,7 @@ Det du publiserte sist ligger øverst, og får da mest oppmerksomhet. Betyr det 
 
 ## Eldre tanker er ikke nødvendigvis dårlige tanker
 
-Om du hopper deg tilbake til de eldste artiklene mine her, fire sider tilbake i tid for øyeblikket, finner du blant annet en som heter _[Ditt framtidige, fremmede "jeg"](https://www.simenskriver.no/ditt-framtidige-fremmede-jeg/)._ Tankene der er nøyaktige like relevante som det jeg skreiv om [syntaks](https://www.simenskriver.no/syntaks/) eller [skriveprosessen min](https://www.simenskriver.no/se-skriveprosessen-min-pa-5-minutter/).
+På den gamle versjonen av hjemmesida mi, i sin mer tradisjonelle bloggform, kunne du bla deg tilbake for å lese de eldre artiklene mine. Om du tok deg bryet med å gå fire sider tilbake i tid ville du snuble over det jeg skreiv om [[notes/Ditt framtidige, fremmede jeg|Ditt framtidige, fremmede jeg]]. Tankene der er nøyaktige like relevante som det jeg skreiv om [[notes/Syntaks er nok mer spennende enn du tror|syntaks]] eller [[notes/Se skriveprosessen min på 6 minutter|Se skriveprosessen min på 6 minutter]].
 
 På én måte kan det være fint med rekkefølge, en reversert kronologisk rekkefølge, for tankene kan sees på som et avtrykk i tid, at du fanga hva du tenkte i det øyeblikket. Samtidig blir tankene nedprioritert desto eldre de er. For hver side som blir lagt til minsker også sjansen for å finne noe gammelt gull.
 
