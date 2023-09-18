@@ -1,11 +1,10 @@
 ---
-date: 05 Mar, 2023
-lastmod: 12 Mar, 2023
+date: 2023-03-05
+lastmod: 2023-03-12
 tags:
   - oversikt
-aliases:
-  - 
-title: "hva i huleste er CODE og PARA?"
+aliases: 
+title: hva i huleste er CODE og PARA
 ---
 [Tiago Forte](https://fortelabs.com/?ref=simen-skriver) er for mange kjent som mannen bak Second Brain-konseptet. Han har forøvrig en bok om nettopp det konseptet hvis du vil dykke dypere i det, hvor han snakker om hvordan du kan [bygge din egen Second Brain](https://www.buildingasecondbrain.com/?ref=simen-skriver).
 
@@ -19,7 +18,7 @@ title: "hva i huleste er CODE og PARA?"
 
 Jeg skal komme tilbake til temaet straks, men om det begrepet –Second Brain – er nytt for deg, så vil jeg bare gi deg en kjapp definisjon, og en aldri så liten "disclaimer".
 
-### Hva er egentlig en _Second Brain_?
+### Hva er egentlig en _Second Brain_?
 
 Definisjonen først. En såkalt _Second brain_ i denne sammenhengen er altså (i følge [wikipedia](https://en.wikipedia.org/wiki/Second_brain?ref=simen-skriver)):
 
@@ -74,6 +73,6 @@ Ved å dele tankene dine gir du også andre muligheten til å lære av det.
 
 ---
 
-## ..Men hvorfor deler jeg det her?
+## ..Men Hvorfor deler jeg det her?
 
 Jo, for å tydeliggjøre [de ulike stegene](notes/De%20%ulike%20stegene%20av%20et%20notat.md) fra inspirasjon (et sitat eller setning som resonnerer med deg) til du [bruker det du har lært](notes/Om%20å%20bruke%20det%20du%20lærer.md). Siden det er flere ulike tilnærminger til det samme syns jeg det blir lettere å ta et isolert blikk på hver av dem. Derfor kommer jeg også til å gjøre det samme med [Zettelkasten-metoden](notes/En%20introduksjon%20til%20Zettelkasten.md) framover. Som i stor grad har vært med å påvirke hvordan jeg håndterer det jeg lærer, og måten jeg skriver på nå.
