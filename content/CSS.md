@@ -38,7 +38,7 @@ Det kan da se sånn ut:
 Så lenge du avslutter med en semikolon, etter du har gitt en verdi til en spesifikk egenskap, så kan du også legge til flere, om du vil det. Som for eksempel:
 
 ```
-<h1 style="color: pink; background-color: darkGreen;">Rosa skrift på grønn bakgrunn</h1>
+<h1 style="color: hot-pink; background-color: darkGreen;">Rosa skrift på grønn bakgrunn</h1>
 ```
 
 Du kan legge til egenskaper på alle(?) slags elementer. Ikke bare overskrifter som jeg har brukt i det tilfellet her. Dersom du har skikkelig lyst på grønn tekst kan du f. Eks skriver:
