@@ -1,11 +1,9 @@
 ---
-date: 21 May, 2023
-lastmod: 21 May, 2023
+date: 2023-05-21
+lastmod: 2023-05-21
 tags:
   - læring
-aliases:
-  - 
-title: "lærer meg å kode"
+title: lærer meg å kode
 ---
 For øyeblikket fokuserer jeg på [[notes/HTML|HTML]] og [[notes/CSS|CSS]].
 

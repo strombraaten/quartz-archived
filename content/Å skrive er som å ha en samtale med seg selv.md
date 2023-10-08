@@ -1,12 +1,10 @@
 ---
-date: 16 Apr, 2023
-lastmod: 10 Sep, 2023
+date: 2023-04-16
+lastmod: 2023-09-10
 tags:
   - oversikt
   - tankemat
-aliases:
-  - 
-title: "Å skrive er som å ha en samtale med seg selv"
+title: Å skrive er som å ha en samtale med seg selv
 ---
 > [!hint]- Frø  🌱
 >

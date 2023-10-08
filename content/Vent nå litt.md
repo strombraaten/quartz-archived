@@ -1,11 +1,9 @@
 ---
-date: 04 Dec, 2022
-lastmod: 12 Mar, 2023
+date: 2022-12-04
+lastmod: 2023-03-12
 tags:
   - oversikt
-aliases:
-  - 
-title: "Vent nå litt"
+title: Vent nå litt
 ---
 > [!hint]- Blomst 🪴
 >

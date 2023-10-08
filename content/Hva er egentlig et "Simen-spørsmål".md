@@ -1,12 +1,12 @@
 ---
-date: 18 Jun, 2023
-lastmod: 18 Jun, 2023
+date: 2023-06-18
+lastmod: 2023-06-18
 tags:
   - tankemat
   - oversikt
 aliases:
   - Simen-spørsmål
-title: "Hva er egentlig et Simen-spørsmål?"
+title: Hva er egentlig et Simen-spørsmål?
 ---
 "Å, det der var et skikkelig Simen-spørsmål", er en setning jeg får høre overraskende ofte. Som regel er det da snakk om et spørsmål som ikke helt kan besvares med ett enkelt ord. Hvor du også sier hvorfor du vil svare akkurat det.
 

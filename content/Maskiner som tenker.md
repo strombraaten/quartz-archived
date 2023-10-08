@@ -1,11 +1,9 @@
 ---
-date: 29 Apr, 2023
-lastmod: 29 Apr, 2023
+date: 2023-04-29
+lastmod: 2023-04-29
 tags:
   - bøker
-aliases:
-  - 
-title: "Maskiner som tenker"
+title: Maskiner som tenker
 ---
 ## Boknotat
 **Undertittel:** Algoritmenes hemmeligheter og veien til kunstig intelligens

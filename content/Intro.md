@@ -1,9 +1,9 @@
 ---
-date: 24 Feb, 2023
-lastmod: 07 May, 2023
+date: 2023-02-24
+lastmod: 2023-05-07
 tags:
   - oversikt
-title: "intro"
+title: intro
 ---
 > [!hint]- Stikling 🌿
 >

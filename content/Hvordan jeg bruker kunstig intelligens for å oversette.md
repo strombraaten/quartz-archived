@@ -1,13 +1,11 @@
 ---
-date: 11 Jun, 2023
-lastmod: 11 Jun, 2023
+date: 2023-06-11
+lastmod: 2023-06-11
 tags:
   - AI
   - oversikt
   - teknologi
-aliases:
-  - 
-title: "Hvordan jeg bruker kunstig intelligens for å oversette"
+title: Hvordan jeg bruker kunstig intelligens for å oversette
 ---
 
 ## Personlige begrensninger

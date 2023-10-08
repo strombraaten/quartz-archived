@@ -1,11 +1,8 @@
 ---
-date: 23 Apr, 2023
-lastmod: 24 Apr, 2023
-tags:
-  - oversikt
-aliases:
-  - 
-title: "folk jeg ser opp til på internett"
+date: 2023-04-23
+lastmod: 2023-04-24
+tags: oversikt
+title: folk jeg ser opp til på internett
 ---
 > [!hint]- Frø  🌱
 >

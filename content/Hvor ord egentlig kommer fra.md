@@ -1,11 +1,9 @@
 ---
-date: 09 Dec, 2022
-lastmod: 12 Mar, 2023
+date: 2022-12-09
+lastmod: 2023-03-12
 tags:
   - oversikt
-aliases:
-  - 
-title: "Hvor ord egentlig kommer fra"
+title: Hvor ord egentlig kommer fra
 ---
 > [!hint]- Blomst 🪴
 >

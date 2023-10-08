@@ -1,12 +1,10 @@
 ---
-date: 20 Dec, 2022
-lastmod: 12 Mar, 2023
+date: 2022-12-20
+lastmod: 2023-03-12
 tags:
   - skriving
   - oversikt
-aliases:
-  - 
-title: "Hva jeg har lært av å skrive 25 artikler på 23 dager"
+title: Hva jeg har lært av å skrive 25 artikler på 23 dager
 ---
 I desember 2022 skreiv jeg 26 artikler på 24 dager som en del av en skrivekalender, fram mot julaften. Det starta som et eksperiment for å gi meg sjøl mer mestringfølelse, i en periode hvor jeg kjente mindre av det på jobb. Det var forresten starten på Simen skriver-prosjektet. Dagen før jeg var ferdig – altså lille julaften – reflekterte jeg over hva jeg hadde lært av en såpass intens periode med skriverier, og det her er det jeg kom fram til.
 

@@ -1,11 +1,8 @@
 ---
-date: 04 Mar, 2023
-lastmod: 12 Mar, 2023
-tags:
-  - oversikt
-aliases:
-  - 
-title: "Ditt framtidige, fremmede jeg"
+date: 2023-03-04
+lastmod: 2023-03-12
+tags: oversikt
+title: Ditt framtidige, fremmede jeg
 enableToc: true
 openToc: false
 ---

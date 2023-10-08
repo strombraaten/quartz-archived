@@ -1,11 +1,11 @@
 ---
-date: 05 Mar, 2023
-lastmod: 12 Mar, 2023
-tags:
+date: 2023-03-05
+lastmod: 2023-03-12
+tags: 
   - oversikt
-aliases:
+aliases: 
   - 
-title: "alias"
+title: alias
 ---
 > [!hint]- Frø  🌱
 >

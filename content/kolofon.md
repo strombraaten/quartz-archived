@@ -1,12 +1,10 @@
 ---
-date: 10 May, 2023
-lastmod: 10 May, 2023
+date: 2023-05-10
+lastmod: 2023-05-10
 tags:
   - språk
   - oversikt
-aliases:
-  - 
-title: "kolofon"
+title: kolofon
 ---
 Ordet kolofon er bare en fancy måte å si "her finner du informasjon om hvordan pølsa blei lagd". Som oftest handler det ikke om pølser, men heller informasjon om hvem som har bidratt til et prosjekt.
 

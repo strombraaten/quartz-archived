@@ -1,11 +1,9 @@
 ---
-date: 26 Mar, 2023
-lastmod: 23 Apr, 2023
+date: 2023-03-26
+lastmod: 2023-04-23
 tags:
   - oversikt
-aliases:
-  - 
-title: "Ting jeg bruker"
+title: Ting jeg bruker
 ---
 > [!hint]- Frø  🌱
 >

@@ -1,10 +1,9 @@
 ---
-date: 09 Sep, 2023
-lastmod: 09 Sep, 2023
+date: 2023-09-09
+lastmod: 2023-09-09
 tags:
   - læring
   - oversikt
-aliases: 
 title: Typescript
 ---
 Okei, her er det bare å ta et dypt pust og sette i gang.

@@ -1,9 +1,9 @@
 ---
-date: 11 Dec, 2022
-lastmod: 10 Sep, 2023
+date: 2022-12-11
+lastmod: 2023-09-10
 tags:
   - oversikt
-title: "Fyller virkelig arbeidet den tida du har tilgjengelig?"
+title: Fyller virkelig arbeidet den tida du har tilgjengelig?
 aliases:
   - notes/Parkinsons-lov/
 ---

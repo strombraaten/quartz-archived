@@ -1,11 +1,9 @@
 ---
-date: 16 Apr, 2023
-lastmod: 16 Apr, 2023
+date: 2023-04-16
+lastmod: 2023-04-16
 tags:
   - oversikt
-aliases:
-  - 
-title: "skriv for deg selv, ikke for andre"
+title: skriv for deg selv, ikke for andre
 ---
 > [!hint]- Frø  🌱
 >

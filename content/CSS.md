@@ -1,12 +1,10 @@
 ---
-date: 21 May, 2023
-lastmod: 04 Jun, 2023
+date: 2023-05-21
+lastmod: 2023-06-04
 tags:
   - læring
   - oversikt
-aliases:
-  - 
-title: "CSS"
+title: CSS
 ---
 
 ## Egenskaper

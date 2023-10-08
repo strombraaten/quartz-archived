@@ -1,11 +1,9 @@
 ---
-date: 07 Apr, 2023
-lastmod: 29 Apr, 2023
+date: 2023-04-07
+lastmod: 2023-04-29
 tags:
   - oversikt
-aliases:
-  - 
-title: "Det er noe feil med hvordan vi leser bøker"
+title: Det er noe feil med hvordan vi leser bøker
 ---
 Jeg tror det er på tide å revurdere hvordan vi leser bøker. Spesielt de du leser for å la deg inspirere. De bøkene som gir deg nye tanker. Nye perspektiver, nye måter å se verden på. Kanskje også de bøkene hvor du går aktivt inn for å lære deg noe.
 

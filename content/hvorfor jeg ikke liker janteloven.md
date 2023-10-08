@@ -1,10 +1,8 @@
 ---
-date: 04 Jun, 2023
-lastmod: 10 Sep, 2023
-tags:
-  - 
-aliases:
-  - 
+date: 2023-06-04
+lastmod: 2023-09-10
+tags: 
+aliases: 
 title: hvorfor jeg ikke liker janteloven
 ---
 I det siste har jeg kjent på en ekstra sterk sånn "Til hælvette med hele janteloven!"-følelse. Og den dukker opp i ny og ne. Jeg er bare så lei av at dyktige folk skal snakke stygt om seg selv. For vi er jo tross alt ansvarlige for vår egne mentale helse. Og de fleste av vårs ville ikke snakka stygt til en venn, så hvorfor skal vi gjøre det til vårs sjøl da?

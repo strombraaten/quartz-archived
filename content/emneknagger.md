@@ -1,12 +1,12 @@
 ---
-date: 07 Apr, 2023
-lastmod: 29 Apr, 2023
+date: 2023-04-07
+lastmod: 2023-04-29
 tags:
   - oversikt
 aliases:
   - hashtags
   - tags
-title: "emneknagger"
+title: emneknagger
 ---
 > [!hint]- Frø  🌱
 >

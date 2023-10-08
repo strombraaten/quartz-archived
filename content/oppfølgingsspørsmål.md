@@ -1,11 +1,9 @@
 ---
-date: 11 Jun, 2023
-lastmod: 11 Jun, 2023
-tags:
-  - 
-aliases:
-  - 
-title: "oppfølgingsspørsmål"
+date: 2023-06-11
+lastmod: 2023-06-11
+tags: 
+aliases: 
+title: oppfølgingsspørsmål
 ---
 Henger tett sammen med [[gode spørsmål]], siden dette handler om hvordan du får samtalene til å vare lengre, og hvordan du får bedre svar av folka du snakker med.
 

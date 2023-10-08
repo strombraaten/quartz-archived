@@ -1,11 +1,9 @@
 ---
-date: 02 May, 2023
-lastmod: 07 May, 2023
-tags:
-  - oversikt
-aliases:
-  - interaktive graf
-title: "den interaktive grafen"
+date: 2023-05-02
+lastmod: 2023-05-07
+tags: oversikt
+aliases: interaktive graf
+title: den interaktive grafen
 ---
 Den interaktive grafen er en visuell måte å se hvordan notater henger er tilknytta til hverandre.
 

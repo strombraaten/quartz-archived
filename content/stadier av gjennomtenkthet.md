@@ -1,11 +1,9 @@
 ---
-date: 07 Apr, 2023
-lastmod: 29 Apr, 2023
+date: 2023-04-07
+lastmod: 2023-04-29
 tags:
   - oversikt
-aliases:
-  - 
-title: "stadier av gjennomtenkthet"
+title: stadier av gjennomtenkthet
 ---
 
 For å gjøre det tydeligere hva som er mer og mindre gjennomtenkt har jeg prøvd å innføre et nytt konsept. Det her spiller videre på [[notes/digitalt hagearbeid|digitalt hagearbeid]] hvor du har [[notes/En tanke i utvikling|En tanke i utvikling]].

@@ -1,12 +1,10 @@
 ---
-date: 21 May, 2023
-lastmod: 21 May, 2023
+date: 2023-05-21
+lastmod: 2023-05-21
 tags:
   - læring
   - oversikt
-aliases:
-  - 
-title: "HTML"
+title: HTML
 ---
 ## Byggeklosser
 HTML er bygd opp av mange ulike `elementer` og `tags`. Om du skal skrive et avsnitt f. Eks så har du en `paragraph tag`.

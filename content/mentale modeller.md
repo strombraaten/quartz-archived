@@ -1,12 +1,10 @@
 ---
-date: 08 May, 2023
-lastmod: 17 Jul, 2023
+date: 2023-05-08
+lastmod: 2023-06-17
 tags:
   - oversikt
   - tankemat
-aliases:
-  - 
-title: "mentale modeller"
+title: mentale modeller
 ---
 
 ## Hva er mental modeller egentlig?

@@ -1,12 +1,10 @@
 ---
-date: 29 May, 2023
-lastmod: 29 May, 2023
+date: 2023-05-29
+lastmod: 2023-05-29
 tags:
   - oversikt
   - bærekraft
-aliases:
-  - 
-title: "bærekraftig webutvikling"
+title: bærekraftig webutvikling
 ---
 Hva betyr bærekraft i sammenhengen av å lage digitale greier? Det er et spørsmål jeg har tenkt en del på, og som jeg prøver å forstå i større grad.
 

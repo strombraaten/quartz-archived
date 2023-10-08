@@ -1,11 +1,9 @@
 ---
-date: 29 May, 2023
-lastmod: 29 May, 2023
+date: 2023-05-29
+lastmod: 2023-05-29
 tags:
   - oversikt
-aliases:
-  - 
-title: "My Cup of Type"
+title: My Cup of Type
 ---
 Sideprosjekt som varte fra 2012 til ca 2016ish, hvor jeg og min gode venn Hallvar Bugge Johnsen (og mange andre) tegna sitater på kaffekopper – https://mycupoftype.tumblr.com/
 

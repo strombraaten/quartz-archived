@@ -1,11 +1,9 @@
 ---
-date: 15 Dec, 2022
-lastmod: 16 Jul, 2023
+date: 2022-12-15
+lastmod: 2023-07-16
 tags:
   - oversikt
-aliases:
-  - 
-title: "Å skape løsningen i fellesskap"
+title: Å skape løsningen i fellesskap
 ---
 
 ## Hvordan pølsa lages

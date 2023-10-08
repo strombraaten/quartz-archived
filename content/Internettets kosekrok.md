@@ -1,11 +1,10 @@
 ---
-date: 11 Jun, 2023
-lastmod: 10 Sep, 2023
+date: 2023-06-11
+lastmod: 2023-09-10
 tags:
-  - 
 aliases:
   - 
-title: "Internettets kosekrok"
+title: Internettets kosekrok
 ---
 
 [[notes/Maggie Appleton|Maggie Appleton]] har tidligere snakka om "The cozy web". En ting som jeg plukka opp fra det var at internett har blitt for stort. Det som starta for noen som en hyggelig måte å snakke med likesinnede folk har også blitt noe helt annet. Det har blitt hjem til sider som Facebook og Twitter, som har hatt sine høydepunkter.

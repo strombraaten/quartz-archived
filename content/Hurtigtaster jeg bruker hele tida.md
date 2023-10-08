@@ -1,12 +1,10 @@
 ---
-date: 03 Mar, 2023
-lastmod: 07 May, 2023
+date: 2023-03-03
+lastmod: 2023-05-07
 tags:
   - oversikt
   - apper
-aliases:
-  - 
-title: "Hurtigtaster jeg bruker hele tida"
+title: Hurtigtaster jeg bruker hele tida
 ---
 > [!hint]- Frø  🌱
 >

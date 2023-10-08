@@ -1,11 +1,8 @@
 ---
-date: 11 Jun, 2023
-lastmod: 25 Jun, 2023
-tags:
-  - 
-aliases:
-  - 
-title: "gode spørsmål"
+date: 2023-06-11
+lastmod: 2023-06-25
+tags: oversikt
+title: gode spørsmål
 ---
 
 Henger tett sammen med [[notes/oppfølgingsspørsmål|oppfølgingsspørsmål]], siden dette handler om hvordan du starter en samtale, men ikke hvordan du får samtalen til å vare lengre.

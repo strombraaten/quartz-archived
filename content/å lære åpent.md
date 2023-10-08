@@ -1,12 +1,10 @@
 ---
-date: 07 May, 2023
-lastmod: 07 May, 2023
+date: 2023-05-07
+lastmod: 2023-05-07
 tags:
   - oversikt
   - læring
-aliases:
-  - 
-title: "å lære åpent"
+title: å lære åpent
 ---
 Sakte, men sikkert prøver jeg nemlig å forklare hvordan jeg gjør det jeg gjør. Først og fremst med skrivinga, men også til dels [hvordan jeg bruker Obsidian](notes/obsidian.md), for det får jeg en del spørsmål om.
 

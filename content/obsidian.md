@@ -1,14 +1,12 @@
 ---
-date: 02 Mar, 2023
-lastmod: 07 May, 2023
-title: "Obsidian"
+date: 2023-03-02
+lastmod: 2023-05-07
+title: Obsidian
 aliases:
-  - notes/obsidian/
   - obsidian
 tags:
   - oversikt
   - apper
-weight: -3
 ---
 
 Obsidian er i sin enkleste form en app for å skrive notater. Om vi skal ta det ett steg videre så handler det også om hvordan notater henger sammen. Hvordan de er tilknytta til hverandre.

@@ -1,11 +1,11 @@
 ---
-date: 05 Mar, 2023
-lastmod: 07 May, 2023
+date: 2023-03-05
+lastmod: 2023-05-07
 tags:
   - oversikt
 aliases:
   - linker
-title: "Linker"
+title: Linker
 ---
 
 Linker er en av de fundamentale greiene med [[Obsidian]].

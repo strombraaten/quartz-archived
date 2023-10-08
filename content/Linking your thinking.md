@@ -1,12 +1,10 @@
 ---
-aliases:
-  - 
-date: 16 Dec, 2022
-lastmod: 12 Mar, 2023
+date: 2022-12-16
+lastmod: 2023-03-12
 tags:
   - apper
   - oversikt
-title: "Linking your thinking"
+title: Linking your thinking
 ---
 > [!hint]- Stikling 🌿
 >

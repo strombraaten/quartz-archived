@@ -1,11 +1,9 @@
 ---
-date: 04 Mar, 2023
-lastmod: 24 Apr, 2023
+date: 2023-03-04
+lastmod: 2023-04-24
 tags:
   - oversikt
-aliases:
-  - 
-title: "Hvordan jeg har lagd denne sida"
+title: Hvordan jeg har lagd denne sida
 ---
 > [!hint]- Blomst 🪴
 >

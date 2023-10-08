@@ -1,11 +1,9 @@
 ---
-date: 07 May, 2023
-lastmod: 07 May, 2023
+date: 2023-05-07
+lastmod: 2023-05-07
 tags:
   - oversikt
-aliases:
-  - 
-title: "hva andre mener om det jeg skriver"
+title: hva andre mener om det jeg skriver
 ---
 I ny og ne får jeg tilbakemeldinger på det jeg skriver. I blant er det en feil som pekes ut (som jeg setter utrolig pris på, for det vil jeg såklart fikse opp i), og andre ganger er det noe dere har satt pris.
 

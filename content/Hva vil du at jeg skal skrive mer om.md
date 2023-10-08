@@ -1,11 +1,9 @@
 ---
-date: 08 Dec, 2022
-lastmod: 12 Mar, 2023
+date: 2022-12-08
+lastmod: 2023-03-12
 tags:
   - oversikt
-aliases:
-  - 
-title: "Hva vil du at jeg skal skrive mer om?"
+title: Hva vil du at jeg skal skrive mer om?
 ---
 > [!hint]- Stikling 🌿
 >

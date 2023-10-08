@@ -1,11 +1,9 @@
 ---
-date: 05 Mar, 2023
-lastmod: 12 Mar, 2023
+date: 2023-03-05
+lastmod: 2023-03-12
 tags:
   - oversikt
-aliases:
-  - 
-title: "De ulike stegene av et notat"
+title: De ulike stegene av et notat
 ---
 I designverden er det noe som kalles [Double Diamond](https://www.designcouncil.org.uk/our-work/news-opinion/double-diamond-15-years/?ref=simen-skriver). Det er en prosess som beskriver hvordan man går bredt ut for å _utforske_ utfordringer og løsninger (divergerer), for så å _snevre inn_ og fokusere arbeidet, og prioritere, og definere konkrete elementer (konvergere).
 

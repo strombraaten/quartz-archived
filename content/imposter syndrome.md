@@ -1,11 +1,9 @@
 ---
-date: 04 Jun, 2023
-lastmod: 04 Jun, 2023
+date: 2023-06-04
+lastmod: 2023-06-04
 tags:
   - oversikt
-aliases:
-  - 
-title: "imposter syndrome"
+title: imposter syndrome
 ---
 Imposter syndrome – eller bedragersyndromet som jeg kommer til å kalle det – er et tema som snakkes mye om, i mine kretser iallefall. Til det punktet at begrepet har mista litt av "kraften" som det hadde før. Men hva er det egentlig?
 

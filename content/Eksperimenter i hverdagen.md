@@ -1,11 +1,8 @@
 ---
-aliases:
-  - 
-tags:
-  - oversikt
-date: 06 Dec, 2022
-lastmod: 10 May, 2023
-title: "Eksperimenter i hverdagen"
+date: 2022-12-06
+lastmod: 2023-03-10
+tags: oversikt
+title: Eksperimenter i hverdagen
 ---
 Er det _ett_ poeng jeg vil få fram i dag er det at du trenger ikke gjøre alt _hver_ dag.
 

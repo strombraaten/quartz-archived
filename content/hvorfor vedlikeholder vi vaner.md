@@ -1,12 +1,10 @@
 ---
-date: 25 Jun, 2023
-lastmod: 25 Jun, 2023
+date: 2023-06-25
+lastmod: 2023-06-25
 tags:
   - oversikt
   - tankemat
-aliases:
-  - 
-title: "hvorfor vedlikeholder vi vaner"
+title: hvorfor vedlikeholder vi vaner
 ---
 I blant lurer jeg på hvorfor jeg fortsetter å skrive nyhetsbrev på søndager. For det er egentlig ganske vanskelig. Og jeg brenner ikke inne med noe som jeg bare *må* si på en ukentlig basis. Fremdeles så har jeg gjort det hver søndag i 15 uker nå. Med ett unntak hvor det var en gang jeg publiserte det på en mandag i stedet, men det får da være greit.
 

@@ -1,11 +1,8 @@
 ---
-date: 05 Mar, 2023
-lastmod: 12 Mar, 2023
-tags:
-  - oversikt
-aliases:
-  - 
-title: "En tanke i utvikling"
+date: 2023-03-05
+lastmod: 2023-03-12
+tags: oversikt
+title: En tanke i utvikling
 ---
 > [!hint]- Blomst 🪴
 >

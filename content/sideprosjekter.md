@@ -1,12 +1,10 @@
 ---
-date: 29 May, 2023
-lastmod: 29 May, 2023
+date: 2023-05-29
+lastmod: 2023-05-29
 tags:
   - oversikt
   - tankemat
-aliases:
-  - 
-title: "sideprosjekter"
+title: sideprosjekter
 ---
 For min del har jeg hatt mange sideprosjekter opp gjennom årene. Alt fra små prosjekter som bare var for moro skyld (som [[Whatever floats your quote]]), til større prosjekter hvor jeg publiserte noe på en jevnlig basis (som [[My Cup of Type]] og [[Folk om fortida]]), til [[Hyggelaget]], som starta som et sideprosjekt, men endte opp med å bli en fulltidsjobb over 6-7 år. I tillegg til [[samtalekort]], som er et sideprosjekt som kom ut av arbeidet i [[Hyggelaget]].
 

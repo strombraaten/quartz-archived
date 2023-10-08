@@ -1,11 +1,8 @@
 ---
-date: 04 Jun, 2023
-lastmod: 04 Jun, 2023
-tags:
-  - oversikt
-aliases:
-  - 
-title: "anerkjenn din egen superkraft"
+date: 2023-06-04
+lastmod: 2023-06-04
+tags: oversikt
+title: anerkjenn din egen superkraft
 ---
 Vi har alle noe som vi er "naturlig" gode på. At det er noen aktiviteter eller væremåter som kanskje koster deg mindre, sånn energimessig, enn det ville gjort for andre.
 

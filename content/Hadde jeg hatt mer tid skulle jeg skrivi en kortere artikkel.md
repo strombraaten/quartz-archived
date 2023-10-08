@@ -1,12 +1,10 @@
 ---
-date: 21 Dec, 2022
-lastmod: 11 Jun, 2023
+date: 2022-12-21
+lastmod: 2023-06-11
 tags:
   - skriving
   - oversikt
-aliases:
-  - 
-title: "Om jeg hadde hatt mer tid skulle jeg skrivi en kortere artikkel"
+title: Om jeg hadde hatt mer tid skulle jeg skrivi en kortere artikkel
 ---
 Det å skrive kortfatta er noe jeg virkelig beundrer. Som du kanskje har lagt merke til har jeg lettere for å skrive langt enn kort. Så det er et sitat jeg trekker fram jevnt og trutt for å beskrive den følelsen:
 

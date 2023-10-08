@@ -1,10 +1,9 @@
 ---
-date: 29 Aug, 2023
-lastmod: 109 Sep, 2023
+date: 2023-08-29
+lastmod: 2023-09-10
 tags:
   - læring
   - oversikt
-aliases: 
 title: Javascript
 ---
 

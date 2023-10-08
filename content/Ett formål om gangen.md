@@ -1,11 +1,9 @@
 ---
-date: 29 Nov, 2022
-lastmod: 12 Mar, 2023
+date: 2022-11-29
+lastmod: 2023-03-12
 tags:
   - oversikt
-aliases:
-  - 
-title: "Ett formål om gangen"
+title: Ett formål om gangen
 ---
 I det siste har jeg lent meg mer og mer mot å bruke "single purpose apps". Altså apper som fokuserer på å gjøre én ting skikkelig bra, i stedet for å kunne brukes til alt. For når du _kan_ gjøre alt blir det også vanskeligere å gjøre noe i det hele tatt.
 

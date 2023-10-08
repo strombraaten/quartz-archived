@@ -1,12 +1,10 @@
 ---
-date: 12 May, 2023
-lastmod: 12 May, 2023
+date: 2023-05-12
+lastmod: 2023-05-12
 tags:
   - design
   - oversikt
-aliases:
-  - 
-title: "prisen av en dårlig brukeropplevelse"
+title: prisen av en dårlig brukeropplevelse
 ---
 Okei, nå skal jeg prøve å kjempe for noe jeg egentlig ikke har noe erfaring med, nemlig å sette en pris på dårlige brukeropplevelser, i form av kroner og øre.
 

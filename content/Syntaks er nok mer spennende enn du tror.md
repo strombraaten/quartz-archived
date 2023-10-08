@@ -1,12 +1,11 @@
 ---
-date: 04 Mar, 2023
-lastmod: 29 Apr, 2023
+date: 2023-03-04
+lastmod: 2023-04-29
 tags:
   - oversikt
 aliases:
-  - notes/syntaks/
   - syntaks
-title: "Syntaks er nok mer spennende enn du tror"
+title: Syntaks er nok mer spennende enn du tror
 ---
 Syntaks er et ord jeg utelukkende forbinder med programmering, med kode. Med andre ord, ting jeg ikke kan.
 
