@@ -27,9 +27,7 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 
 ## Fritidstanker
 
-1. Skriveprosessen
-    - Hva betyr det for meg å legge om til en digital hage, i stedet for en vanlig blogg?
-2. Jeg liker tanken av å være en designer som også kan kode.
+1. Jeg liker tanken av å være en designer som også kan kode.
 	- Trenger ikke kunne alt akkurat, jeg trenger ikke å være god en gang, men bare ha nok forståelse til at jeg kan lage f. eks [[notes/hvordan jeg har lagd denne sida|den sida du ser på nå]]
 
 > [!example]- Tidligere fritidstanker
@@ -37,11 +35,15 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 > - At selvdisiplinen min er sterkest om morgen så lenge jeg veit nøyaktig hva jeg skal gjøre
 > 	- Og hvordan skriverutinen kræsjer med treningsrutinen om morgen
 > - Hvordan kart og tid, som konsepter, fundamentalt endra måten vi tenkte på
+> - Skriveprosessen
+> 	- Hva betyr det for meg å legge om til en digital hage, i stedet for en vanlig blogg?
 
 ## Jobbtanker
 
-1. [8pt designsystem](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
-2. [Generelle designprinsipper](https://anthonyhobday.com/sideprojects/saferules/) retta mot brukergrensesnitt, fra Anthony Hobday
+1. Hva vil det egentlig si å *ikke designe for eliten*?
+	1. Er det noe mer enn bare bakoverkompatibilitet?
+2. [8pt designsystem](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
+3. [Generelle designprinsipper](https://anthonyhobday.com/sideprojects/saferules/) retta mot brukergrensesnitt, fra Anthony Hobday
 
 
 > [!example]- Tidligere jobbtanker
