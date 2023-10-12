@@ -1,5 +1,5 @@
 ---
-title: 🪴 Simen skriver
+title: Simen skriver
 enableToc: false
 ---
 
