@@ -7,11 +7,11 @@ title: apper jeg liker
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[stadier av gjennomtenkthet]].
 
 ## Mac
 
-[[notes/Raycast|Raycast]]
+[[Raycast]]
 	- For å hovedsakelig åpne opp apper på en veldig kjapp måte, men også for å gjøre et kjapt regnestykke, konvertere valuta, finne en gif, og mye mer
 - [Obsidian](https://obsidian.md/)
 	- For å ta notater, skrive, bearbeide tanker, og mye mer
@@ -28,7 +28,7 @@ title: apper jeg liker
 - [1 Password](https://1password.com/)
 	- For å både lage, men hovedsakelig lagre og organisere alle passord jeg har rundt omkring
 - [Readwise](https://readwise.io/)
-	- For å sende det jeg har markert i en podcast (gjennom Snipd), eller markert i en bok på [kindle](https://www.amazon.com/Amazon-Kindle-Ereader-Family/b?node=6669702011) inn til [[notes/obsidian|Obsidian]]
+	- For å sende det jeg har markert i en podcast (gjennom Snipd), eller markert i en bok på [kindle](https://www.amazon.com/Amazon-Kindle-Ereader-Family/b?node=6669702011) inn til [[obsidian]]
 	- For [å lese artikler](https://readwise.io/read) jeg har spart til seinere
 - [Moom](https://manytricks.com/moom/)
 	- For såkalt "window management", som gjør det mulig å f. eks gi halvparten av skjermen til én app, og halvparten til en annen app, du bare endrer størrelsen 

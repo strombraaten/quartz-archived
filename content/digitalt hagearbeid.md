@@ -12,7 +12,7 @@ Nå skal jeg være ærlig. Jeg har ikke lest hele [artikkelen jeg har tenkt til
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[stadier av gjennomtenkthet]].
 
 ## Hva er det egentlig?
 
@@ -25,7 +25,7 @@ I stedet for å publisere artikkel nummer to i det tilfellet kunne jeg bare redi
 
 ## Bruksområde
 
-Det her må jo ikke være offentlig så alle kan se. Det trenger ikke å være slottsparken foråsirresånn. Metaforisk sett er det ingen som stopper deg fra å ha en pallekasse for deg sjøl, hvor du pitler på. Med andre ord, du kan lage ditt eget digitale system, kun for deg, og ingen andre. Enten gjennom apper som [[notes/obsidian|Obsidian]] og Notion, hvor du enkelt kan linke mellom notatene, eller i mer almennelige apper som Apple sin egen notat-app, og bare vedlikeholde notatene du har der.
+Det her må jo ikke være offentlig så alle kan se. Det trenger ikke å være slottsparken foråsirresånn. Metaforisk sett er det ingen som stopper deg fra å ha en pallekasse for deg sjøl, hvor du pitler på. Med andre ord, du kan lage ditt eget digitale system, kun for deg, og ingen andre. Enten gjennom apper som [[obsidian]] og Notion, hvor du enkelt kan linke mellom notatene, eller i mer almennelige apper som Apple sin egen notat-app, og bare vedlikeholde notatene du har der.
 
 ## Tankefrø
 
@@ -37,7 +37,7 @@ I tillegg til __Evergreen__ notater skiller hu også mellom "budding" og "seed
 
 Det er jo bare fine måter å definere hashtags på, og det her er nok premiere på setning for min del, men jeg blei genuint overraska over hvor vakker metadataen var i sin helhet. Bare se hvordan hu formulerer vanlige faktorerer som "Date created" og "Date modified":
 
-![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-12-at-06.58.45@2x.png)
+![[CleanShot 2022-12-12 at 06.58.45@2x.png]]
 
 Metadata som viser når et tankefrø er planta, og når det sist ble vedlikeholdt
 

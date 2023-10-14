@@ -7,11 +7,7 @@ tags:
 title: hvordan snakker du med en maskin
 ---
 
-### Alternative titler
-
-- Samtalekunst mellom menneske og maskin
-- Hvordan stille gode spørsmål til en AI
-
+## Samtalekunst mellom menneske og maskin
 ---
 > [!hint]- Frø  🌱
 >
@@ -19,7 +15,7 @@ title: hvordan snakker du med en maskin
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
-Når vi snakker om [[notes/kunstig intelligens|AI]] så er det bare et system som har fått en rekke med instrukser – `Hvis dette skjer så skal du gjør det her`. Og de instruksene kommer fra folk som deg og meg, bare at de folka sannsynligvis kan mye mer om programmering og maskinlæring enn det jeg kan iallefall. 
+Når vi snakker om [[kunstig intelligens|AI]] så er det bare et system som har fått en rekke med instrukser – `Hvis dette skjer så skal du gjør det her`. Og de instruksene kommer fra folk som deg og meg, bare at de folka sannsynligvis kan mye mer om programmering og maskinlæring enn det jeg kan iallefall. 
 
 De instruksene riktignok blir veldig tydelig når vi dykker inn i verden av ChatGPT, og såkalte *store språkmodeller* (Large Language Models = LLM). For da er det ikke lenger bare utviklere som formulerer de instruksene, men det er også deg og meg. Og da er det ikke lenger et krav at du må kunne masse om kodegreier du ikke forstår deg på. Da handler det bare om å stille gode spørsmål.
 

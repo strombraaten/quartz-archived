@@ -8,7 +8,7 @@ title: En tanke i utvikling
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[stadier av gjennomtenkthet]].
 
 Da jeg snakka om [[digitalt hagearbeid]] nevnte jeg hvordan [Maggie Appleton](https://maggieappleton.com/?ref=simen-skriver) definerer progresjonen av et notat gjennom kategoriene _budding, seedling_, og _evergreen_.
 
@@ -20,7 +20,7 @@ Derfor tenkte jeg å prøve noe alternativt her nå. Og jeg er ærlig talt usikk
 
 For hele tanken ved å utfordre meg sjøl til en slags skrivekalender var nettopp å komme inn i skriveflyten. Å kjenne hvordan det er å skrive jevnlig. Samtidig som jeg fyller bloggen med noe innhold, så jeg lærer mer om hva jeg vil skrive om, og hvordan jeg liker å gjøre det.
 
-Å dele noe offentlig holder meg også beregnelig i form av at det er noen som "venter" i andre enden. Eller så kunne jeg nok fint skrivi alt lokalt, og ikke delt det videre. For det er plenty med notater (i [[notes/obsidian|obsidian]]) som burde reinskrives, og bearbeides på et eller annet vis.
+Å dele noe offentlig holder meg også beregnelig i form av at det er noen som "venter" i andre enden. Eller så kunne jeg nok fint skrivi alt lokalt, og ikke delt det videre. For det er plenty med notater (i [[obsidian]]) som burde reinskrives, og bearbeides på et eller annet vis.
 
 Samtidig er det ikke alle dager jeg har en fullkommen tanke å dele. Og det er lettere for meg å skrive _litt_ på _flere_ notater, enn det er å fullføre ett enkelt. Så da gir vi det et forsøk.
 
@@ -39,4 +39,4 @@ _I dag skreiv jeg videre på disse artikkel-ideene:_
 1.  De ulike stegene av et notat
 2.  Nevroplastisitet, og hvordan øvelse gjør mester
 3.  Hvordan former verktøyet tankene?
-4.  Hvorfor jeg blir så gira av [[notes/obsidian|Obsidian]]
+4.  Hvorfor jeg blir så gira av [[obsidian]]

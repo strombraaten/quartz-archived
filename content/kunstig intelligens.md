@@ -16,7 +16,7 @@ title: kunstig intelligens
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
-En ting man må tenke på er [[notes/hvordan snakker du med en maskin]]? Hvordan veit jeg at det den sier er sant?
+En ting man må tenke på er [[hvordan snakker du med en maskin]]? Hvordan veit jeg at det den sier er sant?
 
 ## For de spesielt interesserte
 

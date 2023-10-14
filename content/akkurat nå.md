@@ -1,7 +1,7 @@
 ---
 date: 2023-03-04
 lastmod: 2023-05-10
-tags: []
+tags: 
 title: akkurat nå
 aliases:
   - nå-sida
@@ -12,7 +12,7 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[stadier av gjennomtenkthet]].
 
 ---
 
@@ -54,12 +54,12 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 
 ## Hva jeg nerder ut på
 
-1. Hvordan jeg kan tilrettelegge min egen [[notes/digitalt hagearbeid|digital hage]]
+1. Hvordan jeg kan tilrettelegge min egen [[digitalt hagearbeid|digital hage]]
 2. Hvordan jeg bruker Eagle-appen til å strukturere bilder, og generell visuell inspirasjon
 
 >[!example]- Hva jeg har nerda ut på tidligere
 >- [CleanshotX-appen](https://www.simenskriver.no/den-ene-funksjonen/)
 >- Brødbaking
->- Hvordan bruke [[notes/obsidian|obsidian]]. Mer spesifikt:
+>- Hvordan bruke [[obsidian]]. Mer spesifikt:
 >	- Hvordan ["context" i Make.md-pluginen](https://www.make.md/docs/Contexts) kan brukes for å sortere store mengder med notater
 >	- Virker som at query-funksjonen i Roam kan etterlignes gjennom Dataview-pluginen, men prøver jeg å bite over mer enn jeg kan tygge med det der?
