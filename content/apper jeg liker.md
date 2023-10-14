@@ -1,7 +1,6 @@
 ---
 date: 2023-03-03
 lastmod: 2023-04-23
-tags: oversikt
 title: apper jeg liker
 ---
 > [!hint]- Stikling 🌿
