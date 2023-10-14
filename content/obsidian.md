@@ -2,10 +2,8 @@
 date: 2023-03-02
 lastmod: 2023-05-07
 title: Obsidian
-aliases:
-  - obsidian
+aliases: []
 tags:
-  - oversikt
   - apper
 ---
 

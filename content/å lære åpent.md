@@ -2,7 +2,6 @@
 date: 2023-05-07
 lastmod: 2023-05-07
 tags:
-  - oversikt
   - læring
 title: å lære åpent
 ---

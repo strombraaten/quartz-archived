@@ -2,7 +2,6 @@
 date: 2023-04-30
 lastmod: 2023-05-10
 tags:
-  - oversikt
   - teknologi
 aliases:
   - AI
