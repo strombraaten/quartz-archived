@@ -12,7 +12,7 @@ Nå skal jeg være ærlig. Jeg har ikke lest hele [artikkelen jeg har tenkt til
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](content/digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](content/stadier%20av%20gjennomtenkthet.md).
 
 ## Hva er det egentlig?
 
@@ -21,7 +21,8 @@ Når man snakker om en digital hage er det altså en samling med ideer som utvik
 I stedet for å publisere artikkel nummer to i det tilfellet kunne jeg bare redigert den første, for å tydeligere beskrive hva jeg mente. Det er digitalt hagearbeid. Når du luker vekk ugrasset, og bearbeider omgivelsene for tankefrøet du har planta. Notatene er også ment til å være mer utforskende, ved at de knyttes sammen gjennom konteksten de deler. Altså kontekstuell assosiasjon for å si det på en fin måte.
 
 > [!quote] Som Maggie selv sier:
-*They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.*
+> 
+> *They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.*
 
 ## Bruksområde
 
@@ -31,15 +32,13 @@ Det her må jo ikke være offentlig så alle kan se. Det trenger ikke å være s
 
 For å dykke dypere i hagekonseptet kan du se hvordan Maggie gjør det på hjemmesida si. Her finner du notater som blant annet er kategorisert som __Evergreen__, som i hennes egen definisjon er
 
-> Evergreens are ideas I've invested significant time into. They are refined, edited, and won't significantly change – aside from the occassional trimming.
+> *Evergreens are ideas I've invested significant time into. They are refined, edited, and won't significantly change – aside from the occassional trimming.*
 
 I tillegg til __Evergreen__ notater skiller hu også mellom "budding" og "seedling notes" for å spore progresjonen over tid. Er ikke det nydelig?
 
 Det er jo bare fine måter å definere hashtags på, og det her er nok premiere på setning for min del, men jeg blei genuint overraska over hvor vakker metadataen var i sin helhet. Bare se hvordan hu formulerer vanlige faktorerer som "Date created" og "Date modified":
 
 ![[images/CleanShot 2022-12-12 at 06.58.45@2x.png]]
-
-Metadata som viser når et tankefrø er planta, og når det sist ble vedlikeholdt
 
 For det er virkelig noe fint med tanken av at du planter et frø til noe du lærer deg, og som du vedlikeholder over tid.
 
