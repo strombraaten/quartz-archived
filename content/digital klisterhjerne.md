@@ -20,7 +20,7 @@ Når jeg sitter på bussen på vei til jobb hører jeg som regel på podcast. N�
 
 ### 2 - Når jeg leser en artikkel
 
-Det er noen få nyhetsbrev jeg leser på en ukentlig basis, deriblant [*Raut* fra UX-byrået Okse](https://raut.no/). Da er det alltid en link eller artikkel som skiller seg ut. I den artikkelen er det garantert en setning, eller et avsnitt som trigger noe i meg. Som gjør meg gira. Da markerer jeg avsnittet jeg likte og [sender det til Readwise gjennom nettleser-utvidelsen](https://chrome.google.com/webstore/detail/readwise-highlighter/jjhefcfhmnkfeepcpnilbbkaadhngkbi), eller sparer artikkelen til seinere ved å sende den til [Readwise Reader](https://readwise.io/read).
+Det er noen få nyhetsbrev jeg leser på en ukentlig basis, deriblant [*Raut* fra UX-byrået Okse](https://raut.no/). Da er det alltid en link eller artikkel som skiller seg ut. I den artikkelen er det garantert en setning, eller et avsnitt som trigger noe i meg. Som gjør meg gira. Da markerer jeg avsnittet jeg likte og [sender det til Readwise gjennom nettleser-utvidelsen](https://chrome.google.com/webstore/detail/readwise-highlighter/jjhefcfhmnkfeepcpnilbbkaadhngkbi), eller sparer artikkelen til seinere ved å sende den til [Readwise Reader]([https://readwise.io/simenleser/](https://readwise.io/simenleser/).  
 
 ![[images/Pasted image 20231015000029.png]]
 
