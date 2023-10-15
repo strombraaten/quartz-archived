@@ -3,6 +3,8 @@ date: 2023-09-17
 tags:
   - apper
   - læring
+aliases:
+  - readwise
 ---
 ## Hva mener jeg egentlig med digital klisterhjerne
 
@@ -65,7 +67,7 @@ Og det bringer meg inn på en gledelig nyhet..
 
 Kanskje ikke helt rabattkode da, for du må ikke skrive "simenskriver" noe sted akkurat. Men! Du kan nemlig [teste Readwise i to måneder gratis](https://readwise.io/simenskriver/) med min aller første anbefalingslink!
 
-Det betyr at du får en ekstra måned på prøveperioden, og hvis du finner at det funker for deg så koster det ca en hundrings i måneden derfra (som det gjør for meg og). Noen av de kronene vil da også gå min vei. Nøyaktig antall kroner er jeg neimen ikke sikker på, men det betales ut hver kvartal så det kan jeg si i fra om ✌️
+Det betyr at du får en ekstra måned på prøveperioden, og hvis du finner at det funker for deg så koster det ca en hundrings i måneden derfra (som det gjør for meg og). Noen av de kronene vil da også gå min vei. Nøyaktig antall kroner er jeg neimen ikke sikker på, men det betales ut hvert kvartal så det kan jeg si i fra om ✌️
 
 ### Andre priser og linker
 

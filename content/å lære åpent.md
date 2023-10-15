@@ -35,8 +35,6 @@ Spørsmålet da blir såklart – **dersom du skulle "lære i det åpne", hvorda
 
 Ville du dokumentert det gjennom sosiale medier? Ville du fortalt det til en venn eller samboer over en kaffekopp?
 
-_Gjerne svar på eposten og si hva du tenker, for det er alltid spennende å høre hvordan andre ser for seg prosessen av å lære noe._
-
 ### Men hva er egentlig fordelene ved å lære åpent?
 
 Jeg kan nevne de som har hatt en stor betydning for meg:
