@@ -8,6 +8,7 @@ tags:
   - apper
   - læring
 ---
+
 ## Hva mener jeg egentlig med digital klisterhjerne
 
 Er det én ting som genuint har økt produktiviteten min de siste åra så er det kombinasjonen av [Readwise](https://readwise.io/simenskriver/) og [[obsidian]] altså.
