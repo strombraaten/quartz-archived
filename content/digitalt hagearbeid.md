@@ -12,7 +12,7 @@ Nå skal jeg være ærlig. Jeg har ikke lest hele [artikkelen jeg har tenkt til
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](content/digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](content/stadier%20av%20gjennomtenkthet.md).
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 ## Hva er det egentlig?
 
@@ -36,7 +36,7 @@ For å dykke dypere i hagekonseptet kan du se hvordan Maggie gjør det på hjemm
 
 I tillegg til __Evergreen__ notater skiller hu også mellom "budding" og "seedling notes" for å spore progresjonen over tid. Er ikke det nydelig?
 
-Det er jo bare fine måter å definere hashtags på, og det her er nok premiere på setning for min del, men jeg blei genuint overraska over hvor vakker metadataen var i sin helhet. Bare se hvordan hu formulerer vanlige faktorer som "Date created" og "Date modified":
+Det er jo bare fine måter å definere hashtags på, og det her er nok premiere på setning for min del, men jeg blei genuint overraska over hvor vakker metadataen var i sin helhet. Bare se hvordan hu formulerer vanlige faktorerer som "Date created" og "Date modified":
 
 ![[images/CleanShot 2022-12-12 at 06.58.45@2x 1.png]]
 
