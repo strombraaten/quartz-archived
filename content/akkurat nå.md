@@ -12,7 +12,7 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](content/digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](content/stadier%20av%20gjennomtenkthet.md).
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 ---
 

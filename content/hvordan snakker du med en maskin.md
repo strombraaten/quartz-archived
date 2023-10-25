@@ -13,7 +13,7 @@ tags:
 >
 > Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[content/digitalt hagearbeid]] finner du notater som er i ulike [[content/digitalt hagearbeid]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 Når vi snakker om [[kunstig intelligens|AI]] så er det bare et system som har fått en rekke med instrukser – `Hvis dette skjer så skal du gjør det her`. Og de instruksene kommer fra folk som deg og meg, bare at de folka sannsynligvis kan mye mer om programmering og maskinlæring enn det jeg kan iallefall. 
 

@@ -15,7 +15,7 @@ Her er det nemlig flere faktorer som spiller inn, som kan gjøre det vanskelig �
 >
 > Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[content/digitalt hagearbeid]] finner du notater som er i ulike [[content/digitalt hagearbeid]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 Så hvordan kan du gjøre det? Jeg tenker jeg bare starter det hele med å gi deg en punktliste med en gang, så kan du heller lese videre for å få en bedre forståelse for de ulike grepene.
 

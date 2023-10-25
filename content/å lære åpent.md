@@ -5,7 +5,7 @@ title: å lære åpent
 tags:
   - læring
 ---
-Sakte, men sikkert prøver jeg nemlig å forklare hvordan jeg gjør det jeg gjør. Først og fremst med skrivinga, men også til dels [hvordan jeg bruker Obsidian](notes/obsidian.md), for det får jeg en del spørsmål om.
+Sakte, men sikkert prøver jeg nemlig å forklare hvordan jeg gjør det jeg gjør. Først og fremst med skrivinga, men også til dels [hvordan jeg bruker Obsidian](obsidian.md), for det får jeg en del spørsmål om.
 
 Derfor prøver jeg å forklare det fundamentale på best mulig måte – som [[Linker]] og [[tilbakekoblinger]] – så det skal være en lavere terskel for deg å komme i gang, enn det var for min egen del.
 
@@ -13,7 +13,7 @@ Derfor prøver jeg å forklare det fundamentale på best mulig måte – som [[L
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 ## Om det å ha en åpen og transparent læringsprosess
 
@@ -40,9 +40,7 @@ Ville du dokumentert det gjennom sosiale medier? Ville du fortalt det til en ven
 Jeg kan nevne de som har hatt en stor betydning for meg:
 
 -   Du tvinger deg sjøl til å konkretisere tankene dine, og at de blir lett å forstå for andre (også for deg sjøl)
-    
 -   Du åpner opp for nye samtaler (rundt temaer som du selv er veldig interessert i å snakke om). Både med folk du kjenner godt fra før av, men også folk du aldri har snakka med.
-    
 -   Du gjør det mulig for andre å hjelpe deg i læringsprosessen, eller bare heie på deg og si "Du er god!", som også gjør læringsprosessen morsommere
 
 ## Bonus

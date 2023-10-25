@@ -10,7 +10,7 @@ tags:
 >
 > Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 ## Mac
 

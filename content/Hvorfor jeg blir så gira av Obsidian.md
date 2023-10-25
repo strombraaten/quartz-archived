@@ -12,7 +12,7 @@ Hva om du enkelt kunne finne ut av hva som helst? For eksempel navnet på den bo
 >
 > Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
 > 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
+> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 Det høres ut som en reklame for de tidlige dagene av Google, men det er like relevant for såkalte "_[Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management?ref=simen-skriver)_"-systemer (også kjent som PKMs) den dag i dag.
 
@@ -24,17 +24,17 @@ Jeg snakka om det her med foreldra mine nylig, støttende som de er, der jeg ent
 
 Han gikk videre med å utdype hva _det_ var, ved å ramse opp ulike ting som har gått i glemmeboka. Som artikler, eller bøker han har lest, samtaler han har vært i, eller [meninger han har skrivi sjøl](https://kommunelegen.wordpress.com/2021/11/30/slutt-men-ikke-avsluttet/?ref=simen-skriver). Ting som det ikke er så lett å finne tilbake til den dag i dag.
 
-Og det er der [[Obsidian]] kommer inn i bildet, for min del.
+Og det er der [[obsidian]] kommer inn i bildet, for min del.
 
 ## Nytt og spennende, eller kjent og kjært?
 
-Om 7 dager er det nøyaktig ett år siden jeg betalte for mitt første år med [[notes/obsidian|Obsidian]]. Eller. Appen er [utrolig nok gratis](https://obsidian.md/pricing), og du kan klare deg helt fint med det, men du må betale for tilleggstjenesten av å synkronisere notatene dine gjennom deres servere. Som er forståelig nok. Om du har dropbox eller icloud-lagring fra før av riktignok så kan du bruke [[notes/obsidian|Obsidian]] helt gratis, uten å måtte betale ei krone.
+Om 7 dager er det nøyaktig ett år siden jeg betalte for mitt første år med Obsidian. Eller. Appen er [utrolig nok gratis](https://obsidian.md/pricing), og du kan klare deg helt fint med det, men du må betale for tilleggstjenesten av å synkronisere notatene dine gjennom deres servere. Som er forståelig nok. Om du har dropbox eller icloud-lagring fra før av riktignok så kan du bruke Obsidian helt gratis, uten å måtte betale ei krone.
 
 Da jeg snubla over en ny og fristende app, som heter [Tana](https://tana.inc/?ref=simen-skriver), begynte jeg å tenke over spørsmålet:
 
 > Når er det du _ikke_ burde kaste deg ut i den neste nye tingen?
 
-For det er i grunn først nå nylig at jeg har blitt mer og mer _flytende_ i [[notes/obsidian|Obsidian]]. At det ligger mer i fingra enn det har gjort tidligere.
+For det er i grunn først nå nylig at jeg har blitt mer og mer _flytende_ i Obsidian. At det ligger mer i fingra enn det har gjort tidligere.
 
 Og svaret på mitt på det spørsmålet endte opp med at jeg donerte 250 kr ekstra for å få tidlig tilgang til nye funksjoner (som _[canvas](https://youtu.be/rPescoJzcFA?t=358&ref=simen-skriver))_, i tillegg til å bare støtte utviklinga. For de er tross alt bare [6 personer](https://obsidian.md/about?ref=simen-skriver), og 2 katter. Og jeg er neimen ikke sikker på hvor mange av dem som er ansatt på fulltid engang.
 
@@ -42,7 +42,7 @@ Grunnen til at jeg sier det er fordi det er ganske sjukt å tenke på hva de har
 
 ## Kriterier
 
-Tidligere [har jeg nevnt](notes/Den%20neste%20nye%20tingen.md) at:
+Tidligere [har jeg nevnt](Den%20neste%20nye%20tingen.md) at:
 
 > Ved å heller vurdere appene vi bruker ut fra _kriteriene_ som er viktig for vårs, på en generell basis, vil det (forhåpentligvis) bli lettere å roe ned den evige jakten etter noe nytt og blankt.
 
