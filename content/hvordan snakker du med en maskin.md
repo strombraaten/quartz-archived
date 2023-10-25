@@ -1,10 +1,10 @@
 ---
 date: 2023-04-30
 lastmod: 2023-04-30
+title: hvordan snakker du med en maskin
 tags:
   - AI
   - teknologi
-title: hvordan snakker du med en maskin
 ---
 
 ## Samtalekunst mellom menneske og maskin

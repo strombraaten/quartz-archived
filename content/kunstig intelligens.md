@@ -1,11 +1,11 @@
 ---
 date: 2023-04-30
 lastmod: 2023-05-10
-tags:
-  - teknologi
+title: kunstig intelligens
 aliases:
   - AI
-title: kunstig intelligens
+tags:
+  - teknologi
 ---
 *AI* og *kunstig intelligens* er ordene jeg kommer til å bruke. Teknisk sett burde jeg nok forkorte det til KI for å holde fast på det norske språk, men jeg opplever det heller som forvirrende når resten av verden snakker om AI.
 

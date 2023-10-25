@@ -1,9 +1,9 @@
 ---
 date: 2023-04-29
 lastmod: 2023-04-29
+title: Maskiner som tenker
 tags:
   - bøker
-title: Maskiner som tenker
 ---
 ## Boknotat
 

@@ -1,5 +1,7 @@
 ---
 date: 2023-07-16
+lastmod: 2023-07-16
+title: å lage løsningen i felleskap
 tags:
   - behind-the-scenes
 ---

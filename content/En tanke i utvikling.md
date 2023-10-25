@@ -1,8 +1,8 @@
 ---
 date: 2023-03-05
 lastmod: 2023-03-12
-tags: []
 title: En tanke i utvikling
+tags:
 ---
 > [!hint]- Blomst 🪴
 >
