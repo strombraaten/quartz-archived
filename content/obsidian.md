@@ -15,6 +15,6 @@ Obsidian er i sin enkleste form en app for å skrive notater. Om vi skal ta det 
 > 
 > Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
-Hovedsakelig er det gjennom [[Linker]], men det kan også være [[emneknagger]], eller [[den interaktive grafen]] som du ser i bunnen her.
+Hovedsakelig er det gjennom [[linker]], men det kan også være [[emneknagger]], eller [[den interaktive grafen]] som du ser i bunnen her.
 
 Om du vil gi det et forsøk kan du [laste det ned helt gratis på hjemmesida til Obsidian](https://obsidian.md/). Dersom du heller vil lære litt mer før du kaster deg ut i det så kan du lese [[hvorfor jeg blir så gira av Obsidian]].
