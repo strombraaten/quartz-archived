@@ -1,7 +1,7 @@
 ---
 date: 2023-05-29
 lastmod: 2023-05-29
-title: bærekraftig webutvikling
+title: Bærekraftig webutvikling
 tags:
   - bærekraft
 ---

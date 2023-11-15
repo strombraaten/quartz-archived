@@ -1,7 +1,7 @@
 ---
 date: 2023-06-04
 lastmod: 2023-06-04
-title: anerkjenn din egen superkraft
+title: Anerkjenn din egen superkraft
 tags:
   - tankemat
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2023-03-04
 lastmod: 2023-05-10
-title: akkurat nå
+title: Akkurat nå
 aliases:
   - nå-sida
 tags:

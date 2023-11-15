@@ -1,7 +1,7 @@
 ---
 date: 2023-03-04
 lastmod: 2023-05-10
-tags: oversikt
+tags: []
 title: Det er noe feil med blogging som konsept
 ---
 På den forrige versjonen av hjemmesida mi så ville den artikkelen her vært øverst, bare fordi det var det siste jeg skreiv i det øyeblikket. Og rett under kunne du finne den artikkelen jeg skreiv før det igjen (illustrert av skjermbildet under, selv om det er feil titler og artikler).
