@@ -2,11 +2,11 @@
 date: 2023-09-17
 lastmod: 2023-09-17
 title: digital klisterhjerne
-aliases:
-  - readwise
 tags:
   - apper
   - læring
+aliases:
+  - readwise
 ---
 
 ## Hva mener jeg egentlig med digital klisterhjerne

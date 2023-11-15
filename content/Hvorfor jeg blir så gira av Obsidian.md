@@ -1,9 +1,9 @@
 ---
 date: 2022-12-14
 lastmod: 2023-12-03
+title: Hvorfor jeg blir så gira av Obsidian
 tags:
   - apper
-title: Hvorfor jeg blir så gira av Obsidian
 aliases:
 ---
 Hva om du enkelt kunne finne ut av hva som helst? For eksempel navnet på den boka du leste for sju år siden, som handla om lykke eller glede. Eller kanskje det var et sitat fra en eller annen gammel greker?
