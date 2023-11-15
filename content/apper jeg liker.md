@@ -14,7 +14,7 @@ tags:
 
 ## Mac
 
-- [[Raycast]]
+- [[raycast]]
 	- For å hovedsakelig åpne opp apper på en veldig kjapp måte, men også for å gjøre et kjapt regnestykke, konvertere valuta, finne en gif, og mye mer
 - [Obsidian](https://obsidian.md/)
 	- For å ta notater, skrive, bearbeide tanker, og mye mer
