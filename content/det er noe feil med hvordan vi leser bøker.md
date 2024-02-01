@@ -9,12 +9,6 @@ publish: "true"
 
 Jeg tror det er på tide å revurdere hvordan vi leser bøker. Spesielt de du leser for å la deg inspirere. De bøkene som gir deg nye tanker. Nye perspektiver, nye måter å se verden på. Kanskje også de bøkene hvor du går aktivt inn for å lære deg noe.
 
-> [!hint]- Blomst 🪴
->
-> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
-
 ## Grunnleggende vurdering
 
 For all del, de fleste av vårs tenker vel ikke lengre enn *"Ooh! Den virker spennende!"*. Ikke nødvendigvis *"Denne skal jeg lese for å utvide horisonten min"*. Samtidig vil du nok med god presisjon kunne gjøre den vurderinga før du leser en bok.
