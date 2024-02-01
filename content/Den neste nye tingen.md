@@ -10,6 +10,9 @@ publish: "true"
 
 I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, [[obsidian|obsidian]], og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.
 
+> [!warning] Bildene som opprinnelig var inkludert her er borte vekk
+> Skal se om jeg får fiksa opp i det en dag
+
 ## Hva som er så moro
 
 Personlig har jeg sikkert bytta "to do"-apper, og ulike tilnærminger til behandling av oppgaver, oftere enn jeg har bytta sengetøy det siste året. Og det betyr på ingen måte at jeg ikke er reinslig av meg, bare så det er sagt.
