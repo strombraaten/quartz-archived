@@ -8,13 +8,6 @@ publish: "true"
 ---
 
 I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, [[obsidian|obsidian]], og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.
-
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
-
 ## Hva som er så moro
 
 Personlig har jeg sikkert bytta "to do"-apper, og ulike tilnærminger til behandling av oppgaver, oftere enn jeg har bytta sengetøy det siste året. Og det betyr på ingen måte at jeg ikke er reinslig av meg, bare så det er sagt.
