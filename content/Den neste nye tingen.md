@@ -1,13 +1,15 @@
 ---
 date: 2022-12-19
-lastmod: 2023-05-10
+lastmod: 2024-02-01
 tags:
   - apper
+aliases: 
 title: Den neste nye tingen
 publish: "true"
 ---
 
 I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, [[obsidian|obsidian]], og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.
+
 ## Hva som er så moro
 
 Personlig har jeg sikkert bytta "to do"-apper, og ulike tilnærminger til behandling av oppgaver, oftere enn jeg har bytta sengetøy det siste året. Og det betyr på ingen måte at jeg ikke er reinslig av meg, bare så det er sagt.
