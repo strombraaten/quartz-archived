@@ -10,12 +10,6 @@ publish: "true"
 
 Henger tett sammen med [[oppfølgingsspørsmål|oppfølgingsspørsmål]], siden dette handler om hvordan du starter en samtale, men ikke hvordan du får samtalen til å vare lengre.
 
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](notes/digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](notes/stadier%20av%20gjennomtenkthet.md).
-
 Dette er en liste jeg kommer til å oppdatere i ny og ne, men hvor du gjerne må komme med forslag, for jeg er alltid nysgjerrig på hvordan andre tilrettelegger for gode samtaler.
 
 ## Liste over gode spørsmål
