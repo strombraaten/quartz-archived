@@ -3,7 +3,6 @@ date: 2023-06-18
 lastmod: 2023-06-18
 tags:
   - tankemat
-  - oversikt
 aliases:
   - Simen-spørsmål
 title: Hva er egentlig et Simen-spørsmål?
