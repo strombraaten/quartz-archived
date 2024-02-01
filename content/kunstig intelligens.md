@@ -11,12 +11,6 @@ publish: "true"
 
 *AI* og *kunstig intelligens* er ordene jeg kommer til å bruke. Teknisk sett burde jeg nok forkorte det til KI for å holde fast på det norske språk, men jeg opplever det heller som forvirrende når resten av verden snakker om AI.
 
-> [!hint]- Frø  🌱
->
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
-
 En ting man må tenke på er [[hvordan snakker du med en maskin|hvordan snakker du med en maskin]]? Hvordan veit jeg at det den sier er sant?
 
 ## For de spesielt interesserte
