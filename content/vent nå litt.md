@@ -15,11 +15,6 @@ Det vi ikke har tatt høyde for da er _hvem_ er det som bestemmer spesifikasjo
 
 Da jeg leste litt videre i etterkant fant jeg en setning som jeg kunne stille meg mer bak. For i boka [Innovation and entrepreneurship](https://www.amazon.com/Innovation-Entrepreneurship-Peter-F-Drucker/dp/0060851139?ref=simen-skriver) skriver Peter Drucker om at kvalitet i et produkt, eller i en tjeneste, ikke er basert på hva leverandøren legger i det. Det handler heller om _hva kunden, eller sluttbrukeren, får ut av det,_ og er villig til å betale for det.
 
-> [!hint]- Blomst 🪴
->
-> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 ## Lær av de som skal bruke tjenesten
 
 Om vi ser på kvalitet på den måten, at det handler om hva brukeren får ut av det, da er det opp til vårs som lager tingene, å finne ut hva folk forventer av tjenestene og produktene vi lager. Hva skal den være? Hva skal den gjøre? Hvordan forventer du å bruke den? Hva må til for å møte forventningene dine?
