@@ -1,21 +1,16 @@
 ---
 date: 2023-03-05
-lastmod: 2023-03-12
-title: De ulike stegene av et notat
+lastmod: 2024-02-01
 tags:
   - skriving
+aliases: 
+title: De ulike stegene av et notat
 publish: "true"
 ---
 
 I designverden er det noe som kalles [Double Diamond](https://www.designcouncil.org.uk/our-work/news-opinion/double-diamond-15-years/?ref=simen-skriver). Det er en prosess som beskriver hvordan man går bredt ut for å _utforske_ utfordringer og løsninger (divergerer), for så å _snevre inn_ og fokusere arbeidet, og prioritere, og definere konkrete elementer (konvergere).
 
 Jeg nevner det for det er noe betryggende med å vite hvor du er i en prosess. Når du sitter med en konkret oppgave, og du er så opptatt av detaljene at du ikke ser helheten. Og det samme tror jeg gjelder gode notatsystemer. Jeg har tidligere snakka om hvor godt det er å stole på systemet sitt, og det henger litt sammen med det.
-
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 ## Ulike tilnærminger
 
