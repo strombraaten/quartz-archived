@@ -1,7 +1,9 @@
 ---
 date: 2024-02-01
 lastmod: 2024-02-01
-tags: 
+tags:
+  - skriving
+  - produktivitet
 aliases: 
 title: Github Publish
 publish: "true"
