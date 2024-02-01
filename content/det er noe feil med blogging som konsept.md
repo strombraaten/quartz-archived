@@ -1,8 +1,10 @@
 ---
 date: 2023-03-04
-lastmod: 2023-05-10
-tags: 
-title: Det er noe feil med blogging som konsept
+lastmod: 2024-02-01
+tags:
+  - skriving
+aliases: 
+title: det er noe feil med blogging som konsept
 publish: "true"
 ---
 
@@ -13,12 +15,6 @@ På den forrige versjonen av hjemmesida mi så ville den artikkelen her vært ø
 Blogger er tradisjonelt bygd for å bevege vårs tilbake i tid, med de nyeste innleggene først og de eldste sist. Det er det som kalles en _reversert kronologisk_ rekkefølge. Sånn har det vært siden slutten av 1990-tallet og begynnelsen på 2000-tallet.
 
 Det du publiserte sist ligger øverst, og får da mest oppmerksomhet. Betyr det at det innlegget er.. det viktigste? Det beste av det beste? Det som er mest relevant  for deg akkurat her og nå? Overhodet ikke.
-
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 ## Eldre tanker er ikke nødvendigvis dårlige tanker
 

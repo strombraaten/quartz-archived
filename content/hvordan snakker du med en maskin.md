@@ -1,21 +1,16 @@
 ---
 date: 2023-04-30
-lastmod: 2023-04-30
-title: hvordan snakker du med en maskin
+lastmod: 2024-02-01
 tags:
   - AI
   - teknologi
+aliases: 
+title: hvordan snakker du med en maskin
 publish: "true"
 ---
 
 
 ## Samtalekunst mellom menneske og maskin
----
-> [!hint]- Frø  🌱
->
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 Når vi snakker om [[kunstig intelligens|AI]] så er det bare et system som har fått en rekke med instrukser – `Hvis dette skjer så skal du gjør det her`. Og de instruksene kommer fra folk som deg og meg, bare at de folka sannsynligvis kan mye mer om programmering og maskinlæring enn det jeg kan iallefall. 
 
@@ -40,6 +35,7 @@ For å begrense sjansen for at AI'en bare dikter opp ting så kan du be den om �
 For å få mer presise svar basert på det du vil vite mer om så kan du gi AI'en mer kontekst. Du kan legge føringer på hva svaret skal inneholde, eller innebære.
 
 ### Eksempler
+
 - Hvis svaret ikke befinner seg i teksten nedenfor så skal du si "Jeg veit ikke"
 - Svar utelukkende basert på konteksten du har fått, og svar så troverdig som mulig.
 	- Må ærlig innrømme at jeg er usikker på om den siste halvdelen av setningen der utgjør noen forskjell.

@@ -9,12 +9,6 @@ publish: "true"
 
 Mye av det jeg liker å skrive om ville nok naturlig havna under kategorien Produktivitet. Samtidig så er det ikke nødvendigvis _produktivitet_ jeg bryr meg. I form av å gjøre mer og mer, på mindre og mindre tid. For tilrettelegger du egentlig for kvalitet på den måten? Tilrettelegger du for å løse et problem som både er _riktig_, i tillegg til å være viktig?
 
-> [!hint]- Blomst 🪴
->
-> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
-
 ## Sakte og rolig
 
 En av podcastene jeg hører på heter "[Hurry Slowly](https://hurryslowly.co/?ref=simen-skriver)", av Jocelyn K. Glei, (som tidligere jobba i Behance). Tittelen aleine er jo kjempefin, og det minner meg i grunn om utrykket:

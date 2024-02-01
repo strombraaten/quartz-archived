@@ -16,12 +16,6 @@ Om jeg hadde bedt deg om å beskrive hva kvalitet _er_, hva ville du sagt da? P
 
 Kvalitet, sånn vi kjenner det i sammenheng med produkter, betyr tilsynelatende "å imøtekomme spesifikasjonene". At det treffer på hva det _skal_ være. At det oppfyller de behovene, eller forventningene som er angitt.
 
-> [!hint]- Blomst 🪴
->
-> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
-
 ## Toyota vs. Rolls Royce
 
 Det blei nevnt i [en podcast jeg hørte på](https://open.spotify.com/episode/5tdzZ1yUZMDiz2hulYsCD2?si=n5Bi3BcBRTe4wSFY9-7Llg&t=578&context=spotify%3Ashow%3A5qSUyCrk9KR69lEiXbjwXM&ref=simen-skriver) her om dagen, hvor [Seth Godin](https://seths.blog/?ref=simen-skriver), snakka om definisjonen av ordet kvalitet. At det stammer fra 1940- og 50-tallet, fra en type som heter [Edward Demmings](https://www.creativesafetysupply.com/articles/william-edwards-deming-the-father-of-quality-management/?ref=simen-skriver), som er mest kjent gjennom innflytelsen han hadde på det japanske bilmerket Toyota, og deres kvalitetskontroll. I tillegg til innflytelsen han hadde på Japan i sin større helhet, i form av hvordan han hjalp landet med å komme seg tilbake på beina, økonomisk sett, etter andre verdenskrig.

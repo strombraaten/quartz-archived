@@ -14,14 +14,6 @@ Men hva med digitale ting? Hvordan rydder vi der? For hvis du kan få mer mental
 
 Hvilke tilsvarende eksempler tenker du at vi har i de digitale livene våres?
 
-*Gjerne send meg en mail om du har noen gode eksempler, for det notatet her er fremdeles på frø-stadiet:*
-
-> [!hint]- Frø  🌱
->
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
-
 Sånn jeg ser det kan det være:
 - Dårlig, eller manglende filstruktur på dataen
 - En haug av filer som har vært midlertidig lagra på "skrivebordet" såpass lenge at du har lagd en egen mappe på skrivebordet som heter `Skrivebord`
