@@ -4,6 +4,7 @@ lastmod: 2023-07-16
 tags:
   - behind-the-scenes
 title: Å skape løsningen i fellesskap
+publish: "true"
 ---
 
 ## Hvordan pølsa lages

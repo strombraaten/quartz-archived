@@ -3,7 +3,8 @@ date: 2023-03-05
 lastmod: 2023-05-07
 title: Linker
 tags: 
-aliases:
+aliases: 
+publish: "true"
 ---
 
 Linker er en av de fundamentale greiene med [[Obsidian]].

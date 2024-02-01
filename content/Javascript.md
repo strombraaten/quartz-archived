@@ -4,6 +4,7 @@ lastmod: 2023-09-10
 tags:
   - læring
 title: Javascript
+publish: "true"
 ---
 
 ## Intro

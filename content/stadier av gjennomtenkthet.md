@@ -2,7 +2,8 @@
 date: 2023-04-07
 lastmod: 2023-04-29
 title: stadier av gjennomtenkthet
-tags:
+tags: 
+publish: "true"
 ---
 
 For å gjøre det tydeligere hva som er mer og mindre gjennomtenkt har jeg prøvd å innføre et nytt konsept. Det her spiller videre på [[digitalt hagearbeid]] hvor du har en tanke i utvikling.

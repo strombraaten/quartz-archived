@@ -5,6 +5,7 @@ tags:
   - tankemat
   - skriving
 title: Å skrive er som å ha en samtale med seg selv
+publish: "true"
 ---
 > [!hint]- Frø  🌱
 >

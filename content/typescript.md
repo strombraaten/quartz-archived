@@ -5,6 +5,7 @@ tags:
   - læring
   - teknologi
 title: Typescript
+publish: "true"
 ---
 Okei, her er det bare å ta et dypt pust og sette i gang.
 

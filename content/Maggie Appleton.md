@@ -6,6 +6,7 @@ tags:
 aliases:
   - Maggie
 title: Maggie Appleton
+publish: "true"
 ---
 Maggie er skaperen av kanskje den peneste bloggen jeg noensinne har sett – https://maggieappleton.com/. 
 

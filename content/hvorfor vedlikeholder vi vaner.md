@@ -4,6 +4,7 @@ lastmod: 2023-06-25
 title: hvorfor vedlikeholder vi vaner
 tags:
   - tankemat
+publish: "true"
 ---
 I blant lurer jeg på hvorfor jeg fortsetter å skrive nyhetsbrev på søndager. For det er egentlig ganske vanskelig. Og jeg brenner ikke inne med noe som jeg bare *må* si på en ukentlig basis. Fremdeles så har jeg gjort det hver søndag i 15 uker nå. Med ett unntak hvor det var en gang jeg publiserte det på en mandag i stedet, men det får da være greit.
 

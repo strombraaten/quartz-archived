@@ -5,20 +5,13 @@ tags:
   - teknologi
   - tankemat
 title: digital minimalisme
+publish: "true"
 ---
 Når det er litt kaos i hodet hjelper det som regel å rydde rundt seg. For om du vil ha mer klarhet i tankene dine hjelper det ikke å ha klær liggende rundt omkring, et glass eller to som du ikke har satt inn i oppvaskmaskina, og et tørkestativ med klær som strengt talt var tørt for tre dager siden. La vårs bare være ærlige på det.
 
 Men hva med digitale ting? Hvordan rydder vi der? For hvis du kan få mer mentalt overskudd ved å rydde rundt deg – og kanskje også kvitte deg med noe av tingene du ikke har behov for – kan vi ikke gjøre det i våre digitale liv og?
 
 Hvilke tilsvarende eksempler tenker du at vi har i de digitale livene våres?
-
-*Gjerne send meg en mail om du har noen gode eksempler, for det notatet her er fremdeles på frø-stadiet:*
-
-> [!hint]- Frø  🌱
->
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/Digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 Sånn jeg ser det kan det være:
 - Dårlig, eller manglende filstruktur på dataen

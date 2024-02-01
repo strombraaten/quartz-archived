@@ -4,12 +4,8 @@ lastmod: 2023-03-12
 tags:
   - skriving
 title: Hva vil du at jeg skal skrive mer om?
+publish: "true"
 ---
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 _Det her blir nok ganske så meta, for nå skal jeg skrive om en prosess jeg også skal gjennomføre._
 

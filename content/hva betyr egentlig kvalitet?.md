@@ -6,6 +6,7 @@ tags:
 title: Hva betyr egentlig kvalitet?
 aliases:
   - kvalitet
+publish: "true"
 ---
 Om jeg hadde bedt deg om å beskrive hva kvalitet _er_, hva ville du sagt da? Personlig ville jeg nok tenkt på lang holdbarhet eller varighet, sterke materialer, presisjon i alle ledd, og generelt så lite slurv som mulig. At noe er stødig, eller robust, og at det gjør den jobben det skal gjøre. Men av de "kriteriene" er det egentlig bare den siste som stemmer overens med hvor ordet kommer fra.
 
@@ -13,12 +14,6 @@ Om jeg hadde bedt deg om å beskrive hva kvalitet _er_, hva ville du sagt da? P
 > Denne artikkelen burde sees i sammenheng med oppfølgeren, [[vent nå litt]], ettersom jeg leste mer om kvalitet i ulike sammenhenger.
 
 Kvalitet, sånn vi kjenner det i sammenheng med produkter, betyr tilsynelatende "å imøtekomme spesifikasjonene". At det treffer på hva det _skal_ være. At det oppfyller de behovene, eller forventningene som er angitt.
-
-> [!hint]- Blomst 🪴
->
-> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 ## Toyota vs. Rolls Royce
 

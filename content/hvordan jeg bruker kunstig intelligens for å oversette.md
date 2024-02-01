@@ -5,6 +5,7 @@ title: Hvordan jeg bruker kunstig intelligens for å oversette
 tags:
   - AI
   - teknologi
+publish: "true"
 ---
 
 ## Personlige begrensninger

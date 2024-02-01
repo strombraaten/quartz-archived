@@ -1,8 +1,9 @@
 ---
 date: 2023-04-16
 lastmod: 2023-04-16
-tags: []
+tags: 
 title: skriv for deg selv, ikke for andre
+publish: "true"
 ---
 > [!hint]- Frø  🌱
 >

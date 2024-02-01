@@ -4,6 +4,7 @@ lastmod: 2023-06-17
 tags:
   - tankemat
 title: mentale modeller
+publish: "true"
 ---
 
 ## Hva er mental modeller egentlig?

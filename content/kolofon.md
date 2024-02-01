@@ -4,6 +4,7 @@ lastmod: 2023-05-10
 tags:
   - språk
 title: kolofon
+publish: "true"
 ---
 Ordet kolofon er bare en fancy måte å si "her finner du informasjon om hvordan pølsa blei lagd". Som oftest handler det ikke om pølser, men heller informasjon om hvem som har bidratt til et prosjekt.
 

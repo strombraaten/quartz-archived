@@ -1,22 +1,18 @@
 ---
 date: 2022-12-16
 lastmod: 2023-03-12
-tags: oversikt
+tags:
+  - oversikt
 title: En introduksjon til Zettelkasten
 aliases:
   - notes/zettelkasten/
+publish: "true"
 ---
 Det jeg skal fortelle deg om nå, hvis du har lest noen av de tidligere artiklene her, kommer ikke til å være noe nytt for deg. Og det er kjempebra!
 
 For da jeg leste meg opp på [Zettelkasten-metoden](notes/En%20introduksjon%20til%20Zettelkasten.md) til å starte med syns jeg det var vanskelig å "wrappe" hodet mitt rundt det. Og forstå meg på de ulike stegene, og tilnærmingen til det.
 
 Men. Som med mye annet så blir det tydeligere, og enklere å forstå når tanken har fått modne over tid. Og det håper jeg den har fått gjort hos deg nå, gjennom andre lignende skriverier.
-
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [[notes/digitalt hagearbeid|digital hage]] finner du notater som er i ulike [[notes/stadier av gjennomtenkthet|stadier av gjennomtenkthet]].
 
 ## Bakgrunn
 

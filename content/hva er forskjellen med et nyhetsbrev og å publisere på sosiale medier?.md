@@ -7,12 +7,6 @@ tags:
 ---
 Spennende spørsmål, ikke sant? Det kom fra min gode venn, Kjartan, som forøvrig har som mål i livet og få en shoutout i nyhetsbrevet. Og jeg er da en mann av folket, så da gir man folket det folket vil ha.
 
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
-
 ![[images/Kjartan_nyhetsbrev-og-sosialemedier 2.png]]
 
 Svaret mitt på det spørsmål derimot overraska egentlig meg sjøl og. For det jeg sa var at jeg syns det er langt mer personlig å både dele, men også å få et nyhetsbrev.

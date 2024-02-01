@@ -2,7 +2,8 @@
 date: 2022-12-04
 lastmod: 2023-03-12
 title: Vent nå litt
-tags:
+tags: 
+publish: "true"
 ---
 
 Sjeldent har det gått såpass kort tid fra jeg har sagt en ting til jeg har blitt uenig med meg sjøl, og tenkt noe annet, som da jeg skreiv om [[hva betyr egentlig kvalitet?|kvalitet]]. For i det innlegget skreiv jeg at _kvalitet_ handler om et produkt eller en tjeneste leverer på det den skal gjøre.

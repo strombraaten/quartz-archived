@@ -4,15 +4,10 @@ lastmod: 2023-12-03
 title: Hvorfor jeg blir så gira av Obsidian
 tags:
   - apper
-aliases:
+aliases: 
+publish: "true"
 ---
 Hva om du enkelt kunne finne ut av hva som helst? For eksempel navnet på den boka du leste for sju år siden, som handla om lykke eller glede. Eller kanskje det var et sitat fra en eller annen gammel greker?
-
-> [!hint]- Blomst 🪴
->
-> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 Det høres ut som en reklame for de tidlige dagene av Google, men det er like relevant for såkalte "_[Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management?ref=simen-skriver)_"-systemer (også kjent som PKMs) den dag i dag.
 
@@ -42,7 +37,7 @@ Grunnen til at jeg sier det er fordi det er ganske sjukt å tenke på hva de har
 
 ## Kriterier
 
-Tidligere [har jeg nevnt](private/Den%20neste%20nye%20tingen.md) at:
+Tidligere [har jeg nevnt](Den%20neste%20nye%20tingen.md) at:
 
 > Ved å heller vurdere appene vi bruker ut fra _kriteriene_ som er viktig for vårs, på en generell basis, vil det (forhåpentligvis) bli lettere å roe ned den evige jakten etter noe nytt og blankt.
 

@@ -2,17 +2,12 @@
 date: 2023-05-07
 lastmod: 2023-05-07
 title: hva andre mener om det jeg skriver
-tags:
+tags: 
+publish: "true"
 ---
 I ny og ne får jeg tilbakemeldinger på det jeg skriver. I blant er det en feil som pekes ut (som jeg setter utrolig pris på, for det vil jeg såklart fikse opp i), og andre ganger er det noe dere har satt pris.
 
 I blant får jeg også personlige historier om leserens erfaringer rundt temaet jeg skreiv om der og da.
-
-> [!hint]- Frø  🌱
->
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 Det er virkelig en av de beste grunnene til å starte et nyhetsbrev, vil jeg si. Å få den én-til-én-kontakten der. For da veit du helt konkret hvem som leser det du skriver. Samtidig er det også en kjempegod måte for deg å finne ut om det er verdt å melde deg på nyhetsbrevet mitt. For det er fullt mulig at det blir langt mer nerdete enn det du hadde sett for deg. Og spesielt hvis du kjenner meg personlig, da kan det jo være kleint å faktisk melde seg *av* nyhetsbrevet. Så da sitter du der da, på en slags uendelig motorvei, hvor det aldri kommer noen avkjørsel, og jeg er den eneste som veit hvor veien ender opp hen. Det er en skeiv maktbalanse, vil jeg si, så her kan du heller lese hva andre mener om det jeg skriver:
 

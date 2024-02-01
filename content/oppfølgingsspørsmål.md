@@ -4,7 +4,8 @@ lastmod: 2023-06-11
 title: Oppfølgingsspørsmål
 tags:
   - tankemat
-aliases:
+aliases: 
+publish: "true"
 ---
 Henger tett sammen med [[gode spørsmål]], siden dette handler om hvordan du får samtalene til å vare lengre, og hvordan du får bedre svar av folka du snakker med.
 

@@ -4,7 +4,8 @@ lastmod: 2023-05-07
 title: Obsidian
 tags:
   - apper
-aliases:
+aliases: 
+publish: "true"
 ---
 
 Obsidian er i sin enkleste form en app for å skrive notater. Om vi skal ta det ett steg videre så handler det også om hvordan notater henger sammen. Hvordan de er tilknytta til hverandre.

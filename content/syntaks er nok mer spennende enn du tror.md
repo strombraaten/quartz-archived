@@ -6,6 +6,7 @@ tags:
   - tankemat
 aliases:
   - syntaks
+publish: "true"
 ---
 Syntaks er et ord jeg utelukkende forbinder med programmering, med kode. Med andre ord, ting jeg ikke kan.
 

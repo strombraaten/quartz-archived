@@ -4,6 +4,7 @@ lastmod: 2023-07-02
 title: skap en felles forståelse ved å visualisere
 tags:
   - tankemat
+publish: "true"
 ---
 
 ## Bakgrunnen

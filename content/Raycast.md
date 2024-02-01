@@ -4,6 +4,7 @@ lastmod: 2023-05-10
 title: Raycast
 tags:
   - apper
+publish: "true"
 ---
 I sin enkleste form bruker du bare Raycast for å åpne apper på dataen din. Det høres forferdelig enkelt ut, men gud bedre (!) så deilig det er når du først har prøvd det!
 

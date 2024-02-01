@@ -5,14 +5,9 @@ title: digitalt hagearbeid
 tags: 
 aliases:
   - digital hage
+publish: "true"
 ---
 Nå skal jeg være ærlig. Jeg har ikke lest hele [artikkelen jeg har tenkt til å referere til](https://maggieappleton.com/garden-history?ref=simen-skriver) nå. Kanskje bare en fjerdedel. Uansett, jeg er bare så gira at jeg må komme gang. Så la meg forklare hva som er spennende med digitalt hagearbeid.
-
-> [!hint]- Blomst 🪴
->
-> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 ## Hva er det egentlig?
 

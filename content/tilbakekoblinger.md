@@ -2,7 +2,8 @@
 date: 2023-05-07
 lastmod: 2023-05-07
 title: tilbakekoblinger
-tags:
+tags: 
+publish: "true"
 ---
 Tilbakekoblinger er [[linker]] som viser hvilke notater som omtaler det notatet du er i. Det viser altså tilknytninger, eller relevante notater.
 

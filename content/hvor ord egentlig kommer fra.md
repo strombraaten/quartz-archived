@@ -4,12 +4,8 @@ lastmod: 2023-03-12
 tags:
   - språk
 title: Hvor ord egentlig kommer fra
+publish: "true"
 ---
-> [!hint]- Blomst 🪴
->
-> Detta er en tanke jeg har kommet tilbake til gjentatte ganger, og bearbeida videre for å gi mening i mitt eget liv. Det betyr ikke at den er "ferdig" for alltid, men heller at det er noe jeg kan stå for.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 Jeg pleier å se på _etymologi_ som ords opprinnelse. At det er samlebegrepet for å se på et ord eller utrykk, og tenke _"Hvor kommer egentlig det fra?"_, og komme til bunns i det spørsmålet. Å forstå seg på historien til ett enkelt ord.
 

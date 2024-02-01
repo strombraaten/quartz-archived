@@ -4,6 +4,7 @@ lastmod: 2023-04-29
 title: Maskiner som tenker
 tags:
   - bøker
+publish: "true"
 ---
 ## Boknotat
 
