@@ -6,6 +6,7 @@ tags:
 title: lærer meg å kode
 publish: "true"
 ---
+
 For øyeblikket fokuserer jeg på [[notes/HTML|HTML]] og [[notes/CSS|CSS]].
 
 > [!hint]- Frø  🌱
