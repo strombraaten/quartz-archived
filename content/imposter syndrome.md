@@ -34,12 +34,6 @@ Det handler altså om den følelsen av å ikke være god nok, enten om det er ti
 
 Til tross for navnet så tviler jeg på at en lege eller psykolog ville gitt deg diagnosen bedragersyndrom. Sånn jeg ser det har begrepet bedragersyndrom heller blitt en slags manifestasjon på usikkerhet. Ordet syndrom har vel blitt brukt fordi det er de samme tankemønstrene som folk kjenner seg igjen i. At de usikkerhetene som dukker opp er likt for mange. Spørsmålet er heller – Er det noe å kurere? Eller er det som med usikkerhet, i sin bredere form, at det er noe vi alle lever med, og som følger vårs hele livet i varierende grader?
 
-> [!hint]- Frø  🌱
->
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
-
 ---
 
 ## Anbefalt lesing
