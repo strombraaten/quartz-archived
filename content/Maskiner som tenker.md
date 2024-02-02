@@ -6,6 +6,7 @@ tags:
   - bøker
 publish: true
 ---
+
 ## Boknotat
 
 **Undertittel:** Algoritmenes hemmeligheter og veien til kunstig intelligens

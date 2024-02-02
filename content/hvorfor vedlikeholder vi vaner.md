@@ -6,6 +6,7 @@ tags:
   - tankemat
 publish: true
 ---
+
 I blant lurer jeg på hvorfor jeg fortsetter å skrive nyhetsbrev på søndager. For det er egentlig ganske vanskelig. Og jeg brenner ikke inne med noe som jeg bare *må* si på en ukentlig basis. Fremdeles så har jeg gjort det hver søndag i 15 uker nå. Med ett unntak hvor det var en gang jeg publiserte det på en mandag i stedet, men det får da være greit.
 
 ## Hvorfor sier jeg det her?
@@ -22,7 +23,7 @@ For å få noen andres innflytelser så spurte jeg ChatGPT – "Vis meg troverdi
 
 ### Kort digresjon for de mer AI-interesserte
 
-Du må bare hoppe over denne biten, men jeg inkluderer svaret siden jeg tidligere har snakka om [hvordan du kan snakke med en maskin](notes/hvordan%20snakker%20du%20med%20en%20maskin.md):
+Du må bare hoppe over denne biten, men jeg inkluderer svaret siden jeg tidligere har snakka om [hvordan du kan snakke med en maskin](content/hvordan%20snakker%20du%20med%20en%20maskin.md):
 
 > **Raycast AI:**
 > Her er noen troverdige kilder som kan hjelpe deg å lære mer om hvorfor mennesker vedlikeholder vaner:

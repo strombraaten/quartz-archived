@@ -6,7 +6,6 @@ tags:
 title: Hurtigtaster jeg bruker hele tida
 publish: true
 ---
-
 ## Figma
 
 *Bør nevnes at jeg har definert norsk som språk under keyboard layout-valget*

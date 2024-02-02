@@ -14,11 +14,11 @@ For all del, i løpet av et halvår leser jeg kanskje to-tre bøker, så det er 
 
 ## Hva det betyr for ditt eget liv
 
-For det samme gjelder for skriving som jeg nevnte om å ta notater fra det jeg leser. Som jeg sa i [[ditt framtidige, fremmede jeg]]:
+For det samme gjelder for skriving som jeg nevnte om å ta notater fra det jeg leser. Som jeg sa i [[ditt framtidige, fremmede jeg|ditt framtidige, fremmede jeg]]:
 
 > ..personlig husker jeg det jeg har lest så mye bedre. Nettopp fordi jeg har interagert med orda og tankene. Jeg har reflektert rundt hva det betyr, og hva det kanskje betyr for mitt eget liv.
 
-Og som Sönke Ahrens skriver i boka ["How to Take Smart Notes"](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502?ref=simen-skriver), så kan du ikke _omformulere_ noe du har lært med mindre du har tatt deg tida til å prøve og forstå hva det handler om.
+Og som Sönke Ahrens skriver i boka ["How to Take Smart Notes"](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502?ref=simen-skriver), så kan du ikke _omformulere_ noe du har lært med mindre du har tatt deg tida til å prøve og forstå hva det handler om.
 
 ## Det som kommer inn kommer ikke alltid ut
 

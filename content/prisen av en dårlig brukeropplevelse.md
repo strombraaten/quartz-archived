@@ -6,6 +6,7 @@ tags:
 title: prisen av en dårlig brukeropplevelse
 publish: true
 ---
+
 Okei, nå skal jeg prøve å kjempe for noe jeg egentlig ikke har noe erfaring med, nemlig å sette en pris på dårlige brukeropplevelser, i form av kroner og øre.
 
 Hvorfor? Fordi det kan gi meg som designer bedre argumenter for å kjempe for en bedre brukeropplevelse, og rett og slett lage så bra greier som mulig. Eller at det jeg designer skal ha en mer bærekraftig påvirkning.

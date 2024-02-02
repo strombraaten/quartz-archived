@@ -33,7 +33,7 @@ Jeg skal straks vise deg hva du har i vente ved å trykke på linken, men først
 
 De eksemplene har jeg prøvd å gjenspeile i kanalene som er lagd:
 
-![[images/Simens-skjermbilder-14-10-2023-kl23.40.png]]
+![[images/Simens-skjermbilder-14-10-2023-kl23.40.png|images/Simens-skjermbilder-14-10-2023-kl23.40.png]]
 
 `Skravling` blir hovedkanalen, hvor det er bare fyre løs med tanker og innspill
 
@@ -43,7 +43,7 @@ De eksemplene har jeg prøvd å gjenspeile i kanalene som er lagd:
 
 `Tilbakemelding` skal være en enkel måte for deg å si i fra om noe ikke fungerer, samtidig som jeg kan dokumentere det jeg veit er feil, så du også ser hva jeg tenker å endre på
 
-![[images/Simens-skjermbilder-16-07-2023-kl22.23.png]]
+![[images/Simens-skjermbilder-16-07-2023-kl22.23.png|images/Simens-skjermbilder-16-07-2023-kl22.23.png]]
 ### Hvorfor jeg gjør det
 
 Noe av det aller beste som har kommet ut av nyhetsbrevet for min del er svarene jeg har fått fra deg og dere. Det at andre plukker opp samtalen om et superspesifikt tema som jeg har skikkelig lyst til å snakke om, det er helt fantastisk. Og jeg opplever at begge parter lærer mer av den oppfølginga i etterkant, nettopp fordi man kan sprette noen ideer mot hverandre.
@@ -92,13 +92,13 @@ Discord brukes mye av gamere blant annet, men de bruker vel lydkanalene i stor g
 
 Uavhengig av om du bruker Discord fra før av eller ikke så blir du bare møtt med skjermbildet under, hvor du blir spørt om å godta invitasjonen. Eneste forskjellen er at den enten åpnes i Discord-appen eller i nettleseren din.
 
-![[images/Discord onboarding.jpg]]
+![[images/Discord onboarding.jpg|images/Discord onboarding.jpg]]
 
 Hvis det er første gangen din på Discord vil du deretter bli bedt om å laste ned appen, og lage deg en bruker. Her må du hoste opp et navn av noe slag, som enten kan være ditt eget, eller så har du også en gyllen mulighet til å kalle deg nøyaktig det du vil – som FrancisMcPipsqueak. Kanskje til og med "Sir Francis", bare fordi du kan.
 
 Etter du har beseira den store IQ-testen for å nok en gang bevise at du er menneskelig så vil du endelig komme inn i varmen – til **skravlehjørnet**:
 
-![[images/Discord onboarding 2.jpg]]
+![[images/Discord onboarding 2.jpg|images/Discord onboarding 2.jpg]]
 
 Om du er typen som liker å lese bruksanvisninga før du bruker noe så kan du [lese denne nybegynner-guiden til Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) – eller bare spør meg.
 

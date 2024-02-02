@@ -35,7 +35,7 @@ Det skader jo ikke å prøve, så nå har jeg lagd et område (på Discord) hvor
 
 De eksemplene har jeg prøvd å gjenspeile i kanalen som er lagd:
 
-![[Å skape løsningen i fellesskap-1689538787293.jpeg]]
+![[Å skape løsningen i fellesskap-1689538787293.jpeg|Å skape løsningen i fellesskap-1689538787293.jpeg]]
 
 - `Skravling` blir hovedkanalen, hvor det er bare fyre løs med tanker og innspill
 - `Behind the scenes` er kanalen hvor jeg tenker å dele mer av prosessen, som jeg også gjør i nyhetsbrevet i blant, men at jeg kan gjøre det mer fortløpende der

@@ -21,7 +21,7 @@ Jeg måtte [stjele den linja der fra wikipedia altså](https://no.wikipedia.org/
 
 Det som er spennende er at våre mentale modeller ofte er ulike, siden erfaringene og bakgrunnene våres også er ulike.
 
-Om du forresten vil ha en litt annerledes bok å lese i sommer så kan du dykke ned i boka _[The Nature of Explanation](https://www.amazon.com/Nature-Explanation-Kenneth-K-Craik/dp/0521094453)_, fra Kenneth Craik (1943), hvor begrepet mentale modeller angivelig dukka opp for første gang. 
+Om du forresten vil ha en litt annerledes bok å lese i sommer så kan du dykke ned i boka _[The Nature of Explanation](https://www.amazon.com/Nature-Explanation-Kenneth-K-Craik/dp/0521094453)_, fra Kenneth Craik (1943), hvor begrepet mentale modeller angivelig dukka opp for første gang. 
 
 ### Eksempler
 
@@ -33,7 +33,7 @@ Ofte er du ikke klar over din egen mentale modell før det er noe som skurrer. N
 
 ## Bruk noe gammelt for å lære noe nytt
 
-Om du vil lære deg noe nytt så kan du bruke mentale modeller som en slags snarvei for å komme deg dit du vil. [[Maggie Appleton]] beskriver hvordan i [denne podcast-episoden](https://www.airr.io/episode/5eb76062af4daadfebd7d13c), hvor hu sier:
+Om du vil lære deg noe nytt så kan du bruke mentale modeller som en slags snarvei for å komme deg dit du vil. [[Maggie Appleton|Maggie Appleton]] beskriver hvordan i [denne podcast-episoden](https://www.airr.io/episode/5eb76062af4daadfebd7d13c), hvor hu sier:
 
 > What you're trying to do is to find a set of neurons in the brain that are already well mapped, and you're trying to say "I want to take this new thing and map them on to the thing that you are already know", so it anchors it somewhere.
 > 

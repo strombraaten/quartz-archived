@@ -7,13 +7,14 @@ aliases:
 tags: 
 publish: true
 ---
+
 Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert av folk som [Derek Sivers](https://sive.rs/nowff?ref=simen-skriver), [Maggie Appleton](https://maggieappleton.com/now?ref=simen-skriver), og [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&ref=simen-skriver). Om du vil lese mer om såkalte "Nå"-sider finnes det [en utdypende side for sånt](https://nownownow.com/about?ref=simen-skriver).
 
 ---
 
 ## Hva jeg holder på å lese
 
-1. [[maskiner som tenker]]: algoritmenes hemmeligheter og veien til kunstig intelligens, av Inga Strümke
+1. [[maskiner som tenker|maskiner som tenker]]: algoritmenes hemmeligheter og veien til kunstig intelligens, av Inga Strümke
 2. [Wait but why, year one](https://www.amazon.com/Wait-But-Why-Year-reader-ebook/dp/B00TXYJOZG?qid=1682319399&s=digital-text&sr=1-2): We finally figured out how to put a blog onto an e-reader, av [Tim Urban](https://waitbutwhy.com/homepage)
 3. [The Shallows](https://www.nicholascarr.com/?page_id=16&ref=simen-skriver), av Nicholas Carr
 
@@ -55,6 +56,6 @@ Jeg liker tanken av å vise hva som opptar tankene mine nå for tida. Inspirert 
 >[!example]- Hva jeg har nerda ut på tidligere
 >- [CleanshotX-appen](https://www.simenskriver.no/den-ene-funksjonen/)
 >- Brødbaking
->- Hvordan bruke [[obsidian]]. Mer spesifikt:
+>- Hvordan bruke [[obsidian|obsidian]]. Mer spesifikt:
 >	- Hvordan ["context" i Make.md-pluginen](https://www.make.md/docs/Contexts) kan brukes for å sortere store mengder med notater
 >	- Virker som at query-funksjonen i Roam kan etterlignes gjennom Dataview-pluginen, men prøver jeg å bite over mer enn jeg kan tygge med det der?

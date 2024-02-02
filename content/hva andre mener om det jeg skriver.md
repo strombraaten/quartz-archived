@@ -6,6 +6,7 @@ tags:
   - skriving
 publish: true
 ---
+
 I ny og ne får jeg tilbakemeldinger på det jeg skriver. I blant er det en feil som pekes ut (som jeg setter utrolig pris på, for det vil jeg såklart fikse opp i), og andre ganger er det noe dere har satt pris.
 
 I blant får jeg også personlige historier om leserens erfaringer rundt temaet jeg skreiv om der og da.
@@ -22,14 +23,14 @@ Det er virkelig en av de beste grunnene til å starte et nyhetsbrev, vil jeg si.
 > 
 > Siste ord er aldri sagt, det liker jeg.
 
->[!quote] Person 2, etter å ha lest [[hvordan snakker du med en maskin]]:
+>[!quote] Person 2, etter å ha lest [[hvordan snakker du med en maskin|hvordan snakker du med en maskin]]:
 >
 >Detta er interessant og lærerikt!
 
->[!Quote] Person 3, etter å ha lest "[[det er noe feil med hvordan vi leser bøker]]"
+>[!Quote] Person 3, etter å ha lest "[[det er noe feil med hvordan vi leser bøker|det er noe feil med hvordan vi leser bøker]]"
 >
 >Denne var knallbra, Simen!
 
->[!Quote] Person 4, etter å ha lest "[[menneskelig vedlikehold]]"
+>[!Quote] Person 4, etter å ha lest "[[menneskelig vedlikehold|menneskelig vedlikehold]]"
 >
 > Dette likte jeg kjempegodt, Simen! Jeg prøver bestandig å bli kvitt unødvendige ting i livet mitt. Fra abonnement eller fysiske ting jeg ikke bruker, til ord og setninger som er overflødige i e-poster og meldinger.

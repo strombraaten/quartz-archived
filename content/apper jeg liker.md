@@ -7,9 +7,10 @@ tags:
   - apper
 publish: true
 ---
+
 ## Mac
 
-- [[raycast]]
+- [[Raycast|Raycast]]
 	- For å hovedsakelig åpne opp apper på en veldig kjapp måte, men også for å gjøre et kjapt regnestykke, konvertere valuta, finne en gif, og mye mer
 - [Obsidian](https://obsidian.md/)
 	- For å ta notater, skrive, bearbeide tanker, og mye mer
@@ -17,6 +18,9 @@ publish: true
 	- For å sende det jeg har markert i en podcast (gjennom Snipd), eller markert i en bok på [kindle](https://www.amazon.com/Amazon-Kindle-Ereader-Family/b?node=6669702011) inn til [[obsidian]]
 	- For [å lese artikler](https://readwise.io/read) jeg har spart til seinere
 	- Les [[digital klisterhjerne]] hvis du vil forstå hvordan det fungerer
+	- For å sende det jeg har markert i en podcast (gjennom Snipd), eller markert i en bok på [kindle](https://www.amazon.com/Amazon-Kindle-Ereader-Family/b?node=6669702011) inn til [[obsidian|obsidian]]
+	- For [å lese artikler](https://readwise.io/read) jeg har spart til seinere
+	- Les [[digital klisterhjerne|digital klisterhjerne]] hvis du vil forstå hvordan det fungerer
 - [CleanShot](https://cleanshot.com/)
 	- For å ta skjermbilder, lage gifer, eller markere/kommentere på et bilde
 - [Arc](https://arc.net/gift/51dad61b)

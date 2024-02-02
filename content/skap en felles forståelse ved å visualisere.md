@@ -11,12 +11,6 @@ publish: true
 
 Personlig jobber jeg mye med tekst. Jeg tenker mens jeg skriver, og jeg skriver mens jeg hører. Det kan fort ende opp med veldig mange ord på dataskjermen, som igjen kan gjøre det vanskelig å forklare til andre. Med mindre jeg skriver en lang avhandling som forklarer alt i nøye detalj, men det krever en del tålmodighet av mottakeren.
 
-> [!hint]- Frø  🌱
->
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](notes/digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](notes/stadier%20av%20gjennomtenkthet.md).
-
 ## Hva kan vi gjøre med det?
 
 Ved å visualisere en tanke kan vi skape en felles forståelse. Enten om det er et vanskelig problem av noe slag, eller et tema som du, eller personen du snakker med, kan lite om. Visualisering kan gjøre det lettere å forstå både det som er utydelig og abstrakt, men også det som er konkret, men som kanskje krever en del grunnleggende kunnskap som ikke alle har.
@@ -27,13 +21,13 @@ Du lager på en måte en knagg som du kan henge flere tanker på. Som igjen gjø
 
 Se for deg at du har 15-20 klesplagg liggende på gulvet. Klærne er ikke dine egne, men det er fra noen av de nærmeste vennene dine, så sjansen er stor for at du har sett dem før. Det ser kanskje litt sånn ut:
 
-![[skap en felles forståelse ved å visualisere-1688324470735.jpeg]]
+![[skap en felles forståelse ved å visualisere-1688324470735.jpeg|skap en felles forståelse ved å visualisere-1688324470735.jpeg]]
 
 Du legger kanskje merke til de fire øverste, siden de er mest synlig. Også kan det hende du kjenner igjen et spesifikt mønster eller en farge som ligger lenger ned, men for å kjenne igjen hvem de tilhører må du nok se nærmere på dem.
 
 Om du derimot henger opp klærne på hver sin individuelle krok blir det mye lettere å skaffe deg en oversikt.
 
-![[skap en felles forståelse ved å visualisere-1688324453006.jpeg]]
+![[skap en felles forståelse ved å visualisere-1688324453006.jpeg|skap en felles forståelse ved å visualisere-1688324453006.jpeg]]
 
 Du kjenner sikkert ikke igjen alle, men langt flere enn du gjorde istad, nå som du kan separere det ene plagget fra alle de andre. Akkurat det samme gjelder for tanker og konsepter også.
 

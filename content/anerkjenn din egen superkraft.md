@@ -7,6 +7,7 @@ aliases:
 title: anerkjenn din egen superkraft
 publish: true
 ---
+
 Vi har alle noe som vi er "naturlig" gode på. At det er noen aktiviteter eller væremåter som kanskje koster deg mindre, sånn energimessig, enn det ville gjort for andre.
 
 ## Min superkraft
@@ -29,9 +30,9 @@ Hva er poenget mitt her, lurer du kanskje på. Jo, for en stund siden så jobba 
 > 
 > Nå som vi alle har en felles forståelse går jeg videre. 
 
-Prosessen gikk bare så utrolig treigt, og jeg fikk den fæle følelsen av "[[imposter syndrome]]" om at det her burde jeg kunne, og at *alle* hadde gjort den jobben mer effektivt enn meg sjøl. Du veit når du blir konfrontert av ditt eget usikkerhetsmonster™, og plutselig står dere begge der som to idioter i egne liv.
+Prosessen gikk bare så utrolig treigt, og jeg fikk den fæle følelsen av "[[imposter syndrome|imposter syndrome]]" om at det her burde jeg kunne, og at *alle* hadde gjort den jobben mer effektivt enn meg sjøl. Du veit når du blir konfrontert av ditt eget usikkerhetsmonster™, og plutselig står dere begge der som to idioter i egne liv.
 
-![[anerkjenn superkraften din-1685866029060.jpeg]]
+![[anerkjenn superkraften din-1685866029060.jpeg|anerkjenn superkraften din-1685866029060.jpeg]]
 
 Så mens jeg satt på kontoret en dag, og følte at jeg stanga hodet gjentatte ganger i veggen uten å komme noe sted, så var jeg bare så lei at jeg tenkte "Nei, pokker heller, nå bare ringer jeg!". 
 

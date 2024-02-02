@@ -6,9 +6,10 @@ tags:
   - læring
 publish: true
 ---
+
 Sakte, men sikkert prøver jeg nemlig å forklare hvordan jeg gjør det jeg gjør. Først og fremst med skrivinga, men også til dels [hvordan jeg bruker Obsidian](obsidian.md), for det får jeg en del spørsmål om.
 
-Derfor prøver jeg å forklare det fundamentale på best mulig måte – som [[linker]] og [[tilbakekoblinger]] – så det skal være en lavere terskel for deg å komme i gang, enn det var for min egen del.
+Derfor prøver jeg å forklare det fundamentale på best mulig måte – som [[linker|linker]] og [[tilbakekoblinger|tilbakekoblinger]] – så det skal være en lavere terskel for deg å komme i gang, enn det var for min egen del.
 
 ## Om det å ha en åpen og transparent læringsprosess
 

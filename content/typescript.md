@@ -7,6 +7,7 @@ tags:
 title: Typescript
 publish: true
 ---
+
 Okei, her er det bare å ta et dypt pust og sette i gang.
 
 ## Hva veit jeg så langt?
@@ -55,4 +56,3 @@ Siden Typescript er basert på [[javascript]] så betyr det at de deler samme [[
 ## Ressurser for å lære mer
 
 - [Dokumentasjonen til Typescript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
-- 

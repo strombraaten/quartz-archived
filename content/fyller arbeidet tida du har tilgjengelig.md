@@ -8,11 +8,13 @@ aliases:
   - Parkinsons lov
 publish: true
 ---
-Du kjenner kanskje til utrykket _"If you wait until the last minute, it only takes a minute to do"_? Eller kanskje du kjenner til originalen, _"Work expands so as to fill the time available for its completion"_. 
 
-Det siste der var det [Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/C._Northcote_Parkinson?ref=simen-skriver) som formulerte så fint i en [artikkel til den engelske avisa, The Economist](https://www.economist.com/news/1955/11/19/parkinsons-law?ref=simen-skriver), i 1955. Om det stemmer eller ei, det skal vi ta en nærmere kikk på nå.
+Du kjenner kanskje til utrykket _"If you wait until the last minute, it only takes a minute to do"_? Eller kanskje du kjenner til originalen, _"Work expands so as to fill the time available for its completion"_. 
+
+Det siste der var det [Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/C._Northcote_Parkinson?ref=simen-skriver) som formulerte så fint i en [artikkel til den engelske avisa, The Economist](https://www.economist.com/news/1955/11/19/parkinsons-law?ref=simen-skriver), i 1955. Om det stemmer eller ei, det skal vi ta en nærmere kikk på nå.
 
 > [!info] [[skriveprosessen min på 6 minutter]]
+>
 > Og se hvordan hele denne artikkelen blei skrevet, inkludert presset av å skulle gjøre det på halve tida av det jeg pleier.
 
 ## Et nært eksempel
@@ -57,6 +59,6 @@ Men! Gode, gamle Cyril var nok inne på noe altså. Jeg blei ferdig på 55 minut
 
 ---
 
-_Om du vil kan du faktisk lese artikkelen i sin helhet, takket være noe som heter "The Wayback machine", som er et [digitalt bibliotek over internettet](https://archive.org/about/?ref=simen-skriver)._
+_Om du vil kan du faktisk lese artikkelen i sin helhet, takket være noe som heter "The Wayback machine", som er et [digitalt bibliotek over internettet](https://archive.org/about/?ref=simen-skriver)._
 
 _Personlig syns jeg det var spesielt moro å lese historien han dikta opp for å illustrere hvordan sju mennesker skaper mer jobb for hverandre, når de skal samarbeide om en oppgave._

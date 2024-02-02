@@ -9,13 +9,13 @@ publish: true
 
 Du skulle kanskje tro at det å skrive om å skrive, eller mer presist skrive om notater, hadde en slags begrensning, men tydeligvis ikke!
 
-Nick Milo, snakker nemlig mye om ["linking your thinking"](https://youtu.be/QgbLb6QCK88?t=155&ref=simen-skriver), som er selve nøkkelhandlingen i [[En introduksjon til Zettelkasten|zettelkasten]]. Nettopp å knytte koblinger mellom det du tenker over tid, sånn at det dannes grupperinger av det du tenker og skriver om.
+Nick Milo, snakker nemlig mye om ["linking your thinking"](https://youtu.be/QgbLb6QCK88?t=155&ref=simen-skriver), som er selve nøkkelhandlingen i [[En introduksjon til Zettelkasten|zettelkasten]]. Nettopp å knytte koblinger mellom det du tenker over tid, sånn at det dannes grupperinger av det du tenker og skriver om.
 
 ## Investering og skriving
 
 Men hva betyr det egentlig? Jo, for eksempel da jeg slukte til meg alt av kunnskap jeg kunne finne rundt privat økonomi.
 
-Jeg satte meg inn i alle slags temaer – fra indeksfond, pengeprofiler, bruk av kredittkort framfor "vanlig bankkort" (debet), til pensjon, og esg-rating. Alt det handler jo om privat økonomi, det veit jeg jo. Men ved å behandle hvert område som sitt eget notat, og bryte det ned på den måten, så åpner jeg også opp for at det kan knyttes til andre, mindre åpenbare koblinger – **helt automagisk**. Her kan du se det illustrert gjennom [[obsidian]] sin interaktive graf:
+Jeg satte meg inn i alle slags temaer – fra indeksfond, pengeprofiler, bruk av kredittkort framfor "vanlig bankkort" (debet), til pensjon, og esg-rating. Alt det handler jo om privat økonomi, det veit jeg jo. Men ved å behandle hvert område som sitt eget notat, og bryte det ned på den måten, så åpner jeg også opp for at det kan knyttes til andre, mindre åpenbare koblinger – **helt automagisk**. Her kan du se det illustrert gjennom [[obsidian]] sin interaktive graf:
 
 ![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-16-at-08.38.25@2x.png)
 
@@ -27,9 +27,9 @@ Det jeg gjør med skrivinga mi nå f. eks, hvor jeg bruker min totale mengde med
 Det er akkurat det jeg gjør med skrivinga mi nå. Jeg fordeler min totale skrivekapasitet utover flere artikkel-ideer, flere notater, for å ikke "sette meg fast" mentalt sett. For om jeg setter meg fast på en idé så hopper jeg bare videre til den neste.
 
 > [!quote] Som jeg har nevnt tidligere i [[En tanke i utvikling]]:
-*Samtidig er det ikke alle dager jeg har en fullkommen tanke å dele. Og det er lettere for meg å skrive __litt__ på __flere__ notater, enn det er å fullføre ett enkelt. Så da gir vi det et forsøk.*
+*Samtidig er det ikke alle dager jeg har en fullkommen tanke å dele. Og det er lettere for meg å skrive __litt__ på __flere__ notater, enn det er å fullføre ett enkelt. Så da gir vi det et forsøk.*
 
-Om jeg hadde brukt ordet _investering_, i den artikkelen, mens jeg skreiv det i [[obsidian]], så ville jeg sett at det dukka opp som en link.
+Om jeg hadde brukt ordet _investering_, i den artikkelen, mens jeg skreiv det i [[obsidian]], så ville jeg sett at det dukka opp som en link.
 
 ![](https://www.simenskriver.no/content/images/2022/12/CleanShot-2022-12-16-at-07.39.15@2x.png)
 
@@ -39,11 +39,11 @@ Om jeg hadde brukt ordet _investering_, i den artikkelen, mens jeg skreiv det i
 
 Fordelene med å linke tankene sammen altså er at over tid vil det dannes grupperinger, eller områder, som viser hva du tenker eller skriver mye om.
 
-Da jeg tok dypdykket mitt i privatøkonomi, om jeg hadde jeg linka tankene mine sammen da ville jeg også hatt en måte å komme tilbake til de samme tankene på. De samme lærdommene, og bearbeida forståelsen min gjentatte ganger, ettersom jeg forstod konseptene bedre og bedre. Det er sånn du bearbeider et notat til å bli såkalt "evergreen", eller "permanent", som er ordet som brukes i [[En introduksjon til Zettelkasten|zettelkasten]].
+Da jeg tok dypdykket mitt i privatøkonomi, om jeg hadde jeg linka tankene mine sammen da ville jeg også hatt en måte å komme tilbake til de samme tankene på. De samme lærdommene, og bearbeida forståelsen min gjentatte ganger, ettersom jeg forstod konseptene bedre og bedre. Det er sånn du bearbeider et notat til å bli såkalt "evergreen", eller "permanent", som er ordet som brukes i [[En introduksjon til Zettelkasten|zettelkasten]].
 
 I mange notat-apper, som Notion, Evernote, og Notat-appen til Apple, så vil de eldste notatene dyttes lenger ned, siden det kommer nye notater inn på toppen. På den måten blir de eldste notatene gradvis vanskeligere og vanskeligere å finne. Eller iallefall "snuble over" tilfeldigvis, for du kan alltids søke dem opp, dersom du husker hva de handla om og hvor du eventuelt finner dem.
 
-Ved å linke notatene dine sammen derimot, i apper som [[obsidian]], LogSeq, eller RoamResearch, så _mister_ de ikke verdien sin desto eldre de blir. Tvert i mot, de _øker_ i verdi ved at du har dannet koblinger videre til andre tanker. Du beriker altså den opprinnelige tanken, og alle de den er kobla til.
+Ved å linke notatene dine sammen derimot, i apper som [[obsidian]], LogSeq, eller RoamResearch, så _mister_ de ikke verdien sin desto eldre de blir. Tvert i mot, de _øker_ i verdi ved at du har dannet koblinger videre til andre tanker. Du beriker altså den opprinnelige tanken, og alle de den er kobla til.
 
 ## Din egen wikipedia
 
@@ -53,4 +53,4 @@ For det er en Wikipedia som kun er basert på ting du har likt!
 
 På sitater, ideer, formuleringer, konsepter, og tanker som har resonnert med deg på en eller annen måte. Gitt at du bearbeider tankene videre, og skriver det om til dine egne ord, så kan du også remixe det til nye sammensetninger. Nye artikler (som det her), eller bare nye tanker som har din egen, personlige vinkling på det.
 
-Selv om noe kanskje har blitt sagt før så har det ikke blitt sagt av deg. Og du skal virkelig ikke undervurdere hvor mye personlig preg har å si for personen i andre enden. Det er jo hele grunnen til at vi har ordet _[influenser](https://snl.no/influenser?ref=simen-skriver)_, selv om jeg virkelig ikke liker det.
+Selv om noe kanskje har blitt sagt før så har det ikke blitt sagt av deg. Og du skal virkelig ikke undervurdere hvor mye personlig preg har å si for personen i andre enden. Det er jo hele grunnen til at vi har ordet _[influenser](https://snl.no/influenser?ref=simen-skriver)_, selv om jeg virkelig ikke liker det.

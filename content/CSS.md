@@ -48,6 +48,7 @@ Om du både vil at teksten skal være grønn, men at den også skal stå i kursi
 ## Hvordan du slipper å gjøre samme endring mange ganger
 
 I et [[html]]-dokument har du en tag som heter `<head>`. Mellom den introduserende og avsluttende head-tagen kan du legge en `<style>`-tag:
+
 ```
 <head>
 <style>
@@ -106,13 +107,14 @@ background-color: teal;
 </html>
 ```
 
-Der kan du fint plassere alt av bakgrunnsfarger, størrelser, og valg av skrifttyper også videre, men for å gjøre det ryddigere bruker vi heller en referanse til en egen fil hvor du skiller ut all [[CSS]]en. Som oftest kalles den fila `style.css`.
+Der kan du fint plassere alt av bakgrunnsfarger, størrelser, og valg av skrifttyper også videre, men for å gjøre det ryddigere bruker vi heller en referanse til en egen fil hvor du skiller ut all [[CSS|CSS]]en. Som oftest kalles den fila `style.css`.
 
 > [!IDEA] «Jobb smartere»-øyeblikk
 
 Det du gjør da er at du lager en spesifikk fil kun for stylinga av sida, som kalles et `style sheet`. CSS er nemlig forkorta fra «Cascading Style Sheet». Hvor «Cascading»-biten av begrepet handler om at alle stilvalgene dine, (eller «deklarasjonene», som de så fint kalles) kommer én etter én.
 
-I praksis vil [[html]]-fila di da se sånn ut:
+
+I praksis vil [[HTML|HTML]]-fila di da se sånn ut:
 
 ```
 <html>
@@ -218,11 +220,11 @@ Og voilá! Så har du blå tekst.
 
 ---
 
-![[notes/images/IMG_6302.png]]
-![[notes/images/IMG_6301.png]]
-![[notes/images/IMG_6299.png]]
-![[notes/images/IMG_6298.png]]
-![[notes/images/IMG_6297.png]]
+![[images/IMG_6302.png|notes/images/IMG_6302.png]]
+![[images/IMG_6301.png|notes/images/IMG_6301.png]]
+![[images/IMG_6299.png|notes/images/IMG_6299.png]]
+![[images/IMG_6298.png|notes/images/IMG_6298.png]]
+![[images/IMG_6297.png|notes/images/IMG_6297.png]]
 
 > [!Question] Tag vs attribute
 > Hva er forskjellen mellom en `style tag`og en `style attribute`? Og når er det du vil bruke den ene framfor den andre?

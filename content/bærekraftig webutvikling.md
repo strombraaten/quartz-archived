@@ -6,6 +6,7 @@ tags:
   - bærekraft
 publish: true
 ---
+
 Hva betyr bærekraft i sammenhengen av å lage digitale greier? Det er et spørsmål jeg har tenkt en del på, og som jeg prøver å forstå i større grad.
 
 Her er det nemlig flere faktorer som spiller inn, som kan gjøre det vanskelig å beholde fokus på hva man prøver å oppnå. Så hva er det man egentlig prøver å oppnå? Utover det å lage en god brukeropplevelse, og at det skal treffe visse forretningsmål, så er det to ting man vil oppnå:
@@ -36,7 +37,7 @@ Du vil unngå at at nettsida di skal være "tung å laste", men hva vil det egen
 
 En annen part som spiller inn der er også hvor strømmen kommer fra. Om serverne forsynes med strøm som kommer fra gass- og kull, eller om det er vannkraft f. eks. Det kan du faktisk sjekke på [The Green Web Foundation](https://www.thegreenwebfoundation.org/).
 
-Men hva er det som påvirker "tyngden" av nettsida di? Hva som kan gjøre den "tung å laste" inn eller ned? En åpenbar ting er størrelsen på bildefilene du bruker. Om jeg tar et bilde med telefonen f. eks (en iPhone 13 mini) så blir størrelsen på bildefila mellom 2-4 megabyte, og størrelsen på et stående bilde er 3024  ×  4032 pixler. Er det strengt talt nødvendig? Nei. Svaret er nei.
+Men hva er det som påvirker "tyngden" av nettsida di? Hva som kan gjøre den "tung å laste" inn eller ned? En åpenbar ting er størrelsen på bildefilene du bruker. Om jeg tar et bilde med telefonen f. eks (en iPhone 13 mini) så blir størrelsen på bildefila mellom 2-4 megabyte, og størrelsen på et stående bilde er 3024×4032 pixler. Er det strengt talt nødvendig? Nei. Svaret er nei.
 
 Du kan fint komprimere et bilde ned til noen få hundre kilobyte, og f. eks 1000 pixler i makslengde/bredde uten at det påvirker kvaliteten i for stor grad.
 
@@ -46,7 +47,7 @@ Du kan fint komprimere et bilde ned til noen få hundre kilobyte, og f. eks 1000
 
 ### Effektiviteten av ulike kodespråk
 
-Nå beveger jeg meg ut på tynn is, så gjerne korriger meg om jeg tar feil, men såvidt jeg veit så vil en side som kun er basert på enkel [[notes/HTML|HTML]] og [[notes/CSS|CSS]], med noen tekstfiler i [[markdown]], sees på som en lettvekter i internettverden.
+Nå beveger jeg meg ut på tynn is, så gjerne korriger meg om jeg tar feil, men såvidt jeg veit så vil en side som kun er basert på enkel [[notes/HTML|HTML]] og [[notes/CSS|CSS]], med noen tekstfiler i [[markdown|markdown]], sees på som en lettvekter i internettverden.
 
 Når du derimot introduserer mer javascript så kan energibruken begynne å balle på seg. For når man skal være mer fancy, som f. eks med [[notes/den interaktive grafen|den interaktive grafen]] jeg har på forsida, så vil det også kreve mer å gjenskape det når du ser det.
 
@@ -68,7 +69,7 @@ Utover det at du bidrar i en positiv klimaretning så vil jeg trekke fram noe so
 
 [Low-tech magazine](https://www.lowtechmagazine.com/) er kanskje det aller beste eksempelet jeg veit om. Både med tanke på konseptet, men også hvordan det er gjennomført.
 
-![[bærekraftig webutvikling-1685367041996.jpeg]]
+![[bærekraftig webutvikling-1685367041996.jpeg|bærekraftig webutvikling-1685367041996.jpeg]]
 
 Hele sida kjører nemlig på strømmen til et solcellepanel som befinner seg på kontoret til han ene som lager det. Det vil også si at den ikke vil fungere i blant, siden Barcelona har noen dager i ny og ne hvor det ikke er nok sol som slipper til. Om du vil så kan du [lese mer om hvordan Low-tech Magazine er lagd](https://solar.lowtechmagazine.com/about.html).
 

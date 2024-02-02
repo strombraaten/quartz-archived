@@ -8,6 +8,7 @@ aliases:
 title: hva i huleste er CODE og PARA
 publish: true
 ---
+
 [Tiago Forte](https://fortelabs.com/?ref=simen-skriver) er for mange kjent som mannen bak Second Brain-konseptet. Han har forøvrig en bok om nettopp det konseptet hvis du vil dykke dypere i det, hvor han snakker om hvordan du kan [bygge din egen Second Brain](https://www.buildingasecondbrain.com/?ref=simen-skriver).
 
 ## Litt kjøtt på beinet
@@ -71,4 +72,4 @@ Ved å dele tankene dine gir du også andre muligheten til å lære av det.
 
 ## ..Men Hvorfor deler jeg det her?
 
-Jo, for å tydeliggjøre [de ulike stegene](notes/De%20ulike%20stegene%20av%20et%20notat.md) fra inspirasjon (et sitat eller setning som resonnerer med deg) til du [bruker det du har lært](notes/Om%20å%20bruke%20det%20du%20lærer.md). Siden det er flere ulike tilnærminger til det samme syns jeg det blir lettere å ta et isolert blikk på hver av dem. Derfor kommer jeg også til å gjøre det samme med [Zettelkasten-metoden](notes/En%20introduksjon%20til%20Zettelkasten.md) framover. Som i stor grad har vært med å påvirke hvordan jeg håndterer det jeg lærer, og måten jeg skriver på nå.
+Jo, for å tydeliggjøre [de ulike stegene](content/De%20ulike%20stegene%20av%20et%20notat.md) fra inspirasjon (et sitat eller setning som resonnerer med deg) til du [bruker det du har lært](content/Om%20å%20bruke%20det%20du%20lærer.md). Siden det er flere ulike tilnærminger til det samme syns jeg det blir lettere å ta et isolert blikk på hver av dem. Derfor kommer jeg også til å gjøre det samme med [Zettelkasten-metoden](content/En%20introduksjon%20til%20Zettelkasten.md) framover. Som i stor grad har vært med å påvirke hvordan jeg håndterer det jeg lærer, og måten jeg skriver på nå.

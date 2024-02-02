@@ -8,6 +8,7 @@ aliases:
 title: Hva er egentlig et Simen-spørsmål?
 publish: true
 ---
+
 "Å, det der var et skikkelig Simen-spørsmål", er en setning jeg får høre overraskende ofte. Som regel er det da snakk om et spørsmål som ikke helt kan besvares med ett enkelt ord. Hvor du også sier hvorfor du vil svare akkurat det.
 
 For eksempel, i stedet for å spørre om "*Hva er favorittfilmen din*?" kan du heller si "*Kan du fortelle meg om en film du liker godt, men også hva du liker med den*?".
