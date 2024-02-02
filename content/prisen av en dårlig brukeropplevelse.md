@@ -4,7 +4,7 @@ lastmod: 2023-05-12
 tags:
   - design
 title: prisen av en dårlig brukeropplevelse
-publish: "true"
+publish: true
 ---
 Okei, nå skal jeg prøve å kjempe for noe jeg egentlig ikke har noe erfaring med, nemlig å sette en pris på dårlige brukeropplevelser, i form av kroner og øre.
 

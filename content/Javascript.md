@@ -4,7 +4,7 @@ lastmod: 2023-09-10
 tags:
   - læring
 title: Javascript
-publish: "true"
+publish: true
 ---
 
 ## Intro
@@ -12,12 +12,6 @@ publish: "true"
 En ting som nevnes i kurset på Mimo er at linjer med kode er bare instruksjoner som dataen skal følge. Så når vi kjører koden spør vi bare dataen om å følge alle instruksjonene vi har gitt den. Derfor er det også viktig å tenke på rekkefølgen som instruksjonene (koden) skrives i.
 
 Det vil si at vi også må definere variablene før verdien skal vises fram.
-
-> [!hint]- Frø  🌱
->
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](notes/digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](notes/stadier%20av%20gjennomtenkthet.md).
 
 ### Hva er `Console.log`?
 

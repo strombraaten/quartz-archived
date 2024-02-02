@@ -4,7 +4,7 @@ lastmod: 2023-03-12
 tags:
   - språk
 title: Hvor ord egentlig kommer fra
-publish: "true"
+publish: true
 ---
 
 Jeg pleier å se på _etymologi_ som ords opprinnelse. At det er samlebegrepet for å se på et ord eller utrykk, og tenke _"Hvor kommer egentlig det fra?"_, og komme til bunns i det spørsmålet. Å forstå seg på historien til ett enkelt ord.

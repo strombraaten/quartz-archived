@@ -5,7 +5,7 @@ tags:
   - skriving
 aliases: 
 title: De ulike stegene av et notat
-publish: "true"
+publish: true
 ---
 I designverden er det noe som kalles [Double Diamond](https://www.designcouncil.org.uk/our-work/news-opinion/double-diamond-15-years/?ref=simen-skriver). Det er en prosess som beskriver hvordan man går bredt ut for å _utforske_ utfordringer og løsninger (divergerer), for så å _snevre inn_ og fokusere arbeidet, og prioritere, og definere konkrete elementer (konvergere).
 

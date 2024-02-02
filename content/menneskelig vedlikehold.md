@@ -4,7 +4,7 @@ lastmod: 2023-06-11
 title: menneskelig vedlikehold
 tags:
   - tankemat
-publish: "true"
+publish: true
 ---
 Minimalisme er en form for menneskelig vedlikehold, tror nå jeg. I designverden sies det ofte at godt design er så lite design som mulig. Ordene kommer fra [Dieter Rams, som er en tysk industridesigner](https://uxdesign.cc/dieter-rams-and-ten-principles-for-good-design-61cc32bcd6e6), og den tankegangen er like relevant for livet sjæl. Han fortsetter sitatet med å si:
 

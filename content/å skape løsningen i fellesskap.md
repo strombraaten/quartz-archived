@@ -4,7 +4,7 @@ lastmod: 2023-07-16
 tags:
   - behind-the-scenes
 title: Å skape løsningen i fellesskap
-publish: "true"
+publish: true
 ---
 
 ## Hvordan pølsa lages
@@ -14,12 +14,6 @@ publish: "true"
 Nå har jeg egentlig kommet til et punkt hvor jeg faktisk forventer det. Dersom jeg tester en ny app f. eks, så forventer jeg at det er et åpent "samfunn" av noe slag, hvor jeg kan gi tilbakemelding, drømme sammen med andre om framtidig funksjonalitet, og bare diskutere bruksområder. I tillegg til å bli bedre kjent med de som lager produktene jeg bruker. Så hvorfor skal det være noe annerledes med det jeg lager?
 
 Det var i alle fall det jeg tenkte, der jeg lå og fløyt i en gigantisk boks, også kjent som en *sensory deprivation tank*. Nå vil jeg ikke si at det der var en guddommelig åpenbaring akkurat, på ingen måte. Jeg er derimot glad for at jeg klarte å se på det jeg lager fra et annet perspektiv. Gjennom filteret av "Hva setter jeg pris på sjøl?".
-
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](notes/digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](notes/stadier%20av%20gjennomtenkthet.md).
 
 ## Så hva nå?
 

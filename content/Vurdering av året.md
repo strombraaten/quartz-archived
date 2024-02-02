@@ -7,7 +7,7 @@ tags:
 aliases:
   - årlig vurdering
 title: Vurdering av året
-publish: "true"
+publish: true
 ---
 Dette er spørsmålene jeg stiller meg sjøl for å vurdere året som har vært, og hva jeg vil ta med meg inn i året som kommer.
 

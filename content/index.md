@@ -1,6 +1,6 @@
 ---
 title: Introduksjon
-publish: "true"
+publish: true
 ---
 
 ## Heisann! 👋

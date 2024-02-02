@@ -6,7 +6,7 @@ tags:
   - teknologi
 aliases: 
 title: hvordan snakker du med en maskin
-publish: "true"
+publish: true
 ---
 
 ## Samtalekunst mellom menneske og maskin

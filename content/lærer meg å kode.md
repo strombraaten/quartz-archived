@@ -4,6 +4,6 @@ lastmod: 2023-05-21
 tags:
   - læring
 title: lærer meg å kode
-publish: "true"
+publish: true
 ---
-For øyeblikket fokuserer jeg på [[HTML]] og [[CSS]].
+For øyeblikket fokuserer jeg på [[CSS]], [[javascript]], og [[typescript]]. Tidligere har jeg kikka en del på [[html]]. Lærte mye ved å bruke [Mimo-appen](https://mimo.org/) til iphone og ipad.

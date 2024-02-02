@@ -4,7 +4,7 @@ lastmod: 2023-05-29
 title: Bærekraftig webutvikling
 tags:
   - bærekraft
-publish: "true"
+publish: true
 ---
 Hva betyr bærekraft i sammenhengen av å lage digitale greier? Det er et spørsmål jeg har tenkt en del på, og som jeg prøver å forstå i større grad.
 

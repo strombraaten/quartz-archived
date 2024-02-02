@@ -7,7 +7,7 @@ tags:
   - læring
 aliases:
   - readwise
-publish: "true"
+publish: true
 ---
 
 ## Hva mener jeg egentlig med digital klisterhjerne

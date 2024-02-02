@@ -3,10 +3,10 @@ date: 2023-05-21
 lastmod: 2023-05-21
 tags:
   - læring
-  - oversikt
-aliases: 
+aliases:
+  - HTML
 title: HTML
-publish:
+publish: true
 ---
 
 Byggeklosser

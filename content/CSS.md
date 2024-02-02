@@ -5,7 +5,7 @@ tags:
   - læring
 aliases: 
 title: CSS
-publish: "true"
+publish: true
 ---
 
 ## Egenskaper
@@ -47,7 +47,7 @@ Om du både vil at teksten skal være grønn, men at den også skal stå i kursi
 
 ## Hvordan du slipper å gjøre samme endring mange ganger
 
-I et [[HTML]]-dokument har du en tag som heter `<head>`. Mellom den introduserende og avsluttende head-tagen kan du legge en `<style>`-tag:
+I et [[html]]-dokument har du en tag som heter `<head>`. Mellom den introduserende og avsluttende head-tagen kan du legge en `<style>`-tag:
 ```
 <head>
 <style>
@@ -86,11 +86,11 @@ I tilfellet over kan vi si at `h2` er en `selector`, fordi vi må si i fra hva s
 
 ## Jobb smartere
 
-Du kan altså bake inn all stilendringene dine i en [[HTML]]-fil, men da blir det fort rotete. Det er derfor man pleier å skille de fra hverandre, og heller referere til en fil som oftest heter `styles.css`, som du linker til i [[HTML]]-fila.
+Du kan altså bake inn all stilendringene dine i en [[html]]-fil, men da blir det fort rotete. Det er derfor man pleier å skille de fra hverandre, og heller referere til en fil som oftest heter `styles.css`, som du linker til i [[html]]-fila.
 
 ## Grunnleggende
 
-Først må vi tenke på plasseringa. [[CSS]] hører hjemme mellom `<head>`-tags i en [[HTML]]-fil. 
+Først må vi tenke på plasseringa. [[CSS]] hører hjemme mellom `<head>`-tags i en [[html]]-fil. 
 
 ```
 <html>
@@ -112,7 +112,7 @@ Der kan du fint plassere alt av bakgrunnsfarger, størrelser, og valg av skriftt
 
 Det du gjør da er at du lager en spesifikk fil kun for stylinga av sida, som kalles et `style sheet`. CSS er nemlig forkorta fra «Cascading Style Sheet». Hvor «Cascading»-biten av begrepet handler om at alle stilvalgene dine, (eller «deklarasjonene», som de så fint kalles) kommer én etter én.
 
-I praksis vil [[HTML]]-fila di da se sånn ut:
+I praksis vil [[html]]-fila di da se sånn ut:
 
 ```
 <html>

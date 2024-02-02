@@ -5,7 +5,7 @@ tags:
   - teknologi
   - tankemat
 title: digital minimalisme
-publish: "true"
+publish: true
 ---
 Når det er litt kaos i hodet hjelper det som regel å rydde rundt seg. For om du vil ha mer klarhet i tankene dine hjelper det ikke å ha klær liggende rundt omkring, et glass eller to som du ikke har satt inn i oppvaskmaskina, og et tørkestativ med klær som strengt talt var tørt for tre dager siden. La vårs bare være ærlige på det.
 

@@ -4,7 +4,7 @@ lastmod: 2023-06-25
 title: Gode spørsmål
 tags:
   - tankemat
-publish: "true"
+publish: true
 ---
 
 Henger tett sammen med [[oppfølgingsspørsmål]], siden dette handler om hvordan du starter en samtale, men ikke hvordan du får samtalen til å vare lengre.

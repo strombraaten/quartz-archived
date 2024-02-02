@@ -4,17 +4,11 @@ lastmod: 2023-05-07
 title: å lære åpent
 tags:
   - læring
-publish: "true"
+publish: true
 ---
 Sakte, men sikkert prøver jeg nemlig å forklare hvordan jeg gjør det jeg gjør. Først og fremst med skrivinga, men også til dels [hvordan jeg bruker Obsidian](obsidian.md), for det får jeg en del spørsmål om.
 
 Derfor prøver jeg å forklare det fundamentale på best mulig måte – som [[linker]] og [[tilbakekoblinger]] – så det skal være en lavere terskel for deg å komme i gang, enn det var for min egen del.
-
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 ## Om det å ha en åpen og transparent læringsprosess
 

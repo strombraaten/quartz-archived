@@ -5,16 +5,10 @@ title: Obsidian
 tags:
   - apper
 aliases: 
-publish: "true"
+publish: true
 ---
 
 Obsidian er i sin enkleste form en app for å skrive notater. Om vi skal ta det ett steg videre så handler det også om hvordan notater henger sammen. Hvordan de er tilknytta til hverandre.
-
-> [!hint]- Stikling 🌿
->
-> Denne ideen er ikke helt bearbeida, kjenner jeg. Den trenger mer kjærlighet og oppmerksomhet, men det er noe spennende her.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 Hovedsakelig er det gjennom [[linker]], men det kan også være [[emneknagger]], eller [[den interaktive grafen]] som du ser i bunnen her.
 

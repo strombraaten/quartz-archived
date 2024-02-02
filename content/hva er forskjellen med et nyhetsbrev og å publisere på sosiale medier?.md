@@ -4,6 +4,7 @@ lastmod: 2023-03-12
 title: Hva er forskjellen med et nyhetsbrev og å publisere på sosiale medier?
 tags:
   - skriving
+publish: true
 ---
 Spennende spørsmål, ikke sant? Det kom fra min gode venn, Kjartan, som forøvrig har som mål i livet og få en shoutout i nyhetsbrevet. Og jeg er da en mann av folket, så da gir man folket det folket vil ha.
 

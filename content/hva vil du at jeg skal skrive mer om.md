@@ -4,7 +4,7 @@ lastmod: 2023-03-12
 tags:
   - skriving
 title: Hva vil du at jeg skal skrive mer om?
-publish: "true"
+publish: true
 ---
 
 _Det her blir nok ganske så meta, for nå skal jeg skrive om en prosess jeg også skal gjennomføre._

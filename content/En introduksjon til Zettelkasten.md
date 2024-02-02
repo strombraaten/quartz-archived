@@ -2,11 +2,11 @@
 date: 2022-12-16
 lastmod: 2023-03-12
 tags:
-  - oversikt
+  - læring
 title: En introduksjon til Zettelkasten
 aliases:
-  - notes/zettelkasten/
-publish: "true"
+  - zettelkasten
+publish: true
 ---
 Det jeg skal fortelle deg om nå, hvis du har lest noen av de tidligere artiklene her, kommer ikke til å være noe nytt for deg. Og det er kjempebra!
 

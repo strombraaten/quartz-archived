@@ -5,7 +5,7 @@ tags:
   - tankemat
 aliases: 
 title: eksperimenter i hverdagen
-publish: "true"
+publish: true
 ---
 Er det _ett_ poeng jeg vil få fram i dag er det at du trenger ikke gjøre alt _hver_ dag.
 

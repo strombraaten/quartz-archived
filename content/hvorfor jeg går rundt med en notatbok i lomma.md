@@ -5,7 +5,7 @@ title: Hvorfor jeg går rundt med en notatbok i lomma
 tags:
   - tankemat
 aliases: 
-publish: "true"
+publish: true
 ---
 
 Grunnen er veldig enkel. En notatbok distraherer deg ikke i å skrive ned en tanke. Det gjør derimot telefonen din.

@@ -5,9 +5,12 @@ tags:
   - apper
 aliases: 
 title: Den neste nye tingen
-publish: "true"
+publish: true
 ---
 I dag oppdaga jeg noe som heter [Tana](https://tana.inc/?ref=simen-skriver). Såvidt jeg forstår overlapper det med Notion, [[obsidian]], og Things-appen, som jeg bruker fra før av, så jeg trenger den nok ikke. Men.. Det hadde vært spennende å prøve det da 🤔 Og det er akkurat den følelsen vi skal se på i dag.
+
+> [!important] Ahoi! Her er det bilder som har blitt borte vekk
+> Skal se om jeg får fiksa opp i det en dag
 
 ## Hva som er så moro
 

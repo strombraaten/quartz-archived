@@ -5,7 +5,7 @@ tags:
   - skriving
 aliases: 
 title: senke terskelen for å publisere
-publish: "true"
+publish: true
 ---
 Hittil har jeg ikke skrivi noe helt konkret om det å senke terskelen for å publisere, men det skal jeg gjøre seinere.
 

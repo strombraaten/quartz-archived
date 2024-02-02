@@ -5,7 +5,7 @@ tags:
   - tankemat
 aliases: 
 title: anerkjenn din egen superkraft
-publish: "true"
+publish: true
 ---
 Vi har alle noe som vi er "naturlig" gode på. At det er noen aktiviteter eller væremåter som kanskje koster deg mindre, sånn energimessig, enn det ville gjort for andre.
 

@@ -5,7 +5,7 @@ title: Hvorfor jeg blir så gira av Obsidian
 tags:
   - apper
 aliases: 
-publish: "true"
+publish: true
 ---
 Hva om du enkelt kunne finne ut av hva som helst? For eksempel navnet på den boka du leste for sju år siden, som handla om lykke eller glede. Eller kanskje det var et sitat fra en eller annen gammel greker?
 
@@ -37,7 +37,7 @@ Grunnen til at jeg sier det er fordi det er ganske sjukt å tenke på hva de har
 
 ## Kriterier
 
-Tidligere [har jeg nevnt](Den%20neste%20nye%20tingen.md) at:
+Tidligere [har jeg nevnt](den%20neste%20nye%20tingen.md) at:
 
 > Ved å heller vurdere appene vi bruker ut fra _kriteriene_ som er viktig for vårs, på en generell basis, vil det (forhåpentligvis) bli lettere å roe ned den evige jakten etter noe nytt og blankt.
 

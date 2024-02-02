@@ -4,18 +4,12 @@ lastmod: 2023-06-17
 tags:
   - tankemat
 title: mentale modeller
-publish: "true"
+publish: true
 ---
 
 ## Hva er mental modeller egentlig?
 
 Mentale modeller er et begrep jeg har hørt om ofte, men aldri helt satt meg inn i. Personlig forstår jeg det som at det er din forståelse av et gitt konsept. At det ikke er noe vanskeligere enn som så, men den teksten her er prosessen av at jeg prøver å forstå det bedre. Og hvis du har noen egne tanker så må du gjerne fyre løs, så kan vi lære mer sammen.
-
-> [!hint]- Frø  🌱
->
-> Det her må du nok ta med en klype salt, for denne tanken er helt i babystadiet. Det er altså godt mulig at noe av det jeg sier er feil, ufullstendig, eller at jeg ombestemmer meg ettersom jeg får tenkt mer gjennom det.
-> 
-> Om dette konseptet er nytt for deg kan det være nyttig å vite at i en [digital hage](digitalt%20hagearbeid.md) finner du notater som er i [ulike stadier av gjennomtenkthet](stadier%20av%20gjennomtenkthet.md).
 
 Sånn jeg forstår det så er mentale modeller hvordan du forstår verden rundt deg, og hva du ser for deg. Basert på dine erfaringer, dine forventninger, og hva du veit fra før av. Det er måten du tenker på, eller forklarer noe for deg selv. 
 

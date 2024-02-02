@@ -5,7 +5,7 @@ title: Ditt framtidige, fremmede jeg
 tags:
   - tankemat
 enableToc: true
-publish: "true"
+publish: true
 ---
 Einstein sa en gang noe om at det er først når du kan lære bort noe til andre at du virkelig har forstått det du prøver å lære selv. Føles litt flåsete å sitere Einstein i første setning riktignok, men gi meg en sjanse nå.
 
