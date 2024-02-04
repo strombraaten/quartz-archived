@@ -2,10 +2,10 @@
   "404": "Beklager, nå har jeg sendt deg på en blindvei.",
   "backlinks": {
     "backlinks": "Andre notater som linker tilbake hit",
-    "noBacklinksFound": "Fant ingen notater som linker tilbake hit"
+    "noBacklinksFound": "Fant ingen notater som linker tilbake"
   },
   "common": {
-    "item": "item"
+    "item": "notat"
   },
   "darkmode": {
     "darkmode": "Mørke omgivelser",
@@ -30,8 +30,8 @@
   "search": "Søk",
   "tableOfContent": "Innholdsfortegnelse",
   "tagContent": {
-    "showingFirst": "Viser først",
-    "totalTags": "alle emneknagger",
+    "showingFirst": "Viser første",
+    "totalTags": "emneknagger totalt",
     "withThisTag": "med denne emneknaggen",
     "found": "Fant"
   }
