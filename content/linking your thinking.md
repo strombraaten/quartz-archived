@@ -9,7 +9,7 @@ publish: true
 
 Du skulle kanskje tro at det å skrive om å skrive, eller mer presist skrive om notater, hadde en slags begrensning, men tydeligvis ikke!
 
-Nick Milo, snakker nemlig mye om ["linking your thinking"](https://youtu.be/QgbLb6QCK88?t=155&ref=simen-skriver), som er selve nøkkelhandlingen i [[En introduksjon til Zettelkasten|zettelkasten]]. Nettopp å knytte koblinger mellom det du tenker over tid, sånn at det dannes grupperinger av det du tenker og skriver om.
+Nick Milo, snakker nemlig mye om ["linking your thinking"](https://youtu.be/QgbLb6QCK88?t=155&ref=simen-skriver), som er selve nøkkelhandlingen i [[en introduksjon til zettelkasten|zettelkasten]]. Nettopp å knytte koblinger mellom det du tenker over tid, sånn at det dannes grupperinger av det du tenker og skriver om.
 
 ## Investering og skriving
 
@@ -26,7 +26,7 @@ Det jeg gjør med skrivinga mi nå f. eks, hvor jeg bruker min totale mengde med
 
 Det er akkurat det jeg gjør med skrivinga mi nå. Jeg fordeler min totale skrivekapasitet utover flere artikkel-ideer, flere notater, for å ikke "sette meg fast" mentalt sett. For om jeg setter meg fast på en idé så hopper jeg bare videre til den neste.
 
-> [!quote] Som jeg har nevnt tidligere i [[En tanke i utvikling]]:
+> [!quote] Som jeg har nevnt tidligere i [[en tanke i utvikling]]:
 *Samtidig er det ikke alle dager jeg har en fullkommen tanke å dele. Og det er lettere for meg å skrive __litt__ på __flere__ notater, enn det er å fullføre ett enkelt. Så da gir vi det et forsøk.*
 
 Om jeg hadde brukt ordet _investering_, i den artikkelen, mens jeg skreiv det i [[obsidian]], så ville jeg sett at det dukka opp som en link.
@@ -39,7 +39,7 @@ Om jeg hadde brukt ordet _investering_, i den artikkelen, mens jeg skreiv det i 
 
 Fordelene med å linke tankene sammen altså er at over tid vil det dannes grupperinger, eller områder, som viser hva du tenker eller skriver mye om.
 
-Da jeg tok dypdykket mitt i privatøkonomi, om jeg hadde jeg linka tankene mine sammen da ville jeg også hatt en måte å komme tilbake til de samme tankene på. De samme lærdommene, og bearbeida forståelsen min gjentatte ganger, ettersom jeg forstod konseptene bedre og bedre. Det er sånn du bearbeider et notat til å bli såkalt "evergreen", eller "permanent", som er ordet som brukes i [[En introduksjon til Zettelkasten|zettelkasten]].
+Da jeg tok dypdykket mitt i privatøkonomi, om jeg hadde jeg linka tankene mine sammen da ville jeg også hatt en måte å komme tilbake til de samme tankene på. De samme lærdommene, og bearbeida forståelsen min gjentatte ganger, ettersom jeg forstod konseptene bedre og bedre. Det er sånn du bearbeider et notat til å bli såkalt "evergreen", eller "permanent", som er ordet som brukes i [[en introduksjon til zettelkasten|zettelkasten]].
 
 I mange notat-apper, som Notion, Evernote, og Notat-appen til Apple, så vil de eldste notatene dyttes lenger ned, siden det kommer nye notater inn på toppen. På den måten blir de eldste notatene gradvis vanskeligere og vanskeligere å finne. Eller iallefall "snuble over" tilfeldigvis, for du kan alltids søke dem opp, dersom du husker hva de handla om og hvor du eventuelt finner dem.
 

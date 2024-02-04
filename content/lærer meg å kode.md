@@ -6,4 +6,4 @@ tags:
 title: lærer meg å kode
 publish: true
 ---
-For øyeblikket fokuserer jeg på [[CSS]], [[javascript]], og [[typescript]]. Tidligere har jeg kikka en del på [[html]]. Lærte mye ved å bruke [Mimo-appen](https://mimo.org/) til iphone og ipad.
+For øyeblikket fokuserer jeg på [[css]], [[javascript]], og [[typescript]]. Tidligere har jeg kikka en del på [[html]]. Lærte mye ved å bruke [Mimo-appen](https://mimo.org/) til iphone og ipad.

@@ -91,7 +91,7 @@ Du kan altså bake inn all stilendringene dine i en [[html]]-fil, men da blir de
 
 ## Grunnleggende
 
-Først må vi tenke på plasseringa. [[CSS]] hører hjemme mellom `<head>`-tags i en [[html]]-fil. 
+Først må vi tenke på plasseringa. [[css]] hører hjemme mellom `<head>`-tags i en [[html]]-fil. 
 
 ```
 <html>
@@ -107,14 +107,14 @@ background-color: teal;
 </html>
 ```
 
-Der kan du fint plassere alt av bakgrunnsfarger, størrelser, og valg av skrifttyper også videre, men for å gjøre det ryddigere bruker vi heller en referanse til en egen fil hvor du skiller ut all [[CSS|CSS]]en. Som oftest kalles den fila `style.css`.
+Der kan du fint plassere alt av bakgrunnsfarger, størrelser, og valg av skrifttyper også videre, men for å gjøre det ryddigere bruker vi heller en referanse til en egen fil hvor du skiller ut all [[css|css]]en. Som oftest kalles den fila `style.css`.
 
 > [!IDEA] «Jobb smartere»-øyeblikk
 
 Det du gjør da er at du lager en spesifikk fil kun for stylinga av sida, som kalles et `style sheet`. CSS er nemlig forkorta fra «Cascading Style Sheet». Hvor «Cascading»-biten av begrepet handler om at alle stilvalgene dine, (eller «deklarasjonene», som de så fint kalles) kommer én etter én.
 
 
-I praksis vil [[HTML|HTML]]-fila di da se sånn ut:
+I praksis vil [[html|HTML]]-fila di da se sånn ut:
 
 ```
 <html>
