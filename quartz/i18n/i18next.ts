@@ -20,20 +20,27 @@ export const i18n = (lang = "no-NB", key: string, options?: TranslationOptions) 
     ) ?? "no-NB"
   const getTranslation = (key: string) => {
     const keys = key.split(".")
-    let translationString: string | Record<string, unknown> =
+    let translationString: string | Record<string, unknown> | undefined =
       TRANSLATION[locale as keyof typeof TRANSLATION]
     keys.forEach((key) => {
-      // @ts-ignore
-      translationString = translationString[key]
+      // Properly handle potential undefined values
+      if (translationString && typeof translationString === 'object') {
+        translationString = translationString[key]
+      } else {
+        translationString = undefined;
+      }
     })
     return translationString
   }
-  if (options) {
-    let translationString = getTranslation(key).toString()
-    Object.keys(options).forEach((key) => {
-      translationString = translationString.replace(`{{${key}}}`, options[key])
-    })
-    return translationString
+  let translationString = getTranslation(key);
+  if (translationString === undefined) {
+    // Provide a fallback for missing translations
+    translationString = `Missing translation for "${key}"`;
+  } else if (options) {
+    translationString = translationString.toString();
+    Object.keys(options).forEach((optionKey) => {
+      translationString = translationString.replace(`{{${optionKey}}}`, options[optionKey])
+    });
   }
-  return getTranslation(key).toString()
+  return translationString.toString();
 }
