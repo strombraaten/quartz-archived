@@ -25,6 +25,7 @@ interface TocEntry {
 }
 
 const regexMdLinks = new RegExp(/\[([^\[]+)\](\(.*\))/, "g")
+const slugAnchor = new Slugger()
 export const TableOfContents: QuartzTransformerPlugin<Partial<Options> | undefined> = (
   userOpts,
 ) => {
@@ -37,7 +38,7 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options> | undefin
           return async (tree: Root, file) => {
             const display = file.data.frontmatter?.enableToc ?? opts.showByDefault
             if (display) {
-              const slugAnchor = new Slugger()
+              slugAnchor.reset()
               const toc: TocEntry[] = []
               let highestDepth: number = opts.maxDepth
               visit(tree, "heading", (node) => {
