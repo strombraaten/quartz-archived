@@ -12,12 +12,12 @@ type TranslationOptions = {
   [key: string]: string
 }
 
-export const i18n = (lang = "en-US", key: string, options?: TranslationOptions) => {
+export const i18n = (lang = "no-NB", key: string, options?: TranslationOptions) => {
   const locale =
     Object.keys(TRANSLATION).find(
       (key) =>
         key.toLowerCase() === lang.toLowerCase() || key.toLowerCase().includes(lang.toLowerCase()),
-    ) ?? "en-US"
+    ) ?? "no-NB"
   const getTranslation = (key: string) => {
     const keys = key.split(".")
     let translationString: string | Record<string, unknown> =
