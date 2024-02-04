@@ -5,7 +5,7 @@ tags:
   - skriving
   - produktivitet
 aliases: 
-title: Github Publish
+title: Github Publisher
 publish: true
 ---
 
