@@ -44,8 +44,8 @@ export default ((userOpts?: Partial<SearchOptions>) => {
               id="search-bar"
               name="search"
               type="text"
-              aria-label="Search for something"
-              placeholder="Search for something"
+              aria-label="Søk etter noe"
+              placeholder="Søk etter noe"
             />
             <div id="search-layout" data-preview={opts.enablePreview}></div>
           </div>

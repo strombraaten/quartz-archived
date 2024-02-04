@@ -1,8 +1,8 @@
 {
   "404": "Beklager, nå har jeg sendt deg på en blindvei.",
   "backlinks": {
-    "backlinks": "Notater som linker til dette notatet",
-    "noBacklinksFound": "Fant ingen notater som linker til dette notatet"
+    "backlinks": "Andre notater som linker tilbake hit",
+    "noBacklinksFound": "Fant ingen notater som linker tilbake hit"
   },
   "common": {
     "item": "item"
