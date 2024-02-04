@@ -1,9 +1,11 @@
 import en from "./locales/en.json"
 import fr from "./locales/fr.json"
+import no from "./locales/no.json"
 
 const TRANSLATION = {
   "en-US": en,
   "fr-FR": fr,
+  "no-NB": no,
 } as const
 
 type TranslationOptions = {

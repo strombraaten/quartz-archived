@@ -1,0 +1,38 @@
+{
+  "404": "Beklager, nå har jeg sendt deg på en blindvei.",
+  "backlinks": {
+    "backlinks": "Notater som linker til dette notatet",
+    "noBacklinksFound": "Fant ingen notater som linker til dette notatet"
+  },
+  "common": {
+    "item": "item"
+  },
+  "darkmode": {
+    "darkmode": "Mørke omgivelser",
+    "lightMode": "Lyse omgivelser"
+  },
+  "folderContent": {
+    "underThisFolder": "i denne mappen"
+  },
+  "footer": {
+    "createdWith": "Lagd med"
+  },
+  "graph": {
+    "graphView": "Notatkart"
+  },
+  "head": {
+    "noDescriptionProvided": "Uten beskrivelse",
+    "untitled": "Uten navn"
+  },
+  "recentNotes": {
+    "seeRemainingMore": "See {{remaining}} more"
+  },
+  "search": "Søk",
+  "tableOfContent": "Innholdsfortegnelse",
+  "tagContent": {
+    "showingFirst": "Viser først",
+    "totalTags": "alle emneknagger",
+    "withThisTag": "med denne emneknaggen",
+    "found": "Fant"
+  }
+}

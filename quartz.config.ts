@@ -9,6 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+    locale: "no-NB",
     baseUrl: "www.simenskriver.no",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
