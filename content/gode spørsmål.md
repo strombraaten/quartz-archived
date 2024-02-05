@@ -17,6 +17,8 @@ Dette er en liste jeg kommer til å oppdatere i ny og ne, men hvor du gjerne må
 - Er det noe bra du kan trekke ut fra tider hvor du har vært nedfor?
 - Hvilke av dine egne egenskaper tror du at du tar for gitt, men som er vanskeligere for andre?
 	- Sagt på en annen måte, hva tror du er lett for din egen del, men som kanskje er vanskeligere for andre?
+- Hvordan skaper du ditt eget stress?
+	- Hva er det du gjør i hverdagen som spinner opp masse greier som gjør det vanskelig for framtids-deg å ta stilling til?
 
 ### Innspill fra lesere (som deg)
 
